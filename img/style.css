@@ -80,8 +80,9 @@ div.swatch2 {
     align: left;
     display: inline-block;
 }
-table.header { background-image: url(img/cream_dust.png);
-               margin-bottom: 10px;}
+table.header { margin-top: 20px; 
+	       background-image: url(img/cream_dust.png);
+               margin-bottom: 20px;}
 .swatch1 a:link    {color: white; text-decoration: none; }
 .swatch1  a:hover   {color: white; text-decoration: underline; }
 .swatch1  a:visited {color: white; text-decoration: none; }
