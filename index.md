@@ -9,11 +9,11 @@ layout: page
 
 ##  New Job!
 
-
+_Aug1'14_
 
 <img class=stand align=right width=300 src="img/pool.png">
 
-_Aug1'14_
+
 
 Full Prof, CS, NcState. They offered me and Helen tenured joint appointments,  more $$$, less teaching, same ranks. Pause. All right then.  
 
