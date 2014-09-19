@@ -12,7 +12,7 @@ layout: page
 _Aug1'14_
 
 
-Prof, CS, NcState, Aug1'14. They offered me and Helen tenured joint appointments,  more $$$, less teaching, same ranks. Pause. All right then.  
+Full Prof, CS, NcState. They offered me and Helen tenured joint appointments,  more $$$, less teaching, same ranks. Pause. All right then.  
 
 <img align=right width=300 src="img/pool.png">
 
