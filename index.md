@@ -14,7 +14,7 @@ _Sep15'14_
 Coming soon to an Amazon near you (first one, maybe even in 2014):
 
 <center>
-<img class=stand  width=20 src="img/shareBookCover.png">
+<img class=stand  width=200 src="img/shareBookCover.png">
 <img class=stand  width=200 src="img/asdbookCover.png">
 
 </center>
