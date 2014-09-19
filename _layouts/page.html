@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>CSS Portal - Layout</title>
+<title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+
 <!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
  <meta charset="utf-8"/>
-        <title>{% if page.title %} {{ page.title }} | {% endif %} {{ site.name }}</title>
+        
         <link rel="stylesheet" href="{{site.baseurl}}/img/style.css" />
         <meta name="description" content="{{site.description}}"/>
         <meta name="author" content="{{site.author}}"/>
@@ -54,7 +55,9 @@ class="swatch1"><a href="teaching.html">Teaching</a></div><div
 class="swatch2"><a href="http://helenburgess.com/">Helen</a></div>
 </center>
 
+<div class=content>
 {{{content}}}
+<div>
 
 </body>
 </html>
