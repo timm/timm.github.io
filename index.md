@@ -7,7 +7,7 @@ layout: page
 
 ## New Job!
 
-Prof, CS, NcState
+Prof, CS, NcState, Aug1'14. They offered me and Helen tenured joint appointments,  more $$$, less teaching, same ranks. Pause. All right then.  
 
 ## Wanted: grad students!
 
