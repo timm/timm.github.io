@@ -15,7 +15,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Corben', Georgia, Times, serif;
 }
 h1 { color: #CC0303;
-     margin-top: 0px;
+     margin-top: 30px;
      font-weight: bold;
      margin-bottom: 0px;
      padding-top: 0px;
@@ -95,6 +95,16 @@ table.header { align:center;
 .red a:hover   {color: #CC0303;   text-decoration: underline; }
 .red a:visited {color: #CC0303;  text-decoration: none; }
 
+pre {   padding: 0.1em 0.5em 0.3em 0.7em;
+	border: 1px dashed #CC0303;
+	border-left: 11px solid #CC0303;
+	margin: 5px;
+	overflow: auto; 
+	 white-space: pre-wrap;
+ white-space: -moz-pre-wrap;
+ white-space: -o-pre-wrap;
+ background: #faf8f0;
+}
 
 .hll { background-color: #ffffcc }
 .c { color: #408080; font-style: italic } /* Comment */
