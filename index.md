@@ -8,7 +8,7 @@ layout: page
 <tr><td valign=center>
 <img src="http://pbs.twimg.com/profile_images/434188416268251136/5BvzppBK_normal.jpeg"></td><td>
 I seek 4 talented grad students (Ph.D.
-strongly preferred, or Masters). Topic areas: AI and SE. To apply,  come talk to me! 
+strongly preferred, or Masters). Topic areas: AI and SE. To apply, come talk! 
 </td></tr></table></center>
 
 <hr>
