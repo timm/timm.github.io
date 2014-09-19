@@ -37,7 +37,7 @@ h2 {
     text-shadow: 2px 2px 2px #ccc;
 }
 tr.row0    { background-color: LightGray;  }
-img.stand  { margin:2px; padding: 3px; box-shadow: 0 0 1em 1em #ccc; }
+img.stand  { margin:3px; padding: 2px; box-shadow: 0 0 1em 1em #ccc; }
 table      { box-shadow: 0 0 1em 1em #ccc; }
 p.gray     { margin-top: 2px;
              font-size: small; 
