@@ -3,7 +3,7 @@ title: Home
 layout: page
 ---
 
-<center><table width=500>
+<center><table width=4500>
 <tr><td valign=center>
 <img src="http://pbs.twimg.com/profile_images/434188416268251136/5BvzppBK_normal.jpeg"></td><td align=center>
 <em>I seek 4 talented grad students (Ph.D.
