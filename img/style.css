@@ -98,7 +98,7 @@ table.header { align:center;
 pre {   padding: 0.1em 0.5em 0.3em 0.7em;
 	border: 1px dashed #CC0303;
 	border-left: 11px solid #CC0303;
-	margin: 1.7em 0 1.7em 0.3em;
+	margin: 1.7em 1.7 1.7em 1.7em;
 	overflow: auto;
 	 background-color: #eee;
 }
