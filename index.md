@@ -11,7 +11,7 @@ I seek 4 talented grad students (Ph.D.
 strongly preferred, or Masters). Topic areas: AI and SE. To apply, come talk! 
 </td></tr></table></center>
 
-<hr>
+
 
 ## New Books!
 
