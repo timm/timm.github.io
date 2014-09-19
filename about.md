@@ -47,7 +47,7 @@ his [list of publications](<http://scholar.google.com/citations?user=Qmuz0WAAAAA
 of publications.
 
 <hr>
-<h2 id="about-me">About he</h2>
+<h2 id="about-me">More Stuff...</h2>
 <dl>
 <dt class=red><a href="http://en.wikipedia.org/wiki/H-index#Definition_and_purpose">H</a> index (a.k.a. academia's <a href="http://goo.gl/q4NZuu">American Idol</a>):</dt>
 <dd><a href="http://goo.gl/Pq0knm">35</a> </dd>
