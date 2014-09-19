@@ -95,6 +95,13 @@ table.header { align:center;
 .red a:hover   {color: #CC0303;   text-decoration: underline; }
 .red a:visited {color: #CC0303;  text-decoration: none; }
 
+pre {   padding: 0.1em 0.5em 0.3em 0.7em;
+	border: 1px dashed #6DAB24;
+	border-left: 11px solid #6DAB24;
+	margin: 1.7em 0 1.7em 0.3em;
+	overflow: auto;
+	 background-color: #ddd;
+}
 
 .hll { background-color: #ffffcc }
 .c { color: #408080; font-style: italic } /* Comment */
