@@ -1,6 +1,6 @@
 ---
 title: Blogging Like a Hackereree
-layout: post
+layout: page
 ---
 
 Hello everyonely 123
