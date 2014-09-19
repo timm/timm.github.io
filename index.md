@@ -12,7 +12,7 @@ layout: page
 
 Prof, CS, NcState, Aug1'14. They offered me and Helen tenured joint appointments,  more $$$, less teaching, same ranks. Pause. All right then.  
 
-And we could find a house with a nice pool out back. And there is nothing an ozzie likes more than an oasis in his outback.<img align=right width=300 src="img/pool.png">
+<img align=right width=300 src="img/pool.png">And we could find a house with a nice pool out back. And there is nothing an ozzie likes more than an oasis in his outback.<br clear=all>
 
 ## Wanted: grad students!
 
