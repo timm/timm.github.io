@@ -4,9 +4,10 @@ layout: page
 ---
 
  
-
+<hr>
+<img align=left src="http://pbs.twimg.com/profile_images/434188416268251136/5BvzppBK_normal.jpeg">
 *Wanted: grad students!* I am looking for 3 talented grad students (Ph.D., preferred, or Masters). Topic areas relate to AI and SE. To apply,  come talk to me! 
-
+<hr>
 
 # News
 
