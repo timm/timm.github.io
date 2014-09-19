@@ -6,7 +6,7 @@ layout: page
 <center><table>
 <tr><td valign=center>
 <img src="http://pbs.twimg.com/profile_images/434188416268251136/5BvzppBK_normal.jpeg"></td><td align=center>
-<em>I seek 4 talented grad students (Ph.D.
+<em>I seek 4 talented grad students<br>(Ph.D.
 strongly preferred).<br>Topic areas: AI and SE. <br>To apply, come talk! </em>
 </td><td valign=center>
 <img src="http://pbs.twimg.com/profile_images/434188416268251136/5BvzppBK_normal.jpeg"></td></tr></table></center>
