@@ -1,14 +1,17 @@
 ---
-title: Blogging Like a Hackereree
+title: Home
 layout: page
 ---
 
-# Hello everyonely 123
+# News
 
-+ egrely
-+ ghere
+## New Job!
 
-~~~ python
-def aa(x): #12
-  return x+1 #werwewew ing
-~~~
+Prof, CS, NcState
+
+## Wanted: grad students!
+
+I am looking for 3 talented grad students (Ph.D., preferred, or Masters). Topic areas relate to AI and SE. To apply,  come talk to me! 
+
+
+ 
