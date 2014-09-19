@@ -31,7 +31,7 @@ url: "http://timm.github.io"
 # If you don't have it install it via gem install rdiscount
 #markdown: kramdown 
 markdown: rdiscount
-pygments:    true
+pygments: true
 
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
 permalink: pretty
