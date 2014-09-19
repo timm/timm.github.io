@@ -3,11 +3,11 @@ title: Home
 layout: page
 ---
 
-<center><table width=450>
+<center><table>
 <tr><td valign=center>
 <img src="http://pbs.twimg.com/profile_images/434188416268251136/5BvzppBK_normal.jpeg"></td><td align=center>
 <em>I seek 4 talented grad students (Ph.D.
-strongly preferred).Topic areas: AI and SE. To apply, come talk! </em>
+strongly preferred).<br>Topic areas: AI and SE. <br>To apply, come talk! </em>
 </td><td valign=center>
 <img src="http://pbs.twimg.com/profile_images/434188416268251136/5BvzppBK_normal.jpeg"></td></tr></table></center>
 
