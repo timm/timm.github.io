@@ -11,7 +11,7 @@ layout: page
 
 
 
-<img align=right width=300 src="img/pool.png">
+<img class=stand align=right width=300 src="img/pool.png">
 
 _Aug1'14_
 
