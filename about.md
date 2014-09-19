@@ -66,7 +66,7 @@ of publications.
 <dd>Two of my papers are
 the <a href="http://goo.gl/gOgUB">first</a> and
 <a href="http://goo.gl/Gv6N6l">third</a> most cited
-papers  since 2008.</dd>
+papers  since 2008 in IEEE Trans on SE and the Empirical Software Engineering journal (respectively).</dd>
 <dt class=red>Associate Editor:</dt>
 <dd>IEEE Transactions on Software Engineering;<br />
 Automated Software Engineering; <br />
