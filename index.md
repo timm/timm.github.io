@@ -11,11 +11,12 @@ layout: page
 
 _Sep15'14_
 
-Coming soon to an Amazon near you:
+Coming soon to an Amazon near you (first one, maybe even in 2014):
 
 <center>
-<img class=stand  width=250 src="img/asdbookCover.png">
 <img class=stand  width=250 src="img/shareBookCover.png">
+<img class=stand  width=250 src="img/asdbookCover.png">
+
 </center>
 <br clear=all>
 
