@@ -3,7 +3,9 @@ title: Home
 layout: page
 ---
 
-<hr># News
+<hr>
+
+# News
 
 ## New Job!
 
