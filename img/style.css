@@ -96,11 +96,11 @@ table.header { align:center;
 .red a:visited {color: #CC0303;  text-decoration: none; }
 
 pre {   padding: 0.1em 0.5em 0.3em 0.7em;
-	border: 1px dashed #6DAB24;
-	border-left: 11px solid #6DAB24;
+	border: 1px dashed #CC0303;
+	border-left: 11px solid #CC0303;
 	margin: 1.7em 0 1.7em 0.3em;
 	overflow: auto;
-	 background-color: #ddd;
+	 background-color: #eee;
 }
 
 .hll { background-color: #ffffcc }
