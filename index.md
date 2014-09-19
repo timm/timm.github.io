@@ -7,6 +7,17 @@ layout: page
 
 # News
 
+## New Books!
+
+_Sep15'14_
+
+Coming soon to an Amazon near you:
+
+<center>
+<img class=stand align=right width=150 src="img/asdbookCover.png">
+<img class=stand align=right width=150 src="img/shareBookCover.png">
+</center>
+
 ##  New Job!
 
 _Aug1'14_
