@@ -14,7 +14,7 @@ Prof, CS, NcState, Aug1'14. They offered me and Helen tenured joint appointments
 
 <img align=right width=300 src="img/pool.png">
 
-And we could find a house with a nice pool out back. And there is nothing an ozzie likes more than an oasis in his outback.<br clear=all>
+We found a house with a nice pool out back. Just want every ozzie wants:  an oasis in his outback.<br clear=all>
 
 ## Wanted: grad students!
 
