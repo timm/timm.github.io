@@ -8,7 +8,7 @@ Hello everyone
 + egre
 + ghere
 
-```python
+{% highlight python %}
 def aa(x):
    return x+1 #werwewew
-```
+{% endhighlight  %}
