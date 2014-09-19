@@ -11,10 +11,11 @@ layout: page
 
 _Aug1'14_
 
+<img align=right width=300 src="img/pool.png">
 
 Full Prof, CS, NcState. They offered me and Helen tenured joint appointments,  more $$$, less teaching, same ranks. Pause. All right then.  
 
-<img align=right width=300 src="img/pool.png">
+
 
 We found a house with a nice pool out back. Just want every ozzie wants:  an oasis in his outback.<br clear=all>
 
