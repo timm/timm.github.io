@@ -8,7 +8,7 @@ Hello everyone
 + egre
 + ghere
 
-~~~ python
+```python
 def aa(x):
    return x+1
-~~~
+```
