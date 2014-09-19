@@ -3,7 +3,6 @@ title: Home
 layout: page
 ---
 
-<hr>
 <center><table width=500>
 <tr><td valign=center>
 <img src="http://pbs.twimg.com/profile_images/434188416268251136/5BvzppBK_normal.jpeg"></td><td>
