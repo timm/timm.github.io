@@ -5,6 +5,9 @@ layout: page
 
  
 
+*Wanted: grad students!* I am looking for 3 talented grad students (Ph.D., preferred, or Masters). Topic areas relate to AI and SE. To apply,  come talk to me! 
+
+
 # News
 
 ## New Books!
@@ -33,10 +36,4 @@ Full Prof, CS, NcState. They offered me and Helen tenured joint appointments,  m
 
 
 We found a house with a nice pool out back. Just want every ozzie wants:  an oasis in his outback.<br clear=all>
-
-##Wanted: grad students!
-
-_Aug1'14_
-
-I am looking for 3 talented grad students (Ph.D., preferred, or Masters). Topic areas relate to AI and SE. To apply,  come talk to me! 
 
