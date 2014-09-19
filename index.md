@@ -14,8 +14,8 @@ _Sep15'14_
 Coming soon to an Amazon near you:
 
 <center>
-<img class=stand align=right width=250 src="img/asdbookCover.png">
-<img class=stand align=right width=250 src="img/shareBookCover.png">
+<img class=stand  width=250 src="img/asdbookCover.png">
+<img class=stand  width=250 src="img/shareBookCover.png">
 </center>
 <br clear=all>
 
