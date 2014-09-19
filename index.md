@@ -3,7 +3,6 @@ title: Home
 layout: page
 ---
 
-&nbsp;  
 
 <center><table width=500>
 <tr><td valign=center>
