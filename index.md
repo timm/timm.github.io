@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+title: Blogging Like a Hackereree
 ---
 
 Hello everyone
