@@ -3,7 +3,7 @@ title: Pdf file archive
 layout: page
 ---
 
-<img src="{{site:base-url}}/img/pdfdownload.jpg" width=300>
+<img align=right src="{{site:base-url}}/img/pdfdownload.jpg" width=300>
 
 For more information of these files, [see here](http://goo.gl/BORLn4).
 
