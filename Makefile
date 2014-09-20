@@ -32,4 +32,4 @@ pdf.md : pdf/*
 	@echo 'layout: page' >> $@
 	@echo '---' >> $@		
 	@echo '' >> $@		
-	@$(foreach f, $(shell ls pdf/*.pdf),echo '+ [$(basename $f)]({{site:base-url}}/$f)' >> $@;)
+	@$(foreach f, $(shell ls pdf/*.pdf),echo '+ [$(notdir $f)]({{site:base-url}}/$f)' >> $@;)
