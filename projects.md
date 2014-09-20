@@ -9,7 +9,7 @@ _2013 -- 2017_
 
 NSF, SHF: Medium: Collaborative, #1302216
 
-<img align=right src="{{site.url}}/img/nsf1v.jpg">
+<img align=right src="{{site.baseurl}}/img/nsf1v.jpg">
 
 The goal of the research is to enable software engineers to find software development best practices from past empirical data. The increasing availability of software development project data, plus new machine learning techniques, make it possible for researchers to study the generalizability of results across projects using the concept of transfer learning. Using data from real software projects, the project will determine and validate best practices in three areas: predicting software development effort; isolating software detects; effective code inspection practices.
 
