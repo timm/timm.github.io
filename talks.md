@@ -58,7 +58,7 @@ allowfullscreen> </iframe>
 <dt>
 Sept 2008:
 <dd>
-For Google:    
+For Google:<br>
 <iframe width="427" height="356" src="//www.youtube.com/embed/vrvRsZsoMp8" frameborder="0" allowfullscreen></iframe>
 
 </dl>
