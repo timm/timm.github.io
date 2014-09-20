@@ -99,7 +99,7 @@ pre {   padding: 0.1em 0.5em 0.3em 0.7em;
 	border: 1px dashed #CC0303;
 	border-left: 11px solid #CC0303;
 	margin: 5px;
-	overflow: auto; 
+	xoverflow: auto; 
 	 white-space: pre-wrap;
  white-space: -moz-pre-wrap;
  white-space: -o-pre-wrap;
