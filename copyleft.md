@@ -1,6 +1,6 @@
 ---
 title: Copyright nove
-layout: post
+layout: page
 ---
 
 <table>
