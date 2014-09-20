@@ -30,6 +30,10 @@ pdf.md : pdf/*
 	@echo '---' > $@
 	@echo 'title: Pdf file archive' >> $@
 	@echo 'layout: page' >> $@
-	@echo '---' >> $@		
-	@echo '' >> $@		
+	@echo '---' >> $@	
+	@echo '' >> $@	
+	@echo '<img src="{{site:base-url}}/img/pdfdownload.jpg" width=300>'	 >> $@
+	@echo '' >> $@
+	@echo 'For more information of these files, [see here](http://goo.gl/BORLn4).' >> $@
+	@echo '' >> $@
 	@$(foreach f, $(shell ls pdf/*.pdf),echo '+ [$(notdir $f)]({{site:base-url}}/$f)' >> $@;)
