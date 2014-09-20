@@ -3,9 +3,8 @@ title: Pdf file archive
 layout: page
 ---
 
-<img width=100 align=right  src="{{site:base-url}}/img/pdfdownload.jpg" >
-
-For more information of these files, [see here](http://goo.gl/BORLn4).
+<img width=100 align=left  src="{{site:base-url}}/img/pdfdownload.jpg" >
+For more information of these files, [see here](http://goo.gl/BORLn4).<br clear=all>
 
 + [00101Bapp.pdf]({{site:base-url}}/pdf/00101Bapp.pdf)
 + [00ase.pdf]({{site:base-url}}/pdf/00ase.pdf)
