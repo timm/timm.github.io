@@ -32,7 +32,7 @@ pdf.md : pdf/*
 	@echo 'layout: page' >> $@
 	@echo '---' >> $@	
 	@echo '' >> $@	
-	@echo '<img width=200 align=right  src="{{site:base-url}}/img/pdfdownload.jpg" >'	 >> $@
+	@echo '<img width=100 align=right  src="{{site:base-url}}/img/pdfdownload.jpg" >'	 >> $@
 	@echo '' >> $@
 	@echo 'For more information of these files, [see here](http://goo.gl/BORLn4).' >> $@
 	@echo '' >> $@
