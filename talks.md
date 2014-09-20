@@ -29,12 +29,9 @@ target="_blank">CS, NcState</a></strong> </div --->
 <!--- div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/timmenzies/metrics-matter" title="What Metrics Matter? " target="_blank">What Metrics Matter? </a> </strong> from <strong><a href="http://www.slideshare.net/timmenzies" target="_blank">CS, NcState</a></strong> </div ---!>
 
 <dt>June 2013: 
-<dd>For IEEE Software: 
-<a href="http://www.youtube.com/watch?v=nO6X0azR0nw">Software analytics, so what?</a>
+<dd>For IEEE Software:
+<iframe width="427" height="356" src="//www.youtube.com/embed/nO6X0azR0nw" frameborder="0" allowfullscreen></iframe>
 
-<p>
-<a href="http://www.youtube.com/watch?v=nO6X0azR0nw"><img 
-	src="img/talk-ieee.png" width=200></a>
 
 
 <dt>Jan 2013:
