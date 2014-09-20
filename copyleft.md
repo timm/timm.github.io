@@ -20,7 +20,6 @@ might as well not exist.
 </td><td>
 <tiny>
 <pre>
-  
                                              ,:  
                                            ,' |   
                                           /   :  
@@ -54,6 +53,5 @@ might as well not exist.
    ( 8)  ( _.aP" _a   \ ( \   *  
  +  )/    (8P   (88    )  )  
     (a:f   "     `"       `  
-  
 </pre>  
 </td></tr></table>  
