@@ -32,7 +32,7 @@ pdf.md : pdf/*
 	@echo 'layout: page' >> $@
 	@echo '---' >> $@	
 	@echo '' >> $@	
-	@echo '<img width=100 align=left  src="{{site:base-url}}/img/pdfdownload.jpg" >'	 >> $@
+	@echo '<img width=100 align=middle  src="{{site:base-url}}/img/pdfdownload.jpg" >'	 >> $@
 	@echo 'For more information of these files, [see here](http://goo.gl/BORLn4).<br clear=all>' >> $@
 	@echo '' >> $@
 	@$(foreach f, $(shell ls pdf/*.pdf),echo '+ [$(notdir $f)]({{site:base-url}}/$f)' >> $@;)
