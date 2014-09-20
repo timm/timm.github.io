@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-<img align=right class=stand  src="{{site.url}}/img/paretocup.png">
+<img align=right  width=300 src="{{site.url}}/img/paretocup.png">
 
 
 
