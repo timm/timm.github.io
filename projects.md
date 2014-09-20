@@ -137,7 +137,7 @@ cases, LACE2 lead to better defect predictors).
 
 ## 40 Years of Parametric Effort Estimation: A Report Card on COCOMO-style Research
 
-with _Barry Boehm†, Ye Yang, Jairus Hihn,_ from USC, Stevens Institute,  JPL
+with _Barry Boehm, Ye Yang, Jairus Hihn,_ from USC, Stevens Institute,  JPL
 
 <img align=right width=300 src="{{site.baseurl}}/img/cocreport.png">
 The longevity of parametric effort estimation is
