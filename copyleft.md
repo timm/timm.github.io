@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-<img align=right src="http://media-cache-ec0.pinimg.com/236x/e8/88/45/e888451bae75f8dad72c201d207eb140.jpg">
+<img class=stand align=right src="http://media-cache-ec0.pinimg.com/236x/e8/88/45/e888451bae75f8dad72c201d207eb140.jpg">
 <em>
 Lessig and company have taught me that content's
 value can lie in what it spawns and inspires. Locked
