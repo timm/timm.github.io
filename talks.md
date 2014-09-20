@@ -24,7 +24,9 @@ target="_blank">CS, NcState</a></strong> </div --->
 
 <dt>June 2014:
 <dd>
-<iframe src="//www.slideshare.net/slideshow/embed_code/35231172" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <!--- div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/timmenzies/metrics-matter" title="What Metrics Matter? " target="_blank">What Metrics Matter? </a> </strong> from <strong><a href="http://www.slideshare.net/timmenzies" target="_blank">CS, NcState</a></strong> </div --->
+<iframe src="//www.slideshare.net/slideshow/embed_code/35231172" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+<!--- div style="margin-bottom:5px"> <strong> <a href="https://www.slideshare.net/timmenzies/metrics-matter" title="What Metrics Matter? " target="_blank">What Metrics Matter? </a> </strong> from <strong><a href="http://www.slideshare.net/timmenzies" target="_blank">CS, NcState</a></strong> </div --->
 
 <dt>June 2013: 
 <dd>For IEEE Software: 
