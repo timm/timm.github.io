@@ -106,6 +106,69 @@ As shown here, better and faster optimizers can be
 built when designers take full advantage of
 naturally occurring domain constraints.
 
+## LACE2: Better Privacy-Preserving Data Sharing for Cross Project Defect Prediction
+
+with _Fayola Peters_, Lero, Irish SE Research Centre
+
+<img align=right width=300 src="{{site.baseurl}}/img/lace.png">
+Before a community can learn general principles, it
+must share individual experiences. A wide range of
+privacy con- siderations complicates sharing of data
+in software engineering. Prior work on secure data
+sharing allowed data owners to share their data on a
+single-party basis.
+
+LACE2 extends that work by considering multi-party
+data sharing where data owners incrementally add
+data to a cache passed between them. Only a portion
+of local data is added to this cache: the
+“interesting” data that are not similar to the
+current contents of the cache. Also, before data
+owner i passes the cache to data owner j, privacy is
+preserved by applying obfuscation algorithms to hide
+project details.
+
+The experiments of this research show that (a) LACE2 is
+comparatively less expensive than the single-party
+approach and (b) the multi-party approach of LACE2
+yields higher privacy than the prior approach
+without damaging predictive power (indeed, in some
+cases, LACE2 lead to better defect predictors).
+
+## 40 Years of Parametric Effort Estimation: A Report Card on COCOMO-style Research
+
+with _Barry Boehm†, Ye Yang, Jairus Hihn,_ from USC, Stevens Institute,  JPL
+
+<img align=right width=300 src="{{site.baseurl}}/img/cocreport.png">
+The longevity of parametric effort estimation is
+remarkable. Decades after their invention, these
+methods are still both widely used and widely
+useful.
+
+This research reviews the standard criticisms of this
+approach. We find that, contrary to common
+criticisms, (1) parametric estimation has not been
+superseded by more recent estimation methods; (2) it
+is not true that parametric estimation is no better
+than simplistic lines of code counts; (3) the old
+parametric calibration data is still relevant to
+more recent projects; (4) parametric estimation need
+not be expensive to deploy at some new site since
+these these methods can be tuned on very small
+sample sizes (in our experiments, a mere eight
+projects is enough); and (5) compared to other
+methods, parametric estimation is not unduly
+sensitive to errors in the size estimates.
+
+Hence we conclude that, in 2015, is still valid and
+recommended practice to try parametric estimation
+before exploring other, more innovative
+methods. Also, it can be useful to augment
+parametric estimation with (a) some local
+calibration and (b) some column pruning (examples of
+those techniques are discussed in this research).
+
+
 
 ## Cross Trees: Visualizing Estimations using Decision Trees
 
