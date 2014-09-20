@@ -3,10 +3,10 @@ title: Copyright notice
 layout: page
 ---
 
-<table><tr><td>
-<img class=stand  src="http://media-cache-ec0.pinimg.com/236x/e8/88/45/e888451bae75f8dad72c201d207eb140.jpg">
-</td>
-<td>
+
+<img align=right class=stand  src="{{site.url}}/img/paretocup.png">
+
+
 
 <em>
 Lessig and company have taught me that content's
@@ -27,4 +27,4 @@ correction, inspiration, and use.
 
 -- [Jeff Varvis](<http://buzzmachine.com/2013/01/12/learning-the-true-value-of-content-from-aaron-swartz)
 
-</td></tr></table>
+
