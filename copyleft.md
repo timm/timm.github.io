@@ -1,5 +1,5 @@
 ---
-title: Copyright notice
+title: Copy-left-right-out notice
 layout: page
 ---
 
