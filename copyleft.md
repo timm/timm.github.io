@@ -1,10 +1,10 @@
 ---
-title: Copyright nove
+title: Copyright notice
 layout: page
 ---
 
 <table>
-<tr><td width="40%">
+<tr><td width="30%">
 <em>
 <p>Lessig and company have taught me that content's
 value can lie in what it spawns and inspires. Locked
