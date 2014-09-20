@@ -30,7 +30,8 @@ Coming soon to an Amazon near you (first one, maybe even in 2014):
 
 _Aug1'14_
 
-<img class=stand align=right width=300 src="img/pool.png">
+<a href="img/pool.png">
+<img class=stand align=right width=300 src="img/pool.png"></a>
 
 
 
