@@ -1,6 +1,6 @@
 ---
 title: Current research projects
-layout: post
+layout: page
 ---
 
 ## Transfer Learning in Software Engineering
