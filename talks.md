@@ -58,10 +58,7 @@ allowfullscreen> </iframe>
 <dt>
 Sept 2008:
 <dd>
-For Google: 
-<a href="http://www.youtube.com/watch?v=vrvRsZsoMp8&eurl=http://menzies.us/">
-Learning Defect Predictors from Static Code Attributes: Lessons from the Tren...<.a>
+For Google:  
+<iframe width="427" height="356" src="//www.youtube.com/embed/vrvRsZsoMp8" frameborder="0" allowfullscreen></iframe>
 
-<p>
-<a href="http://goo.gl/cxct0H"><img 
-	src="img/talk-google.png" width=200></a>
+</dl>
