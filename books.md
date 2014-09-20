@@ -4,7 +4,7 @@ layout: page
 ---
 
 
-# New Books!
+
 
 Coming soon to an Amazon near you (first one, maybe even in 2014):
 

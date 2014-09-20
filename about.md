@@ -3,7 +3,7 @@ title: About me
 layout: page
 ---
 
-# About me
+
 
 ## Full CV
 
