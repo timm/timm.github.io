@@ -27,7 +27,7 @@ allowfullscreen> </iframe>
 
 
 <dt>June 2013: 
-<dd>For IEEE Software:
+<dd>For IEEE Software:   
 <iframe width="427" height="356" src="//www.youtube.com/embed/nO6X0azR0nw" frameborder="0" allowfullscreen></iframe>
 
 
