@@ -9,6 +9,13 @@ layout: page
 
 
 <em>
+
+Don't worry about people stealing an idea. If it's original, you will have to ram it down their throats.
+
+-- [Howard Aiken](http://en.wikipedia.org/wiki/Howard_H._Aiken)
+
+____
+
 Lessig and company have taught me that content's
 value can lie in what it spawns and inspires. Locked
 away, unseen, unused, not discussed, not linked, it
