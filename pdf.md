@@ -4,7 +4,7 @@ layout: page
 ---
 
 <img width=100 align=middle  src="{{site:base-url}}/img/pdfdownload.jpg" >
-For more information of these files, [see here](http://goo.gl/BORLn4).<br clear=all><hr>
+For more information on any of these files, [please see here](http://goo.gl/BORLn4).<br clear=all><hr>
 
 + [00101Bapp.pdf]({{site:base-url}}/pdf/00101Bapp.pdf)
 + [00ase.pdf]({{site:base-url}}/pdf/00ase.pdf)
