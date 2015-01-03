@@ -2,18 +2,25 @@
 tocoff: yes
 ---
 
-<a href="img/timmBig.jpg"><img  height=400 id=pad src="img/timm.jpg"></a>
-Hello! So I'm this   full (fool) Professor in CS  working on
-SE, data mining, AI  optimization,
-and search-based SE, and better methods for open access science.
+<a href="img/timmBig.jpg"><img height=400 id=pad
+src="img/timm.jpg"></a> In my time, I've been a
+nurse/ taxi-driver/ rocket scientist/ newspaper
+editor/ lecturer....  (what can I say? It all made
+sense at the time).
+
+Right now, I am a full (?fool) Professor in CS working
+on SE, data mining, AI optimization, and
+search-based SE, and better methods for open access
+science.
 
 I teach software engineering (in the spring) and automated software engineering (in the fall).
 
-I run the [RAISE lab](http://ai4se.net) (real world AI for software engineering) and the [PROMISE repository](http://openscience.us/repo) (storage for SE project data).
+I run the [RAISE lab](http://ai4se.net) (real world
+AI for software engineering) and the
+[PROMISE repository](http://openscience.us/repo)
+(storage for SE project data).
 
-
-Right now, I am on the PCs 
-of 
+Right now, I am on a bunch of conference program committees:
 [Icse'16](http://2016.icse.cs.txstate.edu/team/organizing-committee),
 [Ase'15](http://ase2015.unl.edu/#tab-committee),
 [Fse'15](http://esec-fse15.dei.polimi.it/committee.html),
@@ -29,7 +36,6 @@ and Empirical SE;
 co-general-chair of
 ICSME'16; co-pc-chair of ICSE NIER'15;
 and serve on ASE conference  steering committee.
-
 
 Over my career, I've won over $7M 
 in grants and supervised 7+23  Ph.D.+masters students.
@@ -66,12 +72,15 @@ I got to NcState after a
 Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade).
 Then there was some free lance research for two years at Portland followed by a stint at West Virginia University (go 'eers).
 
+<img src="img/helen.png" id=pad>
 I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
 
 
+### Brief Bio ###
 
 <img src="http://ai4se.net/img/timm.png" id=pad>
-If you need a bio for me, then here's some text and a pic:
+If you need a bio for me, then here's some text and a pic. If you need the whole story, please look at my [CV](pdf/cv.pdf).
+
 
 ```
 Tim Menzies (Ph.D., UNSW, 1995) is a full Professor
