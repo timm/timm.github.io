@@ -72,13 +72,13 @@ I got to NcState after a
 Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade).
 Then there was some free lance research for two years at Portland followed by a stint at West Virginia University (go 'eers).
 
-<img src="img/helen.png" id=pad>
-I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
+<img src="img/helen.png" width=100 id=pad>
+I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....<br clear=all>
 
 
 ### Brief Bio ###
 
-<img src="http://ai4se.net/img/timm.png" id=pad>
+<img width= 100 src="http://ai4se.net/img/timm.png" id=pad>
 If you need a bio for me, then here's some text and a pic. If you need the whole story, please look at my [CV](pdf/cv.pdf).
 
 
