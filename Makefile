@@ -15,6 +15,18 @@ update:
 status:
 	- git status
 
+%.html : src/%.md
+	pandoc -s  --toc  \
+	    --highlight-style=pygments \
+	    --template=etc/template.html \
+	    -o $@ $<
+
+%.html : src/%.html
+	pandoc -s  --toc  \
+	    --highlight-style=pygments \
+	    --template=etc/template.html \
+	    -o $@ $<
+
 markup:
 	@$(foreach  f, $(shell ls *.py), bash py2md $f --force ; )
 

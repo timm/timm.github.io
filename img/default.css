@@ -73,7 +73,7 @@ html>body #wrapper {
 	width: 800px;
 	height: 90px;
   padding-bottom: 3px;
-	background:#CC0303; xxx: 333333;
+	background:#C30800; xxx: 333333;
   font-size: 1em;
 	color: #D0D0D0;
 }
@@ -163,7 +163,7 @@ html>body #wrapper {
   padding-bottom: 5px;
 }
 
-.leftside_image {
+#pad  {
   float: left;
   margin-right: 15px;
   margin-bottom: 5px;
