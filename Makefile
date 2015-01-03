@@ -16,13 +16,13 @@ update:
 status:
 	- git status
 
-%.html : src/%.md
+%.html : src/%.md etc/template.html
 	pandoc -s --toc \
 	    --highlight-style=pygments \
 	    --template=etc/template.html \
 	    -o $@ $<
 
-%.html : src/%.html
+%.html : src/%.html etc/template.html
 	pandoc -s --toc  \
 	    --highlight-style=pygments \
 	    --template=etc/template.html \
