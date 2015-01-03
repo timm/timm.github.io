@@ -153,12 +153,14 @@ html>body #wrapper {
   line-spacing: 90%;
 }
 
+#content h1 { text-transform: uppercase;}
 #content h2 {
+    font-size: 25px;
 	margin-bottom: 1em;
 }
 
 #content h3 {
-    
+    font-size: 20px;
   font-size:1.25em;
 	margin-bottom: 0.25em;
 }
