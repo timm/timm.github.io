@@ -1,11 +1,9 @@
 Src=$(shell cd src; ls)
 
 
-all: htmls commit
 
-htmls: $(subst .md,.html,$(Src))
 
-commit: 
+commit: htmls
 	- git status
 	- git commit -am "stuff"
 	- git push origin master
@@ -15,6 +13,8 @@ update:
 
 status:
 	- git status
+
+htmls: $(subst .md,.html,$(Src))
 
 %.html : src/%.md etc/template.html
 	pandoc -s --toc \
