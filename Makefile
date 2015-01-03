@@ -2,7 +2,7 @@ markdown="../sbse14.wiki"
 
 all: publish commit
 
-commit: ready
+commit: #ready
 	- git status
 	- git commit -am "stuff"
 	- git push origin master
