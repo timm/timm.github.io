@@ -1,13 +1,14 @@
-markdown="../sbse14.wiki"
+Src=$(shell cd src; ls)
 
-all: publish commit
 
-commit: #ready
+all: htmls commit
+
+htmls: $(subst .md,.html,$(Src))
+
+commit: 
 	- git status
 	- git commit -am "stuff"
 	- git push origin master
-
-ready: pdf.md
 
 update:
 	- git pull origin master
@@ -16,22 +17,16 @@ status:
 	- git status
 
 %.html : src/%.md
-	pandoc -s  --toc  \
+	pandoc -s --toc \
 	    --highlight-style=pygments \
 	    --template=etc/template.html \
 	    -o $@ $<
 
 %.html : src/%.html
-	pandoc -s  --toc  \
+	pandoc -s --toc  \
 	    --highlight-style=pygments \
 	    --template=etc/template.html \
 	    -o $@ $<
-
-markup:
-	@$(foreach  f, $(shell ls *.py), bash py2md $f --force ; )
-
-publish: markup
-	cd $(markdown); git add *py.md; make commit
 
 files:
 	@echo "# Code:"

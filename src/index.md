@@ -1,0 +1,108 @@
+---
+tocoff: yes
+---
+
+<a href="img/timmBig.jpg"><img  height=400 id=pad src="img/timm.jpg"></a>
+Hello! So I'm this   full (fool) Professor in CS  working on
+SE, data mining, AI  optimization,
+and search-based SE, and better methods for open access science.
+
+I teach software engineering (in the spring) and automated software engineering (in the fall).
+
+I run the [RAISE lab](http://ai4se.net) (real world AI for software engineering) and the [PROMISE repository](http://openscience.us/repo) (storage for SE project data).
+
+
+Right now, I am on the PCs 
+of 
+[Icse'16](http://2016.icse.cs.txstate.edu/team/organizing-committee),
+[Ase'15](http://ase2015.unl.edu/#tab-committee),
+[Fse'15](http://esec-fse15.dei.polimi.it/committee.html),
+[Icpc'15](https://dibt.unimol.it/ICPC15/Home.html),
+[Msr'15](http://2015.msrconf.org/),
+[Ease'15](http://emse.nju.edu.cn/ease2015),
+[NasBase'15](http://nasbase.org/),
+[Raise'15](http://promisedata.org/raise/2015/index.html),
+[BigDSE'15](http://sse.uni-due.de/bigdse15). Also,
+I'm an associate editor of
+IEEE Trans on SE and Automated SE and 
+and Empirical SE;
+co-general-chair of
+ICSME'16; co-pc-chair of ICSE NIER'15;
+and serve on ASE conference  steering committee.
+
+
+Over my career, I've won over $7M 
+in grants and supervised 7+23  Ph.D.+masters students.
+I've written  230+ referred papers
+and am
+a top-100 most cited researcher
+[out of 80,000+ authors](http://goo.gl/BnFJs)
+(in SE, last 10 years).
+
+
+### News ###
+
++ **Dec 15**: ICSE accepts a paper with Fayola Peters on **LACE2**, a novel privacy-based transfer learner with some very nice properties
+  (minimal data shared, all data privatized, better defect predictors learned by sharing data than just using your own).
++ **Nov 15**: IEEE Trans on Human Factors accepts  a paper with Joe Krall on **GALE**, a novel _O(log(N))_ MOEA/D optimizer that uses active learning and a non-parametric response surface method to quickly learn the best direction for mutating examples.
+  GALE can find in minutes what other algorithms take hours to find.
++ **Oct 30**: Grant proposal submitted with Dr. Murphy Hill on a new generation journal/ repository.
+
+
+
+
+### Upcoming Books ###
+
+Coming soon to an bookstore near you (for the first one, [pre-orders](http://store.elsevier.com/Sharing-Data-and-Models-in-Software-Engineering/Tim-Menzies/isbn-9780124172951/) are now available):
+
+<center>
+<img  width=300 src="img/shareBookCover.png">  <img  width=300 src="img/asdbookCover.png">
+
+</center>
+
+### About me ###
+
+I got to NcState after a
+Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade).
+Then there was some free lance research for two years at Portland followed by a stint at West Virginia University (go 'eers).
+
+I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
+
+
+
+<img src="http://ai4se.net/img/timm.png" id=pad>
+If you need a bio for me, then here's some text and a pic:
+
+```
+Tim Menzies (Ph.D., UNSW, 1995) is a full Professor
+in CS at North Carolina State University where he
+teaches software engineering and automated software
+engineering His research relates to synergies
+between human and artificial intelligence, with
+particular application to data mining for software
+engineering.
+
+He is the author of over 230 referred publications;
+and is one of the 100 most cited authors in software
+engineering out of over 80,000 researchers
+(http://goo.gl/BnFJs).  In his career, he has been a
+lead researcher on projects for NSF, NIJ, DoD, NASA,
+USDA, as well as joint research work with private
+companies.
+
+Prof. Menzies is the co-founder of the PROMISE
+conference series devoted to reproducible
+experiments in software engineering
+(http://opeenscience.us/repo).  He is an associate
+editor of IEEE Transactions on Software Engineering,
+Empirical Software Engineering and the Automated
+Software Engineering Journal. In 2015, he will serve
+as co-chair for the ICSE'15 NIER track.
+
+For more information, see his vita
+(http://goo.gl/8eNhY) or his list of publications
+(http://scholar.google.com/citations?user=Qmuz0WAAAAAJ)
+of publications.
+```
+
+
