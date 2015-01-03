@@ -60,7 +60,7 @@ Coming soon to an bookstore near you (for the first one, [pre-orders](http://sto
 
 </center>
 
-### About me ###
+### More About Me ###
 
 I got to NcState after a
 Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade).
