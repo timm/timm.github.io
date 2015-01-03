@@ -75,7 +75,8 @@ Then there was some free lance research for two years at Portland followed by a 
 
 
 
-### Brief Bio ###
+<img src="img/helen.png" width=100 id=pad>
+I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....<br clear=all>
 
 <img width= 100 src="http://ai4se.net/img/timm.png" id=pad>
 If you need a bio for me, then here's some text and a pic. If you need the whole story, please look at my [CV](pdf/cv.pdf).
@@ -114,6 +115,4 @@ of publications.
 ```
 
 
-<img src="img/helen.png" width=100 id=pad>
-I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....<br clear=all>
 
