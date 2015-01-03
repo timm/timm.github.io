@@ -3,12 +3,8 @@ tocoff: yes
 ---
 
 <a href="img/timmBig.jpg"><img height=400 id=pad
-src="img/timm.jpg"></a> In my time, I've been a
-nurse/ taxi-driver/ rocket scientist/ newspaper
-editor/ lecturer....  (what can I say? It all made
-sense at the time).
-
-Right now, I am a full (?fool) Professor in CS working
+src="img/timm.jpg"></a> 
+I am a full (?fool) Professor in CS working
 on SE, data mining, AI optimization, and
 search-based SE, and better methods for open access
 science.
@@ -68,12 +64,15 @@ Coming soon to an bookstore near you (for the first one, [pre-orders](http://sto
 
 ### More About Me ###
 
+In my time, I've been a
+nurse/ taxi-driver/ rocket scientist/ newspaper
+editor/ lecturer....  (what can I say? It all made
+sense at the time).
+
 I got to NcState after a
 Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade).
 Then there was some free lance research for two years at Portland followed by a stint at West Virginia University (go 'eers).
 
-<img src="img/helen.png" width=100 id=pad>
-I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....<br clear=all>
 
 
 ### Brief Bio ###
@@ -114,4 +113,7 @@ For more information, see his vita
 of publications.
 ```
 
+
+<img src="img/helen.png" width=100 id=pad>
+I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....<br clear=all>
 
