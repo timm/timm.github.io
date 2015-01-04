@@ -84,6 +84,7 @@ html>body #wrapper {
 #header h1 {
 	float: left;
 	padding: 10px 0 0 15px;
+	padding-top: 0px;
          
 	font-size: 3em;
 	letter-spacing: -2px;
