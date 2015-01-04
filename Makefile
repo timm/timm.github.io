@@ -1,7 +1,11 @@
-Src=$(shell cd src; ls)
+Baked=.#
+Raw=.#
+Bake=.
+Htmls=$(subst .md,.html,$(Src))
+Template=$(Bake)/etc/template.html
+Hilite=pygments
 
-
-
+Src=$(shell cd $(Raw)/src; ls)
 
 commit: htmls
 	- git status
@@ -14,18 +18,18 @@ update:
 status:
 	- git status
 
-htmls: $(subst .md,.html,$(Src))
+htmls: $(Baked)/$(subst .html ,.html $(Baked)/,$(Htmls))
 
-%.html : src/%.md etc/template.html
+$(Baked)/%.html : $(Raw)/src/%.md $(Template)
 	pandoc -s --toc \
-	    --highlight-style=pygments \
-	    --template=etc/template.html \
+	    --highlight-style=$(Hilite) \
+	    --template=$(Template) \
 	    -o $@ $<
 
-%.html : src/%.html etc/template.html
+$(Baked)/%.html : $(Raw)/src/%.html $(Template)
 	pandoc -s --toc  \
-	    --highlight-style=pygments \
-	    --template=etc/template.html \
+	    --highlight-style=$(Hilite) \
+	    --template=$(Template) \
 	    -o $@ $<
 
 files:
