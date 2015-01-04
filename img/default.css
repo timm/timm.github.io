@@ -74,7 +74,7 @@ html>body #wrapper {
 #header {
 	width: 800px;
 	height: 65px;
-  padding-bottom: 3px;
+         padding-bottom: 3px;
 	background:#C30800; xxx: 333333;
   font-size: 1em;
 	color: #D0D0D0;
@@ -84,8 +84,9 @@ html>body #wrapper {
 #header h1 {
 	float: left;
 	padding: 10px 0 0 15px;
+	padding:0px; maring:0px;
 	padding-top: 0px;
-         
+        margin-top:0px;         
 	font-size: 3em;
 	letter-spacing: -2px;
   color: #FFFFFF;
