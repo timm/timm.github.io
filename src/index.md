@@ -7,7 +7,7 @@ src="img/timm.jpg"></a>
 I am a full (?fool) Professor in CS working
 on SE, data mining, AI optimization, and
 search-based SE, and better methods for open access
-science.
+science. My Ph.D. was from UNSW (Australia) in 1995.
 
 I teach software engineering (in the spring) and automated software engineering (in the fall).
 
