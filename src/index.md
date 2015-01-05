@@ -44,6 +44,11 @@ a top-100 most cited researcher
 
 ### News ###
 
++ **Dec 20**: Invited to give keynote at the ICSE'15 workshop
+[Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
++ **Dec 15**: ICSE accepts a technical briefing for
+  2015: Art and Science of Analyzing Software
+  Data. With Leandro Minku and Fayola Peters.
 + **Dec 15**: ICSE accepts a paper with Fayola Peters on **LACE2**, a novel privacy-based transfer learner with some very nice properties
   (minimal data shared, all data privatized, better defect predictors learned by sharing data than just using your own).
 + **Nov 15**: IEEE Trans on Human Factors accepts  a paper with Joe Krall on **GALE**, a novel _O(log(N))_ MOEA/D optimizer that uses active learning and a non-parametric response surface method to quickly learn the best direction for mutating examples.
@@ -51,7 +56,10 @@ a top-100 most cited researcher
 + **Oct 30**: Grant proposal submitted with Dr. Murphy Hill on a new generation journal/ repository.
 
 
+### Recent Talks ###
 
++ **ICSE'14** tutorial: [Art and Science of Analyzing Software Data](http://www.slideshare.net/timmenzies/the-art-and-science-of-analyzing-software-data)
++ **ICSE'14** workshop keynote (WetSOM'14): [What Metrics matter](http://www.slideshare.net/timmenzies/metrics-matter?related=1).
 
 ### Upcoming Books ###
 
