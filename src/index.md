@@ -9,7 +9,8 @@ on SE, data mining, AI optimization, and
 search-based SE, and better methods for open access
 science. My Ph.D. was from UNSW (Australia) in 1995.
 
-I teach software engineering (in the spring) and automated software engineering (in the fall).
+I teach [software engineering](http://www4.ncsu.edu/~tjmenzie/cs510)
+ (in the spring) and [automated software engineering](https://github.com/timm/sbse14/wiki) (in the fall).
 
 I run the [RAISE lab](http://ai4se.net) (real world
 AI for software engineering) and the
