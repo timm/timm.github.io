@@ -60,6 +60,7 @@ a top-100 most cited researcher
 
 + **ICSE'14** tutorial: [Art and Science of Analyzing Software Data](http://www.slideshare.net/timmenzies/the-art-and-science-of-analyzing-software-data)
 + **ICSE'14** workshop keynote (WetSOM'14): [What Metrics matter](http://www.slideshare.net/timmenzies/metrics-matter?related=1).
++ [More talks](http://slideshare.com/timmenzies).
 
 ### Upcoming Books ###
 
