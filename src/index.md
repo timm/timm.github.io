@@ -47,7 +47,7 @@ a top-100 most cited researcher
 
 + **Dec 20**: Invited to give keynote at the ICSE'15 workshop
 [Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
-+ **Dec 15**: ICSE accepts a technical briefing for
++ **Dec 15**: ICSE has accepted my technical briefing for
   2015: Art and Science of Analyzing Software
   Data. With Leandro Minku and Fayola Peters.
 + **Dec 15**: ICSE accepts a paper with Fayola Peters on **LACE2**, a novel privacy-based transfer learner with some very nice properties
