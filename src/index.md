@@ -88,12 +88,9 @@ Then there was some free lance research for two years at Portland followed by a 
 <img src="img/helen.png" width=100 id=pad>
 I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....<br clear=all>
 
-_____
-
+### Bio ###
 
 <img width= 100 src="http://ai4se.net/img/timm.png" id=pad>
-If you need a bio for me, then here's some text and a pic. If you need the whole story, please look at my [CV](pdf/cv.pdf).
-
 
 ```
 Tim Menzies (Ph.D., UNSW, 1995) is a full Professor
@@ -126,6 +123,8 @@ For more information, see his vita
 (http://scholar.google.com/citations?user=Qmuz0WAAAAAJ)
 of publications.
 ```
+For full details, see my  [CV](pdf/cv.pdf).
+
 
 
 
