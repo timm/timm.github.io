@@ -4,7 +4,7 @@ tocoff: yes
 
 <a href="img/timmBig.jpg"><img width=410 id=pad
 src="img/timm.jpg"></a>
-<span class="firstcharacter">I</span> am a full (?fool) Professor in CS working
+<span class="firstcharacter">i</span> am a full (?fool) Professor in CS working
 on SE, data mining, AI optimization, and
 search-based SE, and better methods for open access
 science. My Ph.D. was from UNSW (Australia) in 1995.
