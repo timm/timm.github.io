@@ -2,7 +2,7 @@
 tocoff: yes
 ---
 
-<a href="img/timmBig.jpg"><img height=410 id=pad
+<a href="img/timmBig.jpg"><img width=410 id=pad
 src="img/timm.jpg"></a>
 I am a full (?fool) Professor in CS working
 on SE, data mining, AI optimization, and
