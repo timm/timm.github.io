@@ -2,8 +2,9 @@
 tocoff: yes
 ---
 
-<a href="img/timmBig.jpg"><img height=400 id=pad
-src="img/timm.jpg"></a> 
+</a> <img align=right src="http://www.alumniblog.ncsu.edu/blog/wp/wp-content/uploads/2012/04/125_red6.jpg">
+<a href="img/timmBig.jpg"><img height=300 id=pad
+src="img/timm.jpg">
 I am a full (?fool) Professor in CS working
 on SE, data mining, AI optimization, and
 search-based SE, and better methods for open access
