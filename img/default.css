@@ -226,7 +226,8 @@ html>body #wrapper {
 }
 
 
-.firstcharacter { float: left; color: white;
+.firstcharacter { xfloat: left; 
+color: white;
 background-color: #C30800; 
 font-size: 55px; line-height: 40px; 
 padding-top: 4px; 
