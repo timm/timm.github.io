@@ -226,12 +226,11 @@ html>body #wrapper {
 }
 
 
-.firstcharacter { xfloat: left; 
+.firstcharacter { float: left; 
 color: white;
 background-color: #C30800; 
 font-size: 55px; line-height: 40px; 
 padding-top: 4px; 
 padding-right: 8px; 
-padding-botton: 0px;
 margin-right: 3px;
 padding-left: 3px;  font-family: 'Marck Script',cursive; }
