@@ -2,8 +2,7 @@
 tocoff: yes
 ---
 
-<img align=left src="http://www.alumniblog.ncsu.edu/blog/wp/wp-content/uploads/2012/04/125_red6.jpg">
-<a href="img/timmBig.jpg"><img height=300 id=pad
+<a href="img/timmBig.jpg"><img height=410 id=pad
 src="img/timm.jpg"></a>
 I am a full (?fool) Professor in CS working
 on SE, data mining, AI optimization, and
