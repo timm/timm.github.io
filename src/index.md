@@ -90,7 +90,7 @@ I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Bat
 
 ### Bio ###
 
-<img width= 100 src="http://ai4se.net/img/timm.png" id=pad>
+<br clear=all><img width= 100 src="http://ai4se.net/img/timm.png" id=pad>
 
 ```
 Tim Menzies (Ph.D., UNSW, 1995) is a full Professor 
