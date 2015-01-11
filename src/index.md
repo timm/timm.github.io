@@ -4,21 +4,25 @@ tocoff: yes
 
 <a href="img/timmBig.jpg"><img width=400 id=pad
 src="img/timm.jpg"></a>
-<span class="firstcharacter">I</span> am a
-<strike>fool</strike> full Professor in CS working
-on SE, data mining, AI optimization, and
-search-based SE, and better methods for open access
-science. My Ph.D. was from UNSW (Australia) in 1995.
+<span class="firstcharacter">F</span>ull professor, computer science,
+working on
+on SE, data mining, AI, optimization,
+search-based SE, better methods for open access
+science.
 
-I teach [software engineering](http://www4.ncsu.edu/~tjmenzie/cs510)
- (in the spring) and [automated software engineering](https://github.com/timm/sbse14/wiki) (in the fall).
+_Ph.D.:_   UNSW (Australia) in 1995.
 
-I run the [RAISE lab](http://ai4se.net) (real world
-AI for software engineering) and the
+_Teaches:_ [software engineering](http://www4.ncsu.edu/~tjmenzie/cs510)
+ (spring) and [automated software engineering](https://github.com/timm/sbse14/wiki) (fall).
+
+_Director:_  [RAISE lab](http://ai4se.net): real world
+AI for software engineering.
+
+_Curator_: The 
 [PROMISE repository](http://openscience.us/repo)
 (storage for SE project data).
 
-Right now, I am on a bunch of conference program committees:
+_Current PCs_: 
 [Icse'16](http://2016.icse.cs.txstate.edu/team/organizing-committee),
 [Ase'15](http://ase2015.unl.edu/#tab-committee),
 [Fse'15](http://esec-fse15.dei.polimi.it/committee.html),
@@ -27,19 +31,23 @@ Right now, I am on a bunch of conference program committees:
 [Ease'15](http://emse.nju.edu.cn/ease2015),
 [NasBase'15](http://nasbase.org/),
 [Raise'15](http://promisedata.org/raise/2015/index.html),
-[BigDSE'15](http://sse.uni-due.de/bigdse15). Also,
-I'm an associate editor of
-IEEE Trans on SE and Automated SE and 
-and Empirical SE;
+[BigDSE'15](http://sse.uni-due.de/bigdse15).
+
+_Assoc Editor:_
+IEEE Trans on SE; Automated SE and 
+and Empirical SE.
+
+_Chairing:_
 co-general-chair of
 ICSME'16; co-pc-chair of ICSE NIER'15;
 and serve on ASE conference  steering committee.
 
-Over my career, I've won over $7M 
-in grants and supervised 7+23  Ph.D.+masters students.
-I've written  230+ referred papers
-and am
-a top-100 most cited researcher
+_Grants_:  $7 million (total).
+
+_Students_:  7+23  Ph.D.+masters students.
+
+_Papers_:   230+ referred papers.
+A top-100 most cited researcher
 [out of 80,000+ authors](http://goo.gl/BnFJs)
 (in SE, last 10 years). So [back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
 
