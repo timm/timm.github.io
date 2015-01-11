@@ -42,7 +42,9 @@ I've won over $7 million in grant money and have supervised
 7+23  Ph.D.+masters students.
 I have published 230+ referred papers and am a top-100 most cited researcher
 [out of 80,000+ authors](http://goo.gl/BnFJs)
-(in SE, last 10 years). So [back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
+(in SE, last 10 years).
+
+So [back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
 
 
 ### News ###
