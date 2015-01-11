@@ -93,37 +93,32 @@ I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Bat
 <br clear=all><img width= 100 src="http://ai4se.net/img/timm.png" id=pad>
 
 ```
-Tim Menzies (Ph.D., UNSW, 1995) is a full Professor 
-in CS at North Carolina State University where he
-teaches software engineering and automated software
-engineering His research relates to synergies
-between human and artificial intelligence, with
-particular application to data mining for software
+Tim Menzies (Ph.D., UNSW, 1995) is a full Professor in CS at
+North Carolina State University where he teaches software
+engineering and automated software engineering. His research
+relates to synergies between human and artificial intelligence,
+with particular application to data mining for software
 engineering.
 
-He is the author of over 230 referred publications;
-and is one of the 100 most cited authors in software
-engineering out of over 80,000 researchers
-(http://goo.gl/BnFJs).  In his career, he has been a
-lead researcher on projects for NSF, NIJ, DoD, NASA,
-USDA, as well as joint research work with private
-companies.
+He is the author of over 230 referred publications; and is one of
+the 100 most cited authors in software engineering out of over
+80,000 researchers (http://goo.gl/BnFJs).  In his career, he has
+been a lead researcher on projects for NSF, NIJ, DoD, NASA, USDA,
+as well as joint research work with private companies.
 
-Prof. Menzies is the co-founder of the PROMISE
-conference series devoted to reproducible
-experiments in software engineering
-(http://opeenscience.us/repo).  He is an associate
-editor of IEEE Transactions on Software Engineering,
-Empirical Software Engineering and the Automated
-Software Engineering Journal. In 2015, he will serve
-as co-chair for the ICSE'15 NIER track.
+Prof. Menzies is the co-founder of the PROMISE conference series
+devoted to reproducible experiments in software engineering
+(http://opeenscience.us/repo).  He is an associate editor of IEEE
+Transactions on Software Engineering, Empirical Software
+Engineering and the Automated Software Engineering Journal. In
+2015, he will serve as co-chair for the ICSE'15 NIER track.
 
-For more information, see his vita
-(http://goo.gl/8eNhY) or his list of publications
-(http://scholar.google.com/citations?user=Qmuz0WAAAAAJ)
-of publications.
+For more, see his vita (http://goo.gl/8eNhY) or his list of
+publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
 ```
-For full details, see my  [CV](pdf/cv.pdf).
+
+For full details, see my
+[CV](pdf/cv.pdf).
 
 
 
