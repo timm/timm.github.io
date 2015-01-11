@@ -2,7 +2,7 @@
 tocoff: yes
 ---
 
-<a href="img/timmBig.jpg"><img width=410 id=pad
+<a href="img/timmBig.jpg"><img width=400 id=pad
 src="img/timm.jpg"></a>
 <span class="firstcharacter">I</span> am a
 <strike>fool</strike> full Professor in CS working
