@@ -8,21 +8,19 @@ src="img/timm.jpg"></a>
 working on
 on SE, data mining, AI, optimization,
 search-based SE, better methods for open access
-science.
+science. My Ph.D. is from UNSW, Australia, 1995.
 
-_Ph.D.:_   UNSW (Australia) in 1995.
-
-_Teaches:_ [software engineering](http://www4.ncsu.edu/~tjmenzie/cs510)
+I teach [software engineering](http://www4.ncsu.edu/~tjmenzie/cs510)
  (spring) and [automated software engineering](https://github.com/timm/sbse14/wiki) (fall).
 
-_Director:_  [RAISE lab](http://ai4se.net): real world
-AI for software engineering.
-
-_Curator_: The 
+I run the [RAISE lab](http://ai4se.net)
+(real world
+AI for software engineering) and
+the
 [PROMISE repository](http://openscience.us/repo)
 (storage for SE project data).
 
-_Current PCs_: 
+I serve on PCs for
 [Icse'16](http://2016.icse.cs.txstate.edu/team/organizing-committee),
 [Ase'15](http://ase2015.unl.edu/#tab-committee),
 [Fse'15](http://esec-fse15.dei.polimi.it/committee.html),
@@ -33,21 +31,16 @@ _Current PCs_:
 [Raise'15](http://promisedata.org/raise/2015/index.html),
 [BigDSE'15](http://sse.uni-due.de/bigdse15).
 
-_Assoc Editor:_
+I'm an assoc. editor for
 IEEE Trans on SE; Automated SE and 
-and Empirical SE.
-
-_Chairing:_
+and Empirical SE. Also, I am
 co-general-chair of
 ICSME'16; co-pc-chair of ICSE NIER'15;
 and serve on ASE conference  steering committee.
 
-_Grants_:  $7 million (total).
-
-_Students_:  7+23  Ph.D.+masters students.
-
-_Papers_:   230+ referred papers.
-A top-100 most cited researcher
+I've won over $7 million in grant money and have supervised
+7+23  Ph.D.+masters students.
+I have published 230+ referred papers and am a top-100 most cited researcher
 [out of 80,000+ authors](http://goo.gl/BnFJs)
 (in SE, last 10 years). So [back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
 
