@@ -255,3 +255,5 @@ padding-left: 3px;  font-family: 'Marck Script',cursive; }
 #st { BACKGROUND-COLOR: #F47920; width: 21; height:21; padding:0px; margin-left:1px;}
 #t  { BACKGROUND-COLOR: #00ACED; width: 21; height:21; padding:0px; margin-left:1px;}
 #y  { background-color: #CD332D; width: 21; height:21; padding:0px; margin-left:1px;}
+
+#header img {  hieght: 32; padding:0; margin:0px;margin-top: 4px; background-color: #C30800;}
