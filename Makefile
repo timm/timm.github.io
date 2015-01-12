@@ -7,7 +7,9 @@ Hilite=pygments
 
 Src=$(shell cd $(Raw)/src; ls)
 
-commit: htmls
+commit: htmls save
+
+save:
 	- git status
 	- git commit -am "stuff"
 	- git push origin master
