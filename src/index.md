@@ -17,6 +17,7 @@ _Director:_  [RAISE lab](http://ai4se.net)
 AI for software engineering). _Curator:_
 [PROMISE repository](http://openscience.us/repo)
 (storage for SE project data).
+
 _Assoc. editor:_ TSE, ASE, EMSE. 
 _Co-general-chair_:
 ICSME'16. Co-pc-chair: ICSE NIER'15.
