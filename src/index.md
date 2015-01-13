@@ -44,7 +44,7 @@ So [back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
 
 
 
-**Also:**
+**Recently:**
 
 + **Dec 20**: Invited to give keynote at the ICSE'15 workshop
 [Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
