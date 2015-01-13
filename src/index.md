@@ -2,7 +2,7 @@
 tocoff: yes
 ---
 
-<a href="img/timmBig.jpg"><img width=400 id=pad
+<a href="img/timmBig.jpg"><img width=380 id=pad
 src="img/timm.jpg"></a>
 <span class=firstcharacter>F</span>ull professor, computer science, NcState,
 working on
