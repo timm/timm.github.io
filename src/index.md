@@ -17,7 +17,6 @@ _Director:_  [RAISE lab](http://ai4se.net)
 AI for software engineering). _Curator:_
 [PROMISE repository](http://openscience.us/repo)
 (storage for SE project data).
-
 _Assoc. editor:_ TSE, ASE, EMSE. 
 _Co-general-chair_:
 ICSME'16. Co-pc-chair: ICSE NIER'15.
@@ -45,7 +44,7 @@ So [back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
 
 
 
-### News ###
+**Also:**
 
 + **Dec 20**: Invited to give keynote at the ICSE'15 workshop
 [Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
