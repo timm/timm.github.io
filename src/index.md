@@ -4,23 +4,24 @@ tocoff: yes
 
 <a href="img/timmBig.jpg"><img width=380 id=pad
 src="img/timm.jpg"></a>
-<span class=firstcharacter>F</span>ull professor, computer science, NcState,
-working on
-on SE, data mining, AI, optimization,
-search-based SE, better methods for open access
-science. My Ph.D. is from UNSW, Australia, 1995.
-
+<span class=firstcharacter>F</span>ull professor
+exploring
+SE, data mining, AI, 
+search-based SE, open access
+science. Ph.D.: UNSW, Oz'95.
 I teach [software engineering](http://www4.ncsu.edu/~tjmenzie/cs510)
  (spring) and [automated software engineering](https://github.com/timm/sbse14/wiki) (fall).
 
-I run the [RAISE lab](http://ai4se.net)
+_Director:_  [RAISE lab](http://ai4se.net)
 (real world
-AI for software engineering) and
-the
+AI for software engineering). _Curator:_
 [PROMISE repository](http://openscience.us/repo)
 (storage for SE project data).
-
-I serve on PCs for
+_Assoc. editor:_ TSE, ASE, EMSE. 
+_Co-general-chair_:
+ICSME'16. Co-pc-chair: ICSE NIER'15.
+_Member:_ ASE conference  steering committee.
+_PCs:_
 [Icse'16](http://2016.icse.cs.txstate.edu/team/organizing-committee),
 [Ase'15](http://ase2015.unl.edu/#tab-committee),
 [Fse'15](http://esec-fse15.dei.polimi.it/committee.html),
@@ -31,17 +32,11 @@ I serve on PCs for
 [Raise'15](http://promisedata.org/raise/2015/index.html),
 [BigDSE'15](http://sse.uni-due.de/bigdse15).
 
-I'm an assoc. editor for
-IEEE Trans on SE; Automated SE and 
-and Empirical SE. Also, I am
-co-general-chair of
-ICSME'16; co-pc-chair of ICSE NIER'15;
-and serve on ASE conference  steering committee.
-
-
-I've won over $7 million in grant money and have supervised
+_Awards:_  $7 million in grant. _Supervised:_
 7+23  Ph.D.+masters students.
-I have published 230+ referred papers and am a top-100 most cited researcher
+_Published:_ 230+ referred papers.
+
+I'm a top-100 most cited researcher
 [out of 80,000+ authors](http://goo.gl/BnFJs)
 (in SE, last 10 years).
 
