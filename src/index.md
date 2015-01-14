@@ -2,8 +2,17 @@
 tocoff: yes
 ---
 
+<table align=right width=420>
+<tr><td align=right>
 <a href="img/timmBig.jpg"><img width=380 id=pad
 src="img/timm.jpg"></a>
+</td></tr>
+<tr><td align=right>
+<a href="http://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img
+style="width: 185px; margin-right:10px;"
+src="img/shareBookCover.png"></a><img  width=185 src="img/asdbookCover.png">
+
+</td></table>
 <span class=firstcharacter>B</span>[ack off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
 <a href="https://www.youtube.com/watch?v=bsB8tvQMUT8"><img border=0
 align=middle  src="http://www.veryicon.com/icon/32/Movie%20%26%20TV/Futurama%20Vol.%201/Farnsworth.png"></a>
@@ -67,14 +76,6 @@ Recently:
 + **ICSE'14** workshop keynote (WetSOM'14): [What Metrics matter](http://www.slideshare.net/timmenzies/metrics-matter?related=1).
 + [More talks](http://slideshare.com/timmenzies).
 
-### Upcoming Books ###
-
-Coming soon to an bookstore near you (for the first one, [pre-orders](http://store.elsevier.com/Sharing-Data-and-Models-in-Software-Engineering/Tim-Menzies/isbn-9780124172951/) are now available):
-
-<center>
-<img  width=300 src="img/shareBookCover.png">  <img  width=300 src="img/asdbookCover.png">
-
-</center>
 
 ### More About Me ###
 
