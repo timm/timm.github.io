@@ -77,18 +77,19 @@ Recent Talks:
 + [More talks](http://slideshare.com/timmenzies).
 
 
-### More about me ###
+### <img src="img/helen.png" width=100 id=pad> More about me ###
 
++ 
+I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
 + In my time, I've been a
 nurse/ taxi-driver/ rocket scientist/ newspaper
 editor/ lecturer....  (what can I say? It all made
 sense at the time).
-+ <img src="img/helen.png" width=100 id=pad>I got to NcState after a
++ 
+I got to NcState after a
 Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade).
 Then there was some free lance research for two years at Portland followed by a stint at West Virginia University (go 'eers).
-+ 
-I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
-<br clear=all>
+
 
 ### <img width= 100 src="http://ai4se.net/img/timm.png" id=pad> Brief bio ###
 
