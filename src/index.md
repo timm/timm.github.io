@@ -10,7 +10,7 @@ SE, data mining, AI,
 search-based SE, open access
 science.
 
-_[Back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
+[Back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
 
 **Ph.D.:**  UNSW, Australia, 1995.  
 **Teaching:**  [graduate SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring); [automated SE](https://github.com/timm/sbse14/wiki) (fall).   
