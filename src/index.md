@@ -56,7 +56,7 @@ since 2004, [out of 80,000+ researchers](http://goo.gl/BnFJs).
 
 
 
-Recently:
+News:
 
 + **Dec 20**: Invited to give keynote at the ICSE'15 workshop
 [Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
@@ -70,30 +70,26 @@ Recently:
 + **Oct 30**: Grant proposal submitted with Dr. Murphy Hill on a new generation journal/ repository.
 
 
-### Recent Talks ###
+Recent Talks:
 
 + **ICSE'14** tutorial: [Art and Science of Analyzing Software Data](http://www.slideshare.net/timmenzies/the-art-and-science-of-analyzing-software-data)
 + **ICSE'14** workshop keynote (WetSOM'14): [What Metrics matter](http://www.slideshare.net/timmenzies/metrics-matter?related=1).
 + [More talks](http://slideshare.com/timmenzies).
 
 
-### About Me ###
+More about me:
 
-In my time, I've been a
++ In my time, I've been a
 nurse/ taxi-driver/ rocket scientist/ newspaper
 editor/ lecturer....  (what can I say? It all made
 sense at the time).
-
-I got to NcState after a
++ I got to NcState after a
 Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade).
 Then there was some free lance research for two years at Portland followed by a stint at West Virginia University (go 'eers).
-
-
-
-<img src="img/helen.png" width=100 id=pad>
++ <img src="img/helen.png" width=100 id=pad>
 I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
 
- Brief bio (for full details, see [my CV](pdf/cv.pdf)):
+Brief bio (for full details, see [my CV](pdf/cv.pdf)):
 
 <br clear=all><img width= 100 src="http://ai4se.net/img/timm.png" id=pad>
 
