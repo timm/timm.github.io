@@ -8,8 +8,7 @@ src="img/timm.jpg"></a>
 exploring
 SE, data mining, AI, 
 search-based SE, open access
-science.
-
+science.  
 [Back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
 
 **Ph.D.:**  UNSW, Australia, 1995.  
