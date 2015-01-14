@@ -24,12 +24,14 @@ htmls: $(Baked)/$(subst .html ,.html $(Baked)/,$(Htmls))
 
 $(Baked)/%.html : $(Raw)/src/%.md $(Template)
 	pandoc -s --toc \
+             -f markdown+definition_lists\
 	    --highlight-style=$(Hilite) \
 	    --template=$(Template) \
 	    -o $@ $<
 
 $(Baked)/%.html : $(Raw)/src/%.html $(Template)
 	pandoc -s --toc  \
+             -f markdown+definition_lists\
 	    --highlight-style=$(Hilite) \
 	    --template=$(Template) \
 	    -o $@ $<

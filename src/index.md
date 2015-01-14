@@ -8,44 +8,26 @@ src="img/timm.jpg"></a>
 exploring
 SE, data mining, AI, 
 search-based SE, open access
-science. Ph.D.: UNSW, Oz'95.
-I teach [software engineering](http://www4.ncsu.edu/~tjmenzie/cs510)
- (spring) and [automated software engineering](https://github.com/timm/sbse14/wiki) (fall).
+science.
 
-_Director:_  [RAISE lab](http://ai4se.net)
-(real world
-AI for software engineering). _Curator:_
-[PROMISE repository](http://openscience.us/repo)
-(storage for SE project data).
-_Assoc. editor:_ TSE, ASE, EMSE. 
-_Co-general-chair_:
-ICSME'16. Co-pc-chair: ICSE NIER'15.
-_Member:_ ASE conference  steering committee.
-_PCs:_
-[Icse'16](http://2016.icse.cs.txstate.edu/team/organizing-committee),
-[Fse'15](http://esec-fse15.dei.polimi.it/committee.html),
-[Ase'15](http://ase2015.unl.edu/#tab-committee),
-[Icpc'15](https://dibt.unimol.it/ICPC15/Home.html),
-[Msr'15](http://2015.msrconf.org/),
-[Esem'15](http://eseiw.iscas.ac.cn/eseiw2015/esem/cfp.html),
-[Ease'15](http://emse.nju.edu.cn/ease2015),
-[NasBase'15](http://nasbase.org/),
-[Raise'15](http://promisedata.org/raise/2015/index.html),
-[BigDSE'15](http://sse.uni-due.de/bigdse15).
+_[Back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
 
-_Awards:_  $7 million in grant. _Supervised:_
-7+23  Ph.D.+masters students.
-_Published:_ 230+ referred papers.
-
-I'm a top-100 most cited researcher
-[out of 80,000+ authors](http://goo.gl/BnFJs)
-(in SE, last 10 years).
-
-So [back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
+**Ph.D.:**  UNSW, Australia, 1995.  
+**Teaching:**  [graduate SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring); [automated SE](https://github.com/timm/sbse14/wiki) (fall).   
+**Director:**   [RAISE lab](http://ai4se.net) (real world AI for SE).  
+**Curator:**   [PROMISE repository](http://openscience.us/repo) (SE data).  
+**Publications:**   230+ referred papers. In top-100 most cited authors, SE, last 10 years
+[out of 80,000+](http://goo.gl/BnFJs).
+**Funding:**   $7 million in grants.  
+**Students:**   7+23 Ph.D.+masters students.  
+**Assoc. editor:**   TSE, ASE, EMSE journals   
+**Co-general-chair:**   ICSME'16.  
+**Co-pc-chair:**   ICSE NIER'15, ASE'12  
+**Member:**   ASE conference steering committee.  
+**PCs:**   [Icse'16](http://2016.icse.cs.txstate.edu/team/organizing-committee), [Fse'15](http://esec-fse15.dei.polimi.it/committee.html), [Ase'15](http://ase2015.unl.edu/#tab-committee), [Icpc'15](https://dibt.unimol.it/ICPC15/Home.html), [Msr'15](http://2015.msrconf.org/), [Esem'15](http://eseiw.iscas.ac.cn/eseiw2015/esem/cfp.html), [Ease'15](http://emse.nju.edu.cn/ease2015), [NasBase'15](http://nasbase.org/), [Raise'15](http://promisedata.org/raise/2015/index.html), [BigDSE'15](http://sse.uni-due.de/bigdse15).  
 
 
-
-**Recently:**
+Recently:
 
 + **Dec 20**: Invited to give keynote at the ICSE'15 workshop
 [Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
