@@ -90,11 +90,11 @@ Then there was some free lance research for two years at Portland followed by a 
 I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
 <br clear=all>
 
-### Brief bio ###
+### <img width= 100 src="http://ai4se.net/img/timm.png" id=pad> Brief bio ###
 
-<img width= 100 src="http://ai4se.net/img/timm.png" id=pad>
 
-<em>
+
+<em><small>
 Tim Menzies (Ph.D., UNSW, 1995) is a full Professor in CS at
 North Carolina State University where he teaches software
 engineering and automated software engineering. His research
@@ -120,7 +120,8 @@ publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
 </em>
 
 
-For full details, see [my CV](pdf/cv.pdf).
+</small>
+
 
 
 
