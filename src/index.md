@@ -5,6 +5,7 @@ tocoff: yes
 <a href="img/timmBig.jpg"><img width=380 id=pad
 src="img/timm.jpg"></a>
 <span class=firstcharacter>B</span>[ack off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
+<img align=middle  src="http://www.veryicon.com/icon/32/Movie%20%26%20TV/Futurama%20Vol.%201/Farnsworth.png">
 
 
 I'm a <strike>fool</strike> full professor
@@ -21,8 +22,8 @@ science.
 + **Director:**   [RAISE lab](http://ai4se.net) (real world AI for SE).  
 + **Curator:**   [PROMISE repository](http://openscience.us/repo) (SE data).  
 + **Publications:**   230+ referred papers.    
-In top-100 most cited authors, SE, last 10 years
-[out of 80,000+](http://goo.gl/BnFJs).
+A top-100 most cited authors  in SE,   
+since 2004, [out of 80,000+ researchers](http://goo.gl/BnFJs).
 + **Funding:**   $7 million in grants.  
 + **Students:**   7+23 Ph.D.+masters students.  
 + **Assoc. editor:**   TSE, ASE, EMSE journals   
