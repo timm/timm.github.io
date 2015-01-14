@@ -5,7 +5,8 @@ tocoff: yes
 <a href="img/timmBig.jpg"><img width=380 id=pad
 src="img/timm.jpg"></a>
 <span class=firstcharacter>B</span>[ack off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
-<img align=middle  src="http://www.veryicon.com/icon/32/Movie%20%26%20TV/Futurama%20Vol.%201/Farnsworth.png">
+<a href="https://www.youtube.com/watch?v=bsB8tvQMUT8"><img border=0
+align=middle  src="http://www.veryicon.com/icon/32/Movie%20%26%20TV/Futurama%20Vol.%201/Farnsworth.png"></a>
 
 
 I'm a <strike>fool</strike> full professor
