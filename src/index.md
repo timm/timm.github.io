@@ -77,7 +77,7 @@ Recently:
 + [More talks](http://slideshare.com/timmenzies).
 
 
-### More About Me ###
+### About Me ###
 
 In my time, I've been a
 nurse/ taxi-driver/ rocket scientist/ newspaper
@@ -93,7 +93,7 @@ Then there was some free lance research for two years at Portland followed by a 
 <img src="img/helen.png" width=100 id=pad>
 I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
 
-### Bio ###
+ Brief bio (for full details, see [my CV](pdf/cv.pdf)):
 
 <br clear=all><img width= 100 src="http://ai4se.net/img/timm.png" id=pad>
 
@@ -122,8 +122,7 @@ For more, see his vita (http://goo.gl/8eNhY) or his list of
 publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
 ```
 
-For full details, see my
-[CV](pdf/cv.pdf).
+
 
 
 
