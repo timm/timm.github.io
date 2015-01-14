@@ -4,12 +4,13 @@ tocoff: yes
 
 <a href="img/timmBig.jpg"><img width=380 id=pad
 src="img/timm.jpg"></a>
-<span class=firstcharacter>F</span>ull professor
+<span class=firstcharacter>B</span>[ack off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
+Full professor
 exploring
 SE, data mining, AI, 
 search-based SE, open access
 science.  
-[Back off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
+
 
 **Ph.D.:**  UNSW, Australia, 1995.  
 **Teaching:**  [graduate SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring); [automated SE](https://github.com/timm/sbse14/wiki) (fall).   
