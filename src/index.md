@@ -94,7 +94,7 @@ I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Bat
 
 <img width= 100 src="http://ai4se.net/img/timm.png" id=pad>
 
-```
+<em>
 Tim Menzies (Ph.D., UNSW, 1995) is a full Professor in CS at
 North Carolina State University where he teaches software
 engineering and automated software engineering. His research
@@ -117,7 +117,7 @@ Engineering and the Automated Software Engineering Journal. In
 
 For more, see his vita (http://goo.gl/8eNhY) or his list of
 publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
-```
+</em>
 
 
 For full details, see [my CV](pdf/cv.pdf).
