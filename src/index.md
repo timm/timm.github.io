@@ -33,8 +33,8 @@ science.
 + **Curator:**   [PROMISE repository](http://openscience.us/repo) (SE data).  
 + **Publications:**   230+ referred papers.
 + **H-index:** 37 (January, 2014).
-+ **Ranking:** A top-100 most cited author  in SE,   
-since 2004, [out of 80,000+ researchers](http://goo.gl/BnFJs).
++ **Ranking:** A top-100 most cited author,
+since 2004, [out of 80,000+ SE researchers](http://goo.gl/BnFJs).
 + **Funding:**   $7 million in grants.  
 + **Students:**   7+23 Ph.D.+masters students.  
 + **Assoc. editor:**   TSE, ASE, EMSE journals   
