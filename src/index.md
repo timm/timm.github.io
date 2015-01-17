@@ -31,8 +31,9 @@ science.
 [automated SE](https://github.com/timm/sbse14/wiki) (fall).
 + **Director:**   [RAISE lab](http://ai4se.net) (real world AI for SE).  
 + **Curator:**   [PROMISE repository](http://openscience.us/repo) (SE data).  
-+ **Publications:**   230+ referred papers.    
-A top-100 most cited authors  in SE,   
++ **Publications:**   230+ referred papers.
++ **H-index:** 37 (January, 2014).
++ **Ranking:** A top-100 most cited author  in SE,   
 since 2004, [out of 80,000+ researchers](http://goo.gl/BnFJs).
 + **Funding:**   $7 million in grants.  
 + **Students:**   7+23 Ph.D.+masters students.  
