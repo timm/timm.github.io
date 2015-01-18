@@ -14,7 +14,7 @@ src="img/shareBookCover.png"></a><img  width=185 src="img/asdbookCover.png">
 
 </td></table>
 <span class=firstcharacter>B</span>[ack off man, I'm a scientist](https://www.youtube.com/watch?v=sEbSABWJiJc).
-<a href="https://www.youtube.com/watch?v=bsB8tvQMUT8"><img border=0
+<a href="https://www.youtube.com/watch?v=Nda7w487yU0"><img border=0
 align=middle  src="http://www.veryicon.com/icon/32/Movie%20%26%20TV/Futurama%20Vol.%201/Farnsworth.png"></a>
 
 
@@ -26,21 +26,19 @@ science.
 
 
 
-+ **Ph.D.:**  UNSW, Australia, 1995.  
-+ **Teaching:**  [graduate SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring);  
-[automated SE](https://github.com/timm/sbse14/wiki) (fall).
-+ **Director:**   [RAISE lab](http://ai4se.net) (real world AI for SE).  
-+ **Curator:**   [PROMISE repository](http://openscience.us/repo) (SE data).  
-+ **Publications:**   230+ referred papers.
-+ **H-index:** 37 (January, 2014).
-+ **Ranking:** A top-100 most cited author,
-since 2004, [out of 80,000+ SE researchers](http://goo.gl/BnFJs).
-+ **Funding:**   $7 million in grants.  
-+ **Students:**   7+23 Ph.D.+masters students.  
-+ **Assoc. editor:**   TSE, ASE, EMSE journals   
-+ **Co-general-chair:**   ICSME'16.  
++ **Ph.D.:**  UNSW, Australia, 1995  
++ **Teaching:**  [SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring); [automated SE](https://github.com/timm/sbse14/wiki) (fall)
++ **Director:**   [RAISE lab](http://ai4se.net): real world AI for SE  
++ **Curator:**   [PROMISE repository](http://openscience.us/repo) of SE data  
++ **Publications:**   230+ referred papers
++ **H-index:** 37 (January, 2015)
++ **Ranking:** Top-100 [most cited author](http://goo.gl/BnFJs)) (in SE)
++ **Funding:**   $7 million in grants  
++ **Students:**   7+23 Ph.D.+masters students  
++ **Assoc. editor:**   TSE, ASE, EMSE journals  
++ **Co-general-chair:**   ICSME'16  
 + **Co-pc-chair:**   ICSE NIER'15, ASE'12  
-+ **Member:**   ASE conference steering committee.  
++ **Member:**   ASE conference steering committee  
 + **PCs:**
 [Icse'16](http://2016.icse.cs.txstate.edu/team/organizing-committee),
 [Ase'15](http://ase2015.unl.edu/#tab-committee),
