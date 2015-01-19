@@ -58,6 +58,9 @@ science.
 
 News:
 
++ **Jan 20**: Paper now on-line
+[Optimizing data collection for public health decisions: a data mining approach](http://www.biomedcentral.com/1471-2458/14/593),
+with Susan Partington and Vasil Papakroni.
 + **Jan 14**: Grant proposals submitted to NSF; (1) self-optimizing compilers
 (with Dr. Shen); (2) better software refactoring tools (with Dr. Marcus, UtDallas).
 + **Dec 20**: Invited to give keynote at the ICSE'15 workshop
