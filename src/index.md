@@ -28,18 +28,18 @@ science.
 
 
 + **Ph.D.:**  UNSW, Australia, 1995  
-+ **Teaching:**  [SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring); [automated SE](https://github.com/timm/sbse14/wiki) (fall)
-+ **Director:**   [RAISE lab](http://ai4se.net): real world AI for SE  
-+ **Curator:**   [PROMISE repository](http://openscience.us/repo) of SE data  
-+ **Publications:**   230+ referred papers
++ **Papers:**   230+ referred papers
++ **Curator:**   [PROMISE repository](http://openscience.us/repo) of SE data
 + **H-index:** 37 (January, 2015)
 + **Ranking:** A top-100 [most cited author](http://goo.gl/BnFJs) (in SE)
 + **Funding:**   $7 million in grants  
-+ **Students:**   7+23 Ph.D.+masters students  
++ **Member:**   ASE conference steering committee
++ **Director:**   [RAISE lab](http://ai4se.net): real world AI for SE  
++ **Students:**   7+23 Ph.D.+masters students
++ **Teaching:**  [SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring); [automated SE](https://github.com/timm/sbse14/wiki) (fall)
++ **Co-pc-chair:**   ICSE NIER'15, ASE'12
 + **Assoc. editor:**   TSE, ASE, EMSE journals  
 + **Co-general-chair:**   ICSME'16  
-+ **Co-pc-chair:**   ICSE NIER'15, ASE'12  
-+ **Member:**   ASE conference steering committee  
 + **PCs:**
 [Icse'16](http://2016.icse.cs.txstate.edu/team/organizing-committee),
 [Ase'15](http://ase2015.unl.edu/#tab-committee),
