@@ -23,20 +23,24 @@ I'm a <strike>fool</strike> full professor
 exploring
 SE, data mining, AI, 
 search-based SE, open access
-science.
+science. My Ph.D. is from UNSW, Australia, 1995.
 
 
-
-+ **Ph.D.:**  UNSW, Australia, 1995  
-+ **Papers:**   230+ referred papers
-+ **Curator:**   [PROMISE repository](http://openscience.us/repo) of SE data
-+ **H-index:** 37 (January, 2015)
-+ **Ranking:** A top-100 [most cited author](http://goo.gl/BnFJs) (in SE)
-+ **Funding:**   $7 million in grants  
-+ **Member:**   ASE conference steering committee
-+ **Director:**   [RAISE lab](http://ai4se.net): real world AI for SE  
-+ **Students:**   7+23 Ph.D.+masters students
 + **Teaching:**  [SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring); [automated SE](https://github.com/timm/sbse14/wiki) (fall)
++ **Curator:**   [PROMISE repository](http://openscience.us/repo) of SE data
++ **Director:**   [RAISE lab](http://ai4se.net): real world AI for SE
+
+Career:
+
++ **Funding:**   $7 million in grants
++ **Ranking:** A top-100 [most cited author](http://goo.gl/BnFJs) (in SE)
++ **Students:**   7+23 Ph.D.+masters students
++ **Papers:**   230+ referred papers
++ **H-index:** 37 (January, 2015)
+
+Service:
+
++ **Member:**   ASE conference steering committee
 + **Co-pc-chair:**   ICSE NIER'15, ASE'12
 + **Assoc. editor:**   TSE, ASE, EMSE journals  
 + **Co-general-chair:**   ICSME'16  
@@ -52,9 +56,6 @@ science.
 [NasBase'15](http://nasbase.org/),
 [Promise'15](https://easychair.org/conferences/?conf=promise2015),
 [Raise'15](http://promisedata.org/raise/2015/index.html).
-
-
-
 
 News:
 
@@ -73,7 +74,6 @@ with Susan Partington and Vasil Papakroni.
 + **Nov 15**: IEEE Trans on Human Factors accepts
 a paper with Joe Krall on applications of **GALE**(our new whiz-bang active learner + MOEA/D algorithm) on design of safer aircraft cockputs.
 + **Oct 30**: Grant proposal submitted with Dr. Murphy Hill on a new generation journal/ repository.
-
 
 Recent Talks:
 
