@@ -18,7 +18,7 @@ body {
 	padding: 0;
 	background: #CCC; mmm: #FECCBF; lll: #FE8080; zzz: #CCC; xxx: #707070;
 	font-family: "Helvetica", Arial, Helvetica, sans-serif;
-	font-size: 0.9em;
+	font-size: 0.8em;
 }
 
 h1, h2, h3 {
@@ -259,4 +259,4 @@ padding-left: 3px;  font-family: 'Marck Script',cursive; }
 
 #xheaderx img {  width=32; padding:0; margin:0px;margin-top: 10px; background-color: #C30800;}
 
-#header {color:white}
+#header {color:white; font-size: 1.1em;}
