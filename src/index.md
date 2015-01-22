@@ -34,7 +34,7 @@ science. My Ph.D. is from UNSW, Australia, 1995.
 Career:
 
 + **Funding:**   $7 million in grants
-+ **Ranking:** A top-100 [most cited author](http://goo.gl/BnFJs) (in SE)
++ **Ranking:** a top-100 [most cited author](http://goo.gl/BnFJs) (in SE)
 + **Students:**   7+23 Ph.D.+masters students
 + **Papers:**   230+ referred papers
 + **H-index:** 37 (January, 2015)
