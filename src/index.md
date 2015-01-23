@@ -50,6 +50,7 @@ Service:
 [Ase'15](http://ase2015.unl.edu/#tab-committee),
 [BigDSE'15](http://sse.uni-due.de/bigdse15),
 [Ease'15](http://emse.nju.edu.cn/ease2015),
+[EsPreSSE'15](http://paginas.fe.up.pt/~dsd-seaa-2015/seaa2015/call-for-papers-seaa-2015/espresse-special-session/),
 [Esem'15](http://eseiw.iscas.ac.cn/eseiw2015/esem/cfp.html),
 [Fse'15](http://esec-fse15.dei.polimi.it/committee.html),
 [Icpc'15](https://dibt.unimol.it/ICPC15/Home.html),
@@ -136,3 +137,7 @@ publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
 + **Nov 15**: IEEE Trans on Human Factors accepts
 a paper with Joe Krall on applications of **GALE**(our new whiz-bang active learner + MOEA/D algorithm) on design of safer aircraft cockputs.
 + **Oct 30**: Grant proposal submitted with Dr. Murphy Hill on a new generation journal/ repository.
++ **22 July 1974**: AC/DC releases first single [Can I Sit Next to YOu Girl](https://www.youtube.com/watch?v=biaGJ_4rEzE).
++ **2439 BC**: Noah survives flood.
++ **4004 BC**: Biggest bang ever.
+
