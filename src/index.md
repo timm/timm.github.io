@@ -137,7 +137,7 @@ publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
 + **Nov 15**: IEEE Trans on Human Factors accepts
 a paper with Joe Krall on applications of **GALE**(our new whiz-bang active learner + MOEA/D algorithm) on design of safer aircraft cockputs.
 + **Oct 30**: Grant proposal submitted with Dr. Murphy Hill on a new generation journal/ repository.
-+ **22 July 1974**: AC/DC releases first single [Can I Sit Next to YOu Girl](https://www.youtube.com/watch?v=biaGJ_4rEzE).
++ **22 July 1974**: AC/DC releases first single [Can I Sit Next to You Girl?](https://www.youtube.com/watch?v=biaGJ_4rEzE).
 + **2439 BC**: Noah survives flood.
-+ **4004 BC**: Biggest bang ever.
++ **4004 BC**: Biggest bang, ever.
 
