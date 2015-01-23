@@ -129,7 +129,7 @@ publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
 
 
 
-###<a name=oldnews><img width= 100 src="http://ai4se.net/img/old-news-churchill2.png" id=pad> Old News</a>
+###<a name=oldnews><img  width=100  src="img/old-news-churchill2.png" id=pad> Old News</a>
 
 + **Dec 15**: ICSE accepts a paper with Fayola Peters on **LACE2**, a novel privacy-based transfer learner with some very nice properties
   (minimal data shared, all data privatized, better defect predictors learned by sharing data than just using your own).
