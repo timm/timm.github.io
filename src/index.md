@@ -60,6 +60,8 @@ Service:
 
 News:
 
++ **Jan 20**: My [transfer learning](http://www.csc.ncsu.edu/news/1719)
+              project arrives at NCSU.
 + **Jan 20**: Paper now on-line
 [Optimizing data collection for public health decisions: a data mining approach](http://www.biomedcentral.com/1471-2458/14/593),
 with Susan Partington and Vasil Papakroni.
@@ -70,11 +72,7 @@ with Susan Partington and Vasil Papakroni.
 + **Dec 15**: ICSE has accepted my technical briefing for
   2015: Art and Science of Analyzing Software
   Data. With Leandro Minku and Fayola Peters.
-+ **Dec 15**: ICSE accepts a paper with Fayola Peters on **LACE2**, a novel privacy-based transfer learner with some very nice properties
-  (minimal data shared, all data privatized, better defect predictors learned by sharing data than just using your own).
-+ **Nov 15**: IEEE Trans on Human Factors accepts
-a paper with Joe Krall on applications of **GALE**(our new whiz-bang active learner + MOEA/D algorithm) on design of safer aircraft cockputs.
-+ **Oct 30**: Grant proposal submitted with Dr. Murphy Hill on a new generation journal/ repository.
++ [Old news](#oldnews)
 
 Recent Talks:
 
@@ -131,4 +129,10 @@ publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
 
 
 
+###<a name=oldnews>Old News</a>
 
++ **Dec 15**: ICSE accepts a paper with Fayola Peters on **LACE2**, a novel privacy-based transfer learner with some very nice properties
+  (minimal data shared, all data privatized, better defect predictors learned by sharing data than just using your own).
++ **Nov 15**: IEEE Trans on Human Factors accepts
+a paper with Joe Krall on applications of **GALE**(our new whiz-bang active learner + MOEA/D algorithm) on design of safer aircraft cockputs.
++ **Oct 30**: Grant proposal submitted with Dr. Murphy Hill on a new generation journal/ repository.
