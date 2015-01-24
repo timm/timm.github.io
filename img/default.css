@@ -21,11 +21,16 @@ body {
 	font-size: 0.8em;
 }
 
-hr {
-    border: 0;
-    height: 0;
-    border-top: 1px solid rgba(0, 0, 0, 0.1);
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+#pale {
+    font-weight: bold;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 0px;
+    margin-right:0px;
+}
+hr{ margin-top:0px; margin-bottom:0px;padding:0px; 
+    height:1px;
+    color: #CCC;
 }
 
 h1, h2, h3 {

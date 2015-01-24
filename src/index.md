@@ -59,7 +59,7 @@ _____
 [Msr'15](http://2015.msrconf.org/),
 [NasBase'15](http://nasbase.org/),
 [Promise'15](https://easychair.org/conferences/?conf=promise2015),
-[Raise'15](http://promisedata.org/raise/2015/index.html).
+[Raise'15](http://promisedata.org/raise/2015/index.html).     
 
 ____
 **News:**
