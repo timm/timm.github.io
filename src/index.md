@@ -31,7 +31,8 @@ science. My Ph.D. is from UNSW, Australia, 1995.
 + **Director:**   [RAISE lab](http://ai4se.net): real world AI for SE
 + **Formerly:** [SE research chair, NASA](http://www.slideshare.net/timmenzies/172529main-ken-andtimsoftwareassuranceresearchatwestvirginia), 2002-2003
 
-Career:
+_____
+**Career:**
 
 + **Funding:**   $7 million in grants
 + **Ranking:** a top-100 [most cited author](http://goo.gl/BnFJs) (in SE)
@@ -39,7 +40,8 @@ Career:
 + **Papers:**   230+ referred papers
 + **H-index:** 37 (January, 2015)
 
-Service:
+_____
+**Service:**
 
 + **Member:**   ASE conference steering committee
 + **Co-pc-chair:**   ICSE NIER'15, ASE'12
@@ -59,7 +61,8 @@ Service:
 [Promise'15](https://easychair.org/conferences/?conf=promise2015),
 [Raise'15](http://promisedata.org/raise/2015/index.html).
 
-News:
+____
+**News:**
 
 + **Jan 20**: My [transfer learning](http://www.csc.ncsu.edu/news/1719)
               project arrives at NCSU.
@@ -75,14 +78,16 @@ with Susan Partington and Vasil Papakroni.
   Data. With Leandro Minku and Fayola Peters.
 + [Old news](#oldnews)
 
-Recent Talks:
+____
+**Recent Talks:**
 
 + **ICSE'14** tutorial: [Art and Science of Analyzing Software Data](http://www.slideshare.net/timmenzies/the-art-and-science-of-analyzing-software-data)
 + **ICSE'14** workshop keynote (WetSOM'14): [What Metrics matter](http://www.slideshare.net/timmenzies/metrics-matter?related=1).
 + [More talks](http://slideshare.com/timmenzies).
 
 
-### <img src="img/helen.png" width=100 id=pad> More about me ###
+____
+<img src="img/helen.png" width=100 id=pad> **More about me:**
 
 + 
 I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
@@ -96,11 +101,12 @@ Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade
 Then there was some free lance research for two years at Portland followed by a stint at West Virginia University (go 'eers).
 
 
-### <img width= 100 src="http://ai4se.net/img/timm.png" id=pad> Brief bio ###
+____
+<img width= 100 src="http://ai4se.net/img/timm.png" id=pad> **Brief bio:**
 
 
 
-<em><small>
+<em>
 Tim Menzies (Ph.D., UNSW, 1995) is a full Professor in CS at
 North Carolina State University where he teaches software
 engineering and automated software engineering. His research
@@ -126,11 +132,11 @@ publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
 </em>
 
 
-</small>
 
 
 
-###<a name=oldnews><img  width=100  src="img/old-news-churchill2.png" id=pad> Old News</a>
+____
+<a name=oldnews></a><img  width=100  src="img/old-news-churchill2.png" id=pad> **Old News:**
 
 + **Dec 15**: ICSE accepts a paper with Fayola Peters on **LACE2**, a novel privacy-based transfer learner with some very nice properties
   (minimal data shared, all data privatized, better defect predictors learned by sharing data than just using your own).
