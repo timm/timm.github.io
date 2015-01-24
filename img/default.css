@@ -241,10 +241,12 @@ html>body #wrapper {
 .firstcharacter { float: left; 
 xcolor: white;
 color: #C30800; 
-font-size: 55px; line-height: 40px; 
+font-size: 55px; line-height: 35px; 
+xmargin-left: 30px;
 padding-top: 4px; 
 padding-right: 3px; 
 margin-right: 1px;
+padding-bottom: 20px;
 padding-left: 3px;  font-family: 'Marck Script',cursive; }
 
 

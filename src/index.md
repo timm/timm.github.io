@@ -13,6 +13,7 @@ style="width: 185px; margin-right:10px;"
 src="img/shareBookCover.png"></a><img  width=185 src="img/asdbookCover.png">
 
 </td></table>
+
 <span class=firstcharacter>B</span>[ack off man](https://www.youtube.com/watch?v=sEbSABWJiJc),
 I'm a 
 <a href="https://www.youtube.com/watch?v=Nda7w487yU0">scientist. <img border=0
