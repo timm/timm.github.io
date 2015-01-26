@@ -276,19 +276,21 @@ padding-left: 3px;  font-family: 'Marck Script',cursive; }
 
 .label1 {
     background: none repeat scroll #FFE3A0;
-    border-radius: 4px;
+    border-radius: 2px;
     margin: 2px;
+    font-weight: bold;
     color: #875F00;
-    padding: 1px 4px;
+    padding: 1px 2px;
     font-family: Inconsolata,Consolas,"Courier New",monospace;
     white-space: nowrap;
 }
 .label2 {
-    background: none repeat scroll #C30800;
-    border-radius: 4px;
+    background: none repeat scroll #FA8072;
+    border-radius: 2px;
     margin: 2px;
-    color: white;
-    padding: 1px 4px;
+    font-weight: bold;
+    color: #DDD;
+    padding: 1px 2px;
     font-family: Inconsolata,Consolas,"Courier New",monospace;
     white-space: nowrap;
 }
