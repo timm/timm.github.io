@@ -4,8 +4,8 @@ tocoff: yes
 
 <table align=right width=420>
 <tr><td align=right>
-<a href="img/timmBig.jpg"><img width=380 id=pad
-src="img/timm.jpg"></a>
+<!-- a href="img/timmBig.jpg"><img width=380 id=pad src="img/timm.jpg"></a -->
+<a href="img/timmBig.jpg"><img width=380 id=pad src="img/large.png"></a>
 </td></tr>
 <tr><td align=right>
 <a href="http://www.amazon.com/Sharing-Data-Models-Software-Engineering/dp/0124172954"><img
