@@ -275,17 +275,17 @@ padding-left: 3px;  font-family: 'Marck Script',cursive; }
 #header {color:white; font-size: 1.1em;}
 
 .label1 {
-    background: none repeat scroll #FFE3A0;
+    background: none repeat scroll #5A471B;
     border-radius: 2px;
     margin: 2px;
     font-weight: bold;
-    color: #875F00;
+    color: #EEE;
     padding: 1px 2px;
     font-family: Inconsolata,Consolas,"Courier New",monospace;
     white-space: nowrap;
 }
 .label2 {
-    background: none repeat scroll #FA8072;
+    background: none repeat scroll  #FF9900;
     border-radius: 2px;
     margin: 2px;
     font-weight: bold;
