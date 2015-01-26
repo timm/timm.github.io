@@ -65,6 +65,8 @@ _____
 ____
 **News:**
 
++ **Jan 26**: New project with [LexisNexis](http://www.csc.ncsu.edu/news/1722) on
+general methods for augmenting the compilers of big data scripts.
 + **Jan 20**: My [transfer learning](http://www.csc.ncsu.edu/news/1719)
               project arrives at NCSU.
 + **Jan 20**: Paper now on-line
@@ -74,9 +76,6 @@ with Susan Partington and Vasil Papakroni.
 (with Dr. Shen); (2) better software refactoring tools (with Dr. Marcus, UtDallas).
 + **Dec 20**: Invited to give keynote at the ICSE'15 workshop
 [Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
-+ **Dec 15**: ICSE has accepted my technical briefing for
-  2015: Art and Science of Analyzing Software
-  Data. With Leandro Minku and Fayola Peters.
 + [Old news](#oldnews)
 
 ____
@@ -98,9 +97,10 @@ editor/ lecturer....  (what can I say? It all made
 sense at the time).
 + 
 I got to NcState after a
-Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade).
-Then there was some free lance research for two years at Portland followed by a stint at West Virginia University (go 'eers).
-
+Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade)
+and the  University of British Columbia. 
+Then there was some free lance research for two years at Portland and six years
+at West Virginia University (go 'eers).
 
 ____
 <img width= 100 src="http://ai4se.net/img/timm.png" id=pad> **Brief bio:**
@@ -114,22 +114,20 @@ engineering and automated software engineering. His research
 relates to synergies between human and artificial intelligence,
 with particular application to data mining for software
 engineering.
-
 He is the author of over 230 referred publications; and is one of
 the 100 most cited authors in software engineering out of over
 80,000 researchers (http://goo.gl/BnFJs).  In his career, he has
 been a lead researcher on projects for NSF, NIJ, DoD, NASA, USDA,
 as well as joint research work with private companies.
-
 Prof. Menzies is the co-founder of the PROMISE conference series
 devoted to reproducible experiments in software engineering
 (http://opeenscience.us/repo).  He is an associate editor of IEEE
 Transactions on Software Engineering, Empirical Software
 Engineering and the Automated Software Engineering Journal. In
 2015, he will serve as co-chair for the ICSE'15 NIER track.
-
 For more, see his vita (http://goo.gl/8eNhY) or his list of
-publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
+publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ)
+or his home page http://menzies.us.
 </em>
 
 
@@ -139,6 +137,9 @@ publications http://scholar.google.com/citations?user=Qmuz0WAAAAAJ).
 ____
 <a name=oldnews></a><img  width=100  src="img/old-news-churchill2.png" id=pad> **Old News:**
 
++ **Dec 15**: ICSE has accepted my technical briefing for
+  2015: Art and Science of Analyzing Software
+  Data. With Leandro Minku and Fayola Peters.
 + **Dec 15**: ICSE accepts a paper with Fayola Peters on **LACE2**, a novel privacy-based transfer learner with some very nice properties
   (minimal data shared, all data privatized, better defect predictors learned by sharing data than just using your own).
 + **Nov 15**: IEEE Trans on Human Factors accepts
