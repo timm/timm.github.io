@@ -65,16 +65,16 @@ _____
 ____
 **News:**
 
-+ **Jan 26**: New project with [LexisNexis](http://www.csc.ncsu.edu/news/1722) on
++  <span class=label1>Jan 26</span>: New project with [LexisNexis](http://www.csc.ncsu.edu/news/1722) on
 general methods for augmenting the compilers of big data scripts.
-+ **Jan 20**: My [transfer learning](http://www.csc.ncsu.edu/news/1719)
++  <span class=label2>Jan 20</span>: My [transfer learning](http://www.csc.ncsu.edu/news/1719)
               project arrives at NCSU.
-+ **Jan 20**: Paper now on-line
++  <span class=label1>Jan 20</span>: Paper now on-line
 [Optimizing data collection for public health decisions: a data mining approach](http://www.biomedcentral.com/1471-2458/14/593),
 with Susan Partington and Vasil Papakroni.
-+ **Jan 14**: Grant proposals submitted to NSF; (1) self-optimizing compilers
++  <span class=label2>Jan 14</span>: Grant proposals submitted to NSF; (1) self-optimizing compilers
 (with Dr. Shen); (2) better software refactoring tools (with Dr. Marcus, UtDallas).
-+ **Dec 20**: Invited to give keynote at the ICSE'15 workshop
++  <span class=label1>Dec 20</span>: Invited to give keynote at the ICSE'15 workshop
 [Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
 + [Old news](#oldnews)
 
@@ -137,15 +137,15 @@ or his home page http://menzies.us.
 ____
 <a name=oldnews></a><img  width=100  src="img/old-news-churchill2.png" id=pad> **Old News:**
 
-+ **Dec 15**: ICSE has accepted my technical briefing for
++ <span class=label1>Dec 15</span>: ICSE has accepted my technical briefing for
   2015: Art and Science of Analyzing Software
   Data. With Leandro Minku and Fayola Peters.
-+ **Dec 15**: ICSE accepts a paper with Fayola Peters on **LACE2**, a novel privacy-based transfer learner with some very nice properties
++ <span class=label2>Dec 15</span>: ICSE accepts a paper with Fayola Peters on **LACE2**, a novel privacy-based transfer learner with some very nice properties
   (minimal data shared, all data privatized, better defect predictors learned by sharing data than just using your own).
-+ **Nov 15**: IEEE Trans on Human Factors accepts
++ <span class=label1>Nov 15</span>: IEEE Trans on Human Factors accepts
 a paper with Joe Krall on applications of **GALE**(our new whiz-bang active learner + MOEA/D algorithm) on design of safer aircraft cockputs.
-+ **Oct 30**: Grant proposal submitted with Dr. Murphy Hill on a new generation journal/ repository.
-+ **22 July 1974**: AC/DC releases first single [Can I Sit Next to You Girl?](https://www.youtube.com/watch?v=biaGJ_4rEzE).
-+ **2439 BC**: Noah survives [flood](https://www.youtube.com/watch?v=I225Vcs3X0g).
-+ **4004 BC**: [Biggest bang](https://www.youtube.com/watch?v=34-1W_9BhoU), ever.
++ <span class=label2>Oct 30</span>: Grant proposal submitted with Dr. Murphy Hill on a new generation journal/ repository.
++ <span class=label1>22 July 1974</span>: AC/DC releases first single [Can I Sit Next to You Girl?](https://www.youtube.com/watch?v=biaGJ_4rEzE).
++ <span class=label2>2439 BC</span>: Noah survives [flood](https://www.youtube.com/watch?v=I225Vcs3X0g).
++ <span class=label1>4004 BC</span>: [Biggest bang](https://www.youtube.com/watch?v=34-1W_9BhoU), ever.
 
