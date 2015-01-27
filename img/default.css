@@ -276,21 +276,22 @@ padding-left: 3px;  font-family: 'Marck Script',cursive; }
 
 .label1 {
     background: none repeat scroll #009999;
-    border-radius: 2px;
-    margin: 2px;
+    border-radius: 1px;
+    margin: 1px;
     font-weight: bold;
     color: #EEE;
-    padding: 1px 2px;
+    padding: 1px 1px;
     font-family: Inconsolata,Consolas,"Courier New",monospace;
     white-space: nowrap;
+    xmargin-top: 100px;
 }
 .label2 {
     background: none repeat scroll  #ED872D;
-    border-radius: 2px;
-    margin: 2px;
+    border-radius: 1px;
+    margin: 1px;
     font-weight: bold;
     color: #EEE;
-    padding: 1px 2px;
+    padding: 1px 1px;
     font-family: Inconsolata,Consolas,"Courier New",monospace;
     white-space: nowrap;
 }
