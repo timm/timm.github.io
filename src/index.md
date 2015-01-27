@@ -60,12 +60,15 @@ _____
 [Msr'15](http://2015.msrconf.org/),
 [NasBase'15](http://nasbase.org/),
 [Promise'15](https://easychair.org/conferences/?conf=promise2015),
-[Raise'15](http://promisedata.org/raise/2015/index.html).     
+[Raise'15](http://promisedata.org/raise/2015/index.html),
+[Ssbse'15](http://ssbse.org/2015/)
 
 ____
 **News:**
 
 
++ <span class=label1>Jan 27</span> Out now: my
+special journal issue, [AI synergies with SE](http://link.springer.com/article/10.1007/s10515-014-0174-y), with Rachel Harrison.
 + <span class=label2>Jan 26</span>
 Arrived!  [My  new book!](https//www.facebook.com/photo.php?fbid=10153171037464560&set=a.401243824559.174891.576689559&type=1&theater).
 + <span class=label1>Jan 26</span>
@@ -79,9 +82,6 @@ On-line:
 [Data collection for public health decisions](http://www.biomedcentral.com/1471-2458/14/593),
 with Susan Partington and Vasil Papakroni.
 + <span class=label2>Jan 14</span> Grant submitted to NSF; (1) self-optimizing compilers; (2) better software refactoring.
-+ <span class=label1>Dec 20</span>
-Invited to give keynote at the ICSE'15 workshop
-[Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
 + Older news [archived here.](#oldnews)
 
 ____
@@ -143,6 +143,7 @@ or his home page http://menzies.us.
 ____
 <a name=oldnews></a><img  width=100  src="img/old-news-churchill2.png" id=pad> **Old News:**
 
++ <span class=label2>Dec 20</span> Invited to give keynote at the ICSE'15 workshop[Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
 + <span class=label1>Dec 15</span>
    ICSE'15 accepts  tech. briefing 
   Analyzing Software
