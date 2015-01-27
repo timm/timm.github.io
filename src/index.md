@@ -66,27 +66,24 @@ ____
 **News:**
 
 <dl>
-<dt><span class=label2>Jan 26</span>
-<dd>Arrived!  [My  new book!](https//www.facebook.com/photo.php?fbid=10153171037464560&set=a.401243824559.174891.576689559&type=1&theater).  
-<dt><span class=label1>Jan 26</span>
-<dd>
-New project with [LexisNexis](http//www.csc.ncsu.edu/news/1722) on
-big data scripts.
-<dt><span class=label2>Jan 20</span>
+<dt><span class=label2>Jan 26</span></dt>
+<dd>Arrived!  [My  new book!](https//www.facebook.com/photo.php?fbid=10153171037464560&set=a.401243824559.174891.576689559&type=1&theater).</dd>
+<dt><span class=label1>Jan 26</span></dt>
+<dd>New project with [LexisNexis](http//www.csc.ncsu.edu/news/1722) on
+big data scripts.</dd>
+<dt><span class=label2>Jan 20</span></dt>
 <dd>My [transfer learning](http://www.csc.ncsu.edu/news/1719)
-              project arrives at NCSU.
-<dt><span class=label1>Jan 20</span>
-<dd>On-line
+              project arrives at NCSU.</dd>
+<dt><span class=label1>Jan 20</span></dt>
+<dd>On-line:
 [Data collection for public health decisions](http://www.biomedcentral.com/1471-2458/14/593),
-with Susan Partington and Vasil Papakroni.
-<dt><span class=label2>Jan 14</span>
+with Susan Partington and Vasil Papakroni.</dd>
+<dt><span class=label2>Jan 14</span></dt>
 <dd>Grant submitted to NSF; (1) self-optimizing compilers
-(2) better software refactoring.
-<dt>
-<span class=label1>Dec 20</span>
-<dd>
-Invited to give keynote at the ICSE'15 workshop
-[Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
+(2) better software refactoring.</dd>
+<dt><span class=label1>Dec 20</span></dt>
+<dd>Invited to give keynote at the ICSE'15 workshop
+[Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).</dd>
 </dl>
 
 Older news [archived here.](#oldnews)
@@ -151,22 +148,22 @@ ____
 <a name=oldnews></a><img  width=100  src="img/old-news-churchill2.png" id=pad> **Old News:**
 
 <dt>
-<dt><span class=label1>Dec 15</span>
+<dt><span class=label1>Dec 15</span></dt>
 <dd>ICSE'15 accepts  technical briefing 
   Analyzing Software
-  Data. With Leandro Minku and Fayola Peters.
-<dt><span class=label2>Dec 15</span>
-<dd>ICSE'15  **LACE2**, privacy-based transfer learner. With Fayola Peters.
-<dt><span class=label1>Nov 15</span>
+  Data. With Leandro Minku and Fayola Peters.</dd>
+<dt><span class=label2>Dec 15</span></dt>
+<dd>ICSE'15  **LACE2**, privacy-based transfer learner. With Fayola Peters.</dd>
+<dt><span class=label1>Nov 15</span></dt>
 <dd>IEEE Trans on Human Factors accepts
-a **GALE** applications  paper. With Joe Krall.
-<dt><span class=label2>Oct 30</span>
-<dd>New NSF proposal submitted: next gen journal/ repository.
-<dt><span class=label1>Jul'74</span>
-<dd>AC/DC releases first single [Can I Sit Next to You Girl?](https://www.youtube.com/watch?v=biaGJ_4rEzE).
+a **GALE** applications  paper. With Joe Krall.</dd>
+<dt><span class=label2>Oct 30</span></dt>
+<dd>New NSF proposal submitted: next gen journal/ repository.</dd>
+<dt><span class=label1>Jul'74</span></dt>
+<dd>AC/DC releases first single [Can I Sit Next to You Girl?](https://www.youtube.com/watch?v=biaGJ_4rEzE).</dd>
 <dt>
-<span class=label2>2439 bc</span>
-<dd>Noah survives [flood](https://www.youtube.com/watch?v=I225Vcs3X0g).
-<dt><span class=label1>4004 bc</span>
-<dd> [Biggest bang](https://www.youtube.com/watch?v=34-1W_9BhoU), ever.
+<span class=label2>2439 bc</span></dt>
+<dd>Noah survives [flood](https://www.youtube.com/watch?v=I225Vcs3X0g).</dd>
+<dt><span class=label1>4004 bc</span></dt>
+<dd> [Biggest bang](https://www.youtube.com/watch?v=34-1W_9BhoU), ever.</dd>
 </dl>
