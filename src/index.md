@@ -148,7 +148,7 @@ ____
   Analyzing Software
   Data. With Leandro Minku +  Fayola Peters.
 + <span class=label2>Dec 15</span>
-  ICSE'15  **LACE2**, privacy-based transfer learner. With Fayola Peters.
+  ICSE'15 accepts  **LACE2**, privacy-based transfer learner. With Fayola Peters.
 + <span class=label1>Nov 15</span>
   IEEE Trans on Human Factors accepts
 a **GALE** applications  paper. With Joe Krall.
