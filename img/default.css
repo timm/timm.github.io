@@ -294,3 +294,5 @@ padding-left: 3px;  font-family: 'Marck Script',cursive; }
     font-family: Inconsolata,Consolas,"Courier New",monospace;
     white-space: nowrap;
 }
+dt { float: left; width: 65px; }
+dd { margin-left: 65px; }
