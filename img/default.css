@@ -275,7 +275,7 @@ padding-left: 3px;  font-family: 'Marck Script',cursive; }
 #header {color:white; font-size: 1.1em;}
 
 .label1 {
-    background: none repeat scroll #5A471B;
+    background: none repeat scroll #009999;
     border-radius: 2px;
     margin: 2px;
     font-weight: bold;
@@ -285,7 +285,7 @@ padding-left: 3px;  font-family: 'Marck Script',cursive; }
     white-space: nowrap;
 }
 .label2 {
-    background: none repeat scroll  #FF9900;
+    background: none repeat scroll  #ED872D;
     border-radius: 2px;
     margin: 2px;
     font-weight: bold;
