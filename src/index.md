@@ -69,7 +69,7 @@ ____
 + <span class=label2>Jan 26</span>
 Arrived!  [My  new book!](https//www.facebook.com/photo.php?fbid=10153171037464560&set=a.401243824559.174891.576689559&type=1&theater).
 + <span class=label1>Jan 26</span>
-<dd>New project with [LexisNexis](http//www.csc.ncsu.edu/news/1722) on
+  New project with [LexisNexis](http//www.csc.ncsu.edu/news/1722) on
 big data scripts.
 + <span class=label2>Jan 20</span>
 My [transfer learning](http://www.csc.ncsu.edu/news/1719)
@@ -78,15 +78,11 @@ My [transfer learning](http://www.csc.ncsu.edu/news/1719)
 On-line:
 [Data collection for public health decisions](http://www.biomedcentral.com/1471-2458/14/593),
 with Susan Partington and Vasil Papakroni.
-+ <span class=label2>Jan 14</span>
-Grant submitted to NSF; (1) self-optimizing compilers
-(2) better software refactoring.
++ <span class=label2>Jan 14</span> Grant submitted to NSF; (1) self-optimizing compilers; (2) better software refactoring.
 + <span class=label1>Dec 20</span>
 Invited to give keynote at the ICSE'15 workshop
 [Architecture and Metrics](http://www.sei.cmu.edu/community/sam2015/speakers/?location=secondary-nav&source=971390).
-
-
-Older news [archived here.](#oldnews)
++ Older news [archived here.](#oldnews)
 
 ____
 **Recent Talks:**
@@ -148,9 +144,9 @@ ____
 <a name=oldnews></a><img  width=100  src="img/old-news-churchill2.png" id=pad> **Old News:**
 
 + <span class=label1>Dec 15</span>
-   ICSE'15 accepts  technical briefing 
+   ICSE'15 accepts  tech. briefing 
   Analyzing Software
-  Data. With Leandro Minku and Fayola Peters.
+  Data. With Leandro Minku +  Fayola Peters.
 + <span class=label2>Dec 15</span>
   ICSE'15  **LACE2**, privacy-based transfer learner. With Fayola Peters.
 + <span class=label1>Nov 15</span>
