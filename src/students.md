@@ -21,6 +21,8 @@ Listed below are all thesis students where I am/was chair of the student's commi
 |2|WVU| David Owen| software engineering|2007|
 |1|USC| Scott  Chen| software engineering|2004|
 
+____
+
 ## Masters
 
 |Status|Location|Name|Year|
