@@ -63,6 +63,18 @@ _____
 [Raise'15](http://promisedata.org/raise/2015/index.html),
 [Ssbse'15](http://ssbse.org/2015/)
 
+
+
+____
+**Recent Talks:**
+
++ **ICSE'14** tut: [Art & Science of Analyzing SE Data](http://www.slideshare.net/timmenzies/the-art-and-science-of-analyzing-software-data)
++ **ICSE'14** workshop keynote (WetSOM'14): [What Metrics matter](http://www.slideshare.net/timmenzies/metrics-matter?related=1).
++ [More talks](http://slideshare.com/timmenzies).
+
+
+
+
 ____
 **News:**
 
@@ -83,14 +95,6 @@ On-line:
 with Susan Partington and Vasil Papakroni.
 + <span class=label2>Jan 14</span> Grant submitted to NSF; (1) self-optimizing compilers; (2) better software refactoring.
 + Older news [archived here.](#oldnews)
-
-____
-**Recent Talks:**
-
-+ **ICSE'14** tutorial: [Art and Science of Analyzing Software Data](http://www.slideshare.net/timmenzies/the-art-and-science-of-analyzing-software-data)
-+ **ICSE'14** workshop keynote (WetSOM'14): [What Metrics matter](http://www.slideshare.net/timmenzies/metrics-matter?related=1).
-+ [More talks](http://slideshare.com/timmenzies).
-
 
 ____
 <img src="img/helen.png" width=100 id=pad> **More about me:**
