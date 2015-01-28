@@ -2,6 +2,50 @@
 pagetitle: Current research 
 ---
 
+## Tuning Data Miners
+
+_2014 -- _
+
+All data miners are biased by the internal choices
+made during their search for models. Historically,
+learning the best tunings for a particular
+combination of _learner,dataSet_ has been something
+of  a black art. Here, we clarify and automate that process
+by applying simple optimizers (differential evolution).
+Findings so far include:
+
++ Different dataSets/learners need different tunings. Hence we say:
+    + It is no longer enough to apply such learners _of the shelf_
+	  using their default parameter settings.
++ Tuning dramatically changes and improves the performance of a
+  learners. Hence, we say that:
+     + It is no longer sufficient to publish a data mining result _without_
+       including a tuning pre-processor.
++ It takes 100s to 1000s of trials to find good tunings.
+  Running some learners (e.g. NaiveBayes) 1000 times
+  is not problematic but other learners (e.g. Random
+  Forests) can take days to tune. Hemce we say:
+	  + When selecting learners for a study, the runtime of
+	    that learner has now become a primary consideration.
++ (The following comment is preliminary.) In terms of the
+  moldes generated, tuning can radically change the learned
+  model. Hence we say:
+      + It is time to doubt, and revisit,
+	    prior truisms that certain infleuences of defects
+		are dominate,
+	    or most informative, (e.g. Process or OO metrics
+	    are better than procedural metrics).
+
+## Truisms in SE: True or False?
+
+_2014 -- _
+
+Following on from the last point, we are now collecting information
+on what hypotheses are most believed in the SE research and practitioner
+community, and checking if indeed they hold true.
+
+Spoiler alert: no.
+
 ## Transfer Learning in Software Engineering
 
 _2013 -- 2017_
