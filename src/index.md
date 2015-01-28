@@ -163,6 +163,9 @@ ____
 a **GALE** applications  paper. With Joe Krall.
 + <span class=label2>Oct 30</span>
    New NSF proposal submitted: next gen journal/ repository.
+
+Older news:
+
 +  <span class=label1>Jul'74</span>
    AC/DC releases first single [Can I Sit Next to You Girl?](https://www.youtube.com/watch?v=biaGJ_4rEzE).
 + <span class=label2>2439 bc</span>
