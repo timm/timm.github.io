@@ -35,9 +35,9 @@ science. My Ph.D. is from UNSW, Australia, 1995.
 _____
 **Career:**
 
-+ **Funding:**   $7 million in grants
++ **Funding:**   $7 million in [grants](img/grantsMenzies.png)
 + **Ranking:** a top-100 [most cited author](http://goo.gl/BnFJs) (in SE)
-+ **Students:**   7+23 Ph.D.+masters students
++ **Students:**   8,23 phd,masters [students completed](students.html) 
 + **Papers:**   230+ referred papers
 + **H-index:** 37 (January, 2015)
 
