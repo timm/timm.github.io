@@ -84,7 +84,7 @@ special journal issue, [AI synergies with SE](http://link.springer.com/article/1
 + <span class=label2>Jan 26</span>
 Arrived!  [My  new book!](https://www.facebook.com/photo.php?fbid=10153171037464560&set=a.401243824559.174891.576689559&type=1&theater).
 + <span class=label1>Jan 26</span>
-  New project with [LexisNexis](http//www.csc.ncsu.edu/news/1722) on
+  New project with [LexisNexis](http://www.csc.ncsu.edu/news/1722) on
 big data scripts.
 + <span class=label2>Jan 20</span>
 My [transfer learning](http://www.csc.ncsu.edu/news/1719)
