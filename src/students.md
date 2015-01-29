@@ -1,6 +1,5 @@
 ---
 pagetitle: Students (Past and Present)
-
 ---
 
 Listed below are all thesis students where I am/was chair of the student's committee.

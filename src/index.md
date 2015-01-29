@@ -1,6 +1,4 @@
----
-tocoff: yes
----
+
 
 <table align=right width=420>
 <tr><td align=right>
