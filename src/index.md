@@ -97,14 +97,12 @@ with Susan Partington and Vasil Papakroni.
 ____
 <img src="img/helen.png" width=100 id=pad> **More about me:**
 
-+ 
-I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
++ I'm married to [Helen Burgess](http://helenburgess.com) who claims she's not Batman but I've never seen her and Bruce Wayne in the same room at the same time so....
 + In my time, I've been a
 nurse/ taxi-driver/ rocket scientist/ newspaper
 editor/ lecturer....  (what can I say? It all made
 sense at the time).
-+ 
-I got to NcState after a
++  I got to NcState after a
 Ph.D. at UNSW, Sydney, 1995, then some time working with NASA (early last decade)
 and the  University of British Columbia. 
 Then there was some free lance research for two years at Portland and six years
