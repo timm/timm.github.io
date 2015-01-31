@@ -76,11 +76,11 @@ a:visited a:hover {
 /* Wrapper */
 
 #wrapper {
-	width: 800px;
+	width: 800px; 
 	height: 100%;
 	min-height: 100%;
 	padding: 20px;
-	margin: 0 auto;
+	margin: 0 auto; margin: 1px solid #CCC;
 }
 
 html>body #wrapper {
