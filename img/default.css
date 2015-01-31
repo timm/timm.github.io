@@ -81,6 +81,8 @@ a:visited a:hover {
 	min-height: 100%;
 	padding: 20px;
 	margin: 0 auto; 
+	margin-top: 5px;
+	margin-bottom:5px;
 	border: 1px solid #CCC;
 }
 
