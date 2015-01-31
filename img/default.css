@@ -80,7 +80,8 @@ a:visited a:hover {
 	height: 100%;
 	min-height: 100%;
 	padding: 20px;
-	margin: 0 auto; margin: 1px solid #CCC;
+	margin: 0 auto; 
+	margin: 1px solid #999;
 }
 
 html>body #wrapper {
