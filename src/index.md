@@ -15,7 +15,7 @@ src="img/shareBookCover.png"></a><img  width=185 src="img/asdbookCover.png">
 <span class=firstcharacter>B</span>[ack off man](https://www.youtube.com/watch?v=sEbSABWJiJc),
 I'm a 
 <a href="https://www.youtube.com/watch?v=Nda7w487yU0">scientist. <img border=0
-align=middle src="imf/farnsworth.png"></a>
+align=middle src="img/farnsworth.png"></a>
 
 
 I'm a <strike>fool</strike> full professor
