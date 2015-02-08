@@ -337,6 +337,8 @@ dd { margin-left: 65px; }
 
 ul#navlist
 {
+padding:0px;
+margin:0px;
 margin-left: 0;
 padding-left: 0;
 white-space: nowrap;
