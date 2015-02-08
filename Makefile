@@ -9,15 +9,19 @@ Src=$(shell cd $(Raw)/src; ls)
 
 commit: htmls save
 
-save:
+gitting:
+	git config --global credential.helper cache
+	git config credential.helper 'cache --timeout=3600'
+
+save: gitting
 	- git status
 	- git commit -am "stuff"
 	- git push origin master
 
-update:
+update: gitting
 	- git pull origin master
 
-status:
+status: gitting
 	- git status
 
 htmls: $(Baked)/$(subst .html ,.html $(Baked)/,$(Htmls))
