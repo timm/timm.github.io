@@ -79,4 +79,6 @@ Need more reasons? See:
 
 ## Meet My Students
 
+[RAISE lab](http://ai4se.net/people/)
+
  
