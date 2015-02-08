@@ -348,6 +348,7 @@ white-space: nowrap;
 {
 display: inline;
 list-style-type: none;
+margin-right: 15px;
 }
 
 #navlist a { padding: 3px 10px; }
