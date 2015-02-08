@@ -347,11 +347,11 @@ white-space: nowrap;
 #navlist li
 {
 display: inline;
+margin-right: 3px; xpadding:1px;
 list-style-type: none;
-margin-right: 7px;
 }
 
-#navlist a { padding: 3px 10px; }
+#navlist a { padding: 3px 4px; padding-top: 1px; padding-bottom: 1px; }
 
 #navlist a:link, #navlist a:visited
 {
