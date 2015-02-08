@@ -371,23 +371,23 @@ text-decoration: none;
 
 
 
-#cone a:link, #cone a:visited {color: white; text-decoration: none;background-color: #3B5998; padding-left: 4px; padding-right:4px;}
-#cone a:hover                 { padding-left: 4px; padding-right:4px; background-color: #C30800;  text-decoration: underline; }
+#cone a:link, #cone a:visited {color: white; text-decoration: none;background-color: #3B5998; padding: 4px; }
+#cone a:hover                 { padding: 4px;  background-color: #C30800;  text-decoration: underline; }
 
 
 
-#ctwo a:link, #ctwo a:visited {color: white; text-decoration: none;background-color:  #4183C4;  padding-left: 4px; padding-right:4px;}
-#ctwo a:hover                 { padding-left: 4px; padding-right:4px; background-color: #C30800;  text-decoration: underline; }
+#ctwo a:link, #ctwo a:visited {color: white; text-decoration: none;background-color:  #4183C4;  padding: 4px; padding-right:4px;}
+#ctwo a:hover                 { padding: 4px; padding-right:4px; background-color: #C30800;  text-decoration: underline; }
 
 
-#cthree a:link, #cthree a:visited {color: white; text-decoration: none;background-color:  	#009900; padding-left: 4px; padding-right:4px;}
-#cthree a:hover                 { padding-left: 4px; padding-right:4px; background-color: #C30800; text-decoration: underline;  }
+#cthree a:link, #cthree a:visited {color: white; text-decoration: none;background-color:  	#009900; padding: 4px; padding-right:4px;}
+#cthree a:hover                 { padding: 4px; padding-right:4px; background-color: #C30800; text-decoration: underline;  }
 
 
-#cfour a:link, #cfour a:visited {color: white; text-decoration: none;background-color: #FF9900; padding-left: 4px; padding-right:4px;}
-#cfour a:hover                 { padding-left: 4px; padding-right:4px; background-color: #C30800; text-decoration: underline;  }
+#cfour a:link, #cfour a:visited {color: white; text-decoration: none;background-color: #FF9900; padding: 4px; padding-right:4px;}
+#cfour a:hover                 { padding: 4px; padding-right:4px; background-color: #C30800; text-decoration: underline;  }
 
 
-#cfive a:link, #cfive a:visited {color: white; text-decoration: none;background-color:    #FF6633;  padding-left: 4px; padding-right:4px;}
-#cfive a:hover                 { padding-left: 4px; padding-right:4px; background-color: #C30800; text-decoration: underline;  }
+#cfive a:link, #cfive a:visited {color: white; text-decoration: none;background-color:    #FF6633;  padding-left: 4px; padding:4px;}
+#cfive a:hover                 { padding: 4px; padding-right:4px; background-color: #C30800; text-decoration: underline;  }
 
