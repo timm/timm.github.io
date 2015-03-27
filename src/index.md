@@ -79,15 +79,15 @@ ____
 ____
 **News:**
 
-+ <span class=label2>Mar 20</span> Book #3 approved by publisher;
-+ <span class=label1>Mar 17</span> Invited to the ISSRE'15 OC;
-+ <span class=label2>Mar 14</span> Two papers submitted to FSE'15;
-+ <span class=label1>Mar 01</span> Jane Cleland-Huang names me  empirical _software hero_;
++ <span class=label2>Mar 20</span> Book #3 approved by publisher.
++ <span class=label1>Mar 17</span> Invited to the ISSRE'15 OC.
++ <span class=label2>Mar 14</span> Two papers submitted to FSE'15.
++ <span class=label1>Mar 01</span> Jane Cleland-Huang names me  empirical _software hero_.
 + <span class=label2>Feb 22</span> Now  a TOSEM [distinguished  reviewer](http://tosem.acm.org/).
 + <span class=label1>Jan 27</span> Out now: my
 special journal issue, [AI synergies with SE](http://link.springer.com/article/10.1007/s10515-014-0174-y), with Rachel Harrison.
 + <span class=label2>Jan 26</span>
-Arrived!  [My  new book!](https://www.facebook.com/photo.php?fbid=10153171037464560&set=a.401243824559.174891.576689559&type=1&theater).
+Arrived!  [My  new book!](http://www.csc.ncsu.edu/news/1734).
 + <span class=label1>Jan 26</span>
   New project with [LexisNexis](http://www.csc.ncsu.edu/news/1722) on
 big data scripts.
