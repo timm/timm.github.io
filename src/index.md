@@ -79,6 +79,7 @@ ____
 ____
 **News:**
 
++ <span class=label1>Mar 20</span> Book #3 approved by publisher;
 + <span class=label2>Mar 14</span> Two papers submitted to FSE'15;
 + <span class=label1>Mar 1</span> Named an empirical _software hero_ at SANER'15 by Jane Cleland-Huang;
 + <span class=label2>Feb 22</span> Now  a TOSEM [distinguihised  reviewer](http://tosem.acm.org/).
