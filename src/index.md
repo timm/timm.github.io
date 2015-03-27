@@ -12,11 +12,13 @@ src="img/shareBookCover.png"></a><img  width=185 src="img/asdbookCover.png">
 
 </td></table>
 
-<span class=firstcharacter>F</span>  full professor
+<span class=firstcharacter>F</span>*nbsp;  full professor
 exploring
 SE, data mining, AI, 
 search-based SE, open access
-science. My Ph.D. is from UNSW, Australia, 1995.
+science.  
+
+My Ph.D. is from UNSW, Australia, 1995.
 
 
 + **Teaching:**  [SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring); [automated SE](https://github.com/timm/sbse14/wiki) (fall)
@@ -28,6 +30,7 @@ So [back off man](https://www.youtube.com/watch?v=sEbSABWJiJc),
 I'm a 
 <a href="https://www.youtube.com/watch?v=Nda7w487yU0">scientist! <img border=0
 align=middle src="img/farnsworth.jpg"></a>
+
 _____
 **Career:**
 
