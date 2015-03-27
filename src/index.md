@@ -55,7 +55,9 @@ _____
 [EsPreSSE'15](http://paginas.fe.up.pt/~dsd-seaa-2015/seaa2015/call-for-papers-seaa-2015/espresse-special-session/),
 [Esem'15](http://eseiw.iscas.ac.cn/eseiw2015/esem/cfp.html),
 [Fse'15](http://esec-fse15.dei.polimi.it/committee.html),
+[Gecco'15](http://www.sigevo.org/gecco-2015/organizers-tracks.html#sbse),
 [Icpc'15](https://dibt.unimol.it/ICPC15/Home.html),
+[Issre'15](http://issre.net/cfp-research.html),
 [Msr'15](http://2015.msrconf.org/),
 [NasBase'15](http://nasbase.org/),
 [Promise'15](https://easychair.org/conferences/?conf=promise2015),
@@ -77,7 +79,9 @@ ____
 ____
 **News:**
 
-
++ <span class=label2>Mar 14</span> Two papers submitted to FSE'15;
++ <span class=label1>Mar 1</span> Named an empirical _software hero_ at SANER'15 by Jane Cleland-Huang;
++ <span class=label2>Feb 22</span> Acknowledged as [distinguihised  reviewer](http://tosem.acm.org/) at TOSEM journal.
 + <span class=label1>Jan 27</span> Out now: my
 special journal issue, [AI synergies with SE](http://link.springer.com/article/10.1007/s10515-014-0174-y), with Rachel Harrison.
 + <span class=label2>Jan 26</span>
