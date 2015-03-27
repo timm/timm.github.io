@@ -21,7 +21,7 @@ science.
 My Ph.D. is from UNSW, Australia, 1995.
 
 
-+ **Teaching:**  [SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring); [automated SE](https://github.com/timm/sbse14/wiki) (fall)
++ **Teaching:**  grad [SE](http://www4.ncsu.edu/~tjmenzie/cs510) (spring) + [automated SE](https://github.com/timm/sbse14/wiki) (fall)
 + **Curator:**   [PROMISE repository](http://openscience.us/repo) of SE data
 + **Director:**   [RAISE lab](http://ai4se.net): real world AI for SE
 + **Formerly:** [SE research chair, NASA](http://www.slideshare.net/timmenzies/172529main-ken-andtimsoftwareassuranceresearchatwestvirginia), 2002-2003
