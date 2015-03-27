@@ -12,7 +12,7 @@ src="img/shareBookCover.png"></a><img  width=185 src="img/asdbookCover.png">
 
 </td></table>
 
-<span class=firstcharacter>F</span> &nbsp;  full professor
+<span class=firstcharacter>F </span> &nbsp;  full professor
 exploring
 SE, data mining, AI, 
 search-based SE, open access
