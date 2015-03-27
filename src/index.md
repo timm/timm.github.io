@@ -12,13 +12,7 @@ src="img/shareBookCover.png"></a><img  width=185 src="img/asdbookCover.png">
 
 </td></table>
 
-<span class=firstcharacter>B</span>[ack off man](https://www.youtube.com/watch?v=sEbSABWJiJc),
-I'm a 
-<a href="https://www.youtube.com/watch?v=Nda7w487yU0">scientist. <img border=0
-align=middle src="img/farnsworth.jpg"></a>
-
-
-I'm a <strike>fool</strike> full professor
+<span class=firstcharacter>F</span>  full professor
 exploring
 SE, data mining, AI, 
 search-based SE, open access
@@ -30,6 +24,10 @@ science. My Ph.D. is from UNSW, Australia, 1995.
 + **Director:**   [RAISE lab](http://ai4se.net): real world AI for SE
 + **Formerly:** [SE research chair, NASA](http://www.slideshare.net/timmenzies/172529main-ken-andtimsoftwareassuranceresearchatwestvirginia), 2002-2003
 
+So [back off man](https://www.youtube.com/watch?v=sEbSABWJiJc),
+I'm a 
+<a href="https://www.youtube.com/watch?v=Nda7w487yU0">scientist! <img border=0
+align=middle src="img/farnsworth.jpg"></a>
 _____
 **Career:**
 
