@@ -69,6 +69,7 @@ _____
 ____
 **Recent Talks:**
 
++ **ICSE'15** tut: [Kits to find the bits that fit](http://www.slideshare.net/timmenzies/kits-to-find-the-bits-that-fits)
 + **ICSE'14** tut: [Art & Science of Analyzing SE Data](http://www.slideshare.net/timmenzies/the-art-and-science-of-analyzing-software-data)
 + **ICSE'14** workshop keynote (WetSOM'14): [What Metrics matter](http://www.slideshare.net/timmenzies/metrics-matter?related=1).
 + [More talks](http://slideshare.com/timmenzies).
@@ -79,8 +80,12 @@ ____
 ____
 **News:**
 
++ <span class=label2>Jun 9</span> New research: [V&amp;V of industrial AI](http://www.slideshare.net/timmenzies/lexisnexis-june9) (with LexisNexis).
++ <span class=label1>May 17</span>Keynote, ICSE'15 workshop  [Kits to find the bits that fit](http://www.slideshare.net/timmenzies/kits-to-find-the-bits-that-fits)
++ <span class=label2>May 8</span> Three papers submitted to ASE'15.
++ <span class=label1>May 1</span> ASE'15 worskhop approved [Action'15](http://action15.github.io)
 + <span class=label2>Mar 20</span> Book #3 approved by publisher.
-+ <span class=label1>Mar 17</span> Invited to the ISSRE'15 OC.
++ <span class=label1>Mar 17</span> Invited to the ISSRE'15 PC.
 + <span class=label2>Mar 14</span> Two papers submitted to FSE'15.
 + <span class=label1>Mar 01</span> Jane Cleland-Huang names me  empirical _software hero_.
 + <span class=label2>Feb 22</span> Now  a TOSEM [distinguished  reviewer](http://tosem.acm.org/).
