@@ -85,6 +85,7 @@ id=csix><a href="http://www.ncsu.edu/grad/programs/how-to-apply/index.php">Apply
                   <div id="TOC">&nbsp;<br>
         <ul>
         <li><a href="#industrial-ai-does-it-really-work">Industrial AI: Does it Really Work?</a></li>
+        <li><a href="#tuning-compilers">Tuning Compilers</a></li>
         <li><a href="#tuning-data-miners">Tuning Data Miners</a></li>
         <li><a href="#truisms-in-se-true-or-false">Truisms in SE: True or False?</a></li>
         <li><a href="#transfer-learning-in-software-engineering">Transfer Learning in Software Engineering</a></li>
@@ -102,6 +103,12 @@ id=csix><a href="http://www.ncsu.edu/grad/programs/how-to-apply/index.php">Apply
 <div style="margin-bottom:5px">
 <strong> <a href="http://www.slideshare.net/timmenzies/lexisnexis-june9" title="Lexisnexis june9" target="_blank">Lexisnexis june9</a> </strong> from <strong><a href="http://www.slideshare.net/timmenzies" target="_blank">CS, NcState</a></strong>
 </div>
+<hr />
+<h2 id="tuning-compilers">Tuning Compilers</h2>
+<p>Increasingly, our society and research is making more use of computational methods. For example, in 2013 a Nobel Prize was awarded to chemists using computer models to explore very fast chemical reactions during photosynthesis. In the press release of the award, the Nobel Prize committee wrote <em>Today the computer is just as important a tool for chemists as the test tube</em>.</p>
+<p>As with general science, so too with data analytics in software engineering where it is now routine to rely on CPU-intensive data analytics. Paradoxically, at the same time as needing more CPU, it now becomes harder to build faster ones (or power existing ones). To address this problem, much current research has explored <em>software autotuners</em>---tools for adjusting software such that they make better use of existing computational resources. For example, when autotuning a MapReduce algorithm, such tuners might decide how many nodes should be allocated to &quot;map&quot; and how many to &quot;reduce&quot;.</p>
+<p>The space of possible options for autotuning is very large: all possible settings for algorithms, compilers, and execution time options. To complicate matters, there are many competing goals that could be used to guide that tuning; e.g. reducing usage of CPU _ and_ memory <em>and</em> power while ensuring good output from our algorithms. Hence, current research explores very <em>narrow autotuners</em> that explore just a few options while trying to improve on just one or two goals.</p>
+<p>This research proposes very <em>broad autotuning</em> that takes advantage of the <em>synergies</em> between all those options and goals by exploiting <em>relevancy filtering</em> (to quickly dispose of unhelpful options), <em>locality of inference</em> (that enables faster updates to out-dated tunings) and <em>redundancy reduction</em> (that reduces the search space for better tunings).</p>
 <hr />
 <h2 id="tuning-data-miners">Tuning Data Miners</h2>
 <p><em>2014 -- </em></p>

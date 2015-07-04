@@ -6,7 +6,7 @@ pagetitle: Prospective Students, Career Advice
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LRoI-Rw4GBY" frameborder="0" allowfullscreen style="padding-bottom: 30px;"></iframe>
 
-
+____
 
 ## Why Study Software Engineering?
 
@@ -51,6 +51,8 @@ Need more reasons? See:
 
 + [10 TopTen Reviews](http://computer-careers-review.toptenreviews.com/software-engineer-review.html)
 
+____
+
 ## Why Study SE + Artificial Intelligence?
 
 
@@ -76,6 +78,8 @@ Need more reasons? See:
           + Adaptability and the generation of new ideas that have not been explored before;
 
      + What else offers so much from so little? So one reason to explore SE+AI is that it an explanation of an powerful engineering principle that has had (and will continue to have) a massive impact on this planet.
+
+____
 
 ## Meet My Students
 
