@@ -131,6 +131,8 @@ far fewer evaluations (e.g. 20 evaluations, not
 to evaluate, or when some audience needs to browse
 and understand how an MOEA has made its conclusions.
 
+<br clear=all>
+
 ____
 
 ## Evolutionary Search with Strong Heuristics for Software Product Line Configuration
@@ -166,6 +168,8 @@ decision spaces with many optimization objectives.
 As shown here, better and faster optimizers can be
 built when designers take full advantage of
 naturally occurring domain constraints.
+
+<br clear=all>
 
 ____
 
