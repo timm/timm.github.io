@@ -6,8 +6,9 @@ _____
 
 ## Why Study Computer Science?
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LRoI-Rw4GBY" frameborder="0" allowfullscreen style="padding-bottom: 30px;"></iframe>
-
+</center>
 ____
 
 ## Why Study Software Engineering?
