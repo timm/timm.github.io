@@ -6,7 +6,7 @@ pagetitle: Current research
 
 _2015 -- _
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/f8etbZ448ukfOs" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/timmenzies/lexisnexis-june9" title="Lexisnexis june9" target="_blank">Lexisnexis june9</a> </strong> from <strong><a href="//www.slideshare.net/timmenzies" target="_blank">CS, NcState</a></strong> </div>
+<iframe src="http://www.slideshare.net/slideshow/embed_code/key/f8etbZ448ukfOs" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/timmenzies/lexisnexis-june9" title="Lexisnexis june9" target="_blank">Lexisnexis june9</a> </strong> from <strong><a href="http://www.slideshare.net/timmenzies" target="_blank">CS, NcState</a></strong> </div>
 
 ## Tuning Data Miners
 
