@@ -13,7 +13,7 @@ ____
 ## Why Study Software Engineering?
 
 
-<img align=right src="http://cdni.wired.co.uk/620x413/g_j/Hire%20engineers.jpeg" width=500>
+<img align=right src="http://592f46.medialib.glogster.com/media/b50fe5c624e5f80331990c35113188e9b1bae5eb6af590d2510648fc49168f33/blue-binary-code-jigsaw-puzzle.jpg" width=500>
 
 + Because software  mediates and controls nearly all aspects of our lives:
      + It controls our stock markets and the pacemakers that control the
