@@ -46,6 +46,8 @@ Findings so far include:
 	    or most informative, (e.g. Process or OO metrics
 	    are better than procedural metrics).
 
+____
+
 ## Truisms in SE: True or False?
 
 _2014 -- _
@@ -55,6 +57,8 @@ on what hypotheses are most believed in the SE research and practitioner
 community, and checking if indeed they hold true.
 
 Spoiler alert: no.
+
+____
 
 ## Transfer Learning in Software Engineering
 
@@ -105,6 +109,8 @@ the immense importance and cost of software in
 commercial and critical systems, the research has
 long-term economic impacts.
 
+____
+
 ##  GALE: Geometric Active Learning for Search-Based Software Engineering
 
 with _Joseph Krall,_, WVU
@@ -124,6 +130,8 @@ far fewer evaluations (e.g. 20 evaluations, not
 1000). GALE is recommended when a model is expensive
 to evaluate, or when some audience needs to browse
 and understand how an MOEA has made its conclusions.
+
+____
 
 ## Evolutionary Search with Strong Heuristics for Software Product Line Configuration
 
@@ -159,6 +167,8 @@ As shown here, better and faster optimizers can be
 built when designers take full advantage of
 naturally occurring domain constraints.
 
+____
+
 ## LACE2: Better Privacy-Preserving Data Sharing for Cross Project Defect Prediction
 
 with _Fayola Peters_, Lero, Irish SE Research Centre
@@ -187,6 +197,8 @@ approach and (b) the multi-party approach of LACE2
 yields higher privacy than the prior approach
 without damaging predictive power (indeed, in some
 cases, LACE2 lead to better defect predictors).
+
+____
 
 ## 40 Years of Parametric Effort Estimation: A Report Card on COCOMO-style Research
 
@@ -222,6 +234,7 @@ calibration and (b) some column pruning (examples of
 those techniques are discussed in this research).
 
 
+____
 
 ## Cross Trees: Visualizing Estimations using Decision Trees
 
