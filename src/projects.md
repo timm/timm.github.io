@@ -58,6 +58,11 @@ community, and checking if indeed they hold true.
 
 Spoiler alert: no.
 
+For example, recently we explored data from 100s of projects looking for the
+legendary _phase delay_ effect (software fixes are exponentially
+more expensive to fix, the later you leave that fix). In short, no
+evidence was found for phase delay.
+
 ____
 
 ## Transfer Learning in Software Engineering
