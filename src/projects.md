@@ -202,6 +202,8 @@ yields higher privacy than the prior approach
 without damaging predictive power (indeed, in some
 cases, LACE2 lead to better defect predictors).
 
+<br clear=all>
+
 ____
 
 ## 40 Years of Parametric Effort Estimation: A Report Card on COCOMO-style Research
@@ -237,6 +239,7 @@ parametric estimation with (a) some local
 calibration and (b) some column pruning (examples of
 those techniques are discussed in this research).
 
+<br clear=all>
 
 ____
 
