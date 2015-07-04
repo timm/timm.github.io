@@ -28,7 +28,7 @@ My Ph.D. is from UNSW, Australia, 1995.
 
 So [back off man](https://www.youtube.com/watch?v=sEbSABWJiJc),
 I'm a 
-<a href="https://www.youtube.com/watch?v=Nda7w487yU0">scientist! <img border=0
+<a href="https://www.youtube.com/watch?v=Nda7w487yU0">scientist. <img border=0
 align=middle src="img/farnsworth.jpg"></a>
 
 _____
