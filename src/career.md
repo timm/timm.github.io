@@ -13,7 +13,7 @@ ____
 ## Why Study Software Engineering?
 
 
-<img align=right src="http://cdni.wired.co.uk/620x413/g_j/Hire%20engineers.jpeg" width=300>
+<img align=right src="http://cdni.wired.co.uk/620x413/g_j/Hire%20engineers.jpeg" width=500>
 
 + Because software  mediates and controls nearly all aspects of our lives:
      + It controls our stock markets and the pacemakers that control the
@@ -59,7 +59,7 @@ ____
 
 ## Why Study SE + Artificial Intelligence?
 
-<img align=right src="http://www.avatargeneration.com/wp-content/uploads/2012/10/robot.jpg" width=300>
+<img align=right src="http://www.avatargeneration.com/wp-content/uploads/2012/10/robot.jpg" width=500>
 
 + Because the next big thing is smart software.
 + Because older ideas like big data are dead. Or, to be more accurate, they are  passe.
