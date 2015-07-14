@@ -10,11 +10,12 @@ h3 {
     color: white;
     xfont-weight: bold;
     font-size: normal;
-    background-color: #ffbe1b;
-    background-color: #5c5c5c;
+    xbackground-color: #ffbe1b;
+    xbackground-color: #5c5c5c;
     background-color: black;
-    background-color: #db7373;
-    background-color: #e67300;
+    xbackground-color: #db7373;
+    xbackground-color: #e67300;
+    margin-top: 4px;
 }
 
 .blackimg {
@@ -25,6 +26,9 @@ h3 {
     border: #ccc 1px solid;
 }
 
+.dots {
+     border-right: black 1px dotted;
+}
 ul li,
 ol li {
     line-height: 1.5em;
@@ -36,4 +40,10 @@ ol li {
 }
 p {
     margin-bottom: 0px;
+}
+
+@media (max-width: 48em) {
+    .dots {
+	border-right: white 1px dotted;
+    }
 }

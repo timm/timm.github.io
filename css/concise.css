@@ -651,7 +651,8 @@ h6, .h6 {
 
   .column-5,
   .gutters .gutters-off .column-5 {
-    width: 31.25%;
+      width: 31.25%;
+      margin-right: 10px;
   }
 
   .gutters .column-5 {
@@ -682,7 +683,9 @@ h6, .h6 {
   }
 
   .gutters .column-8 {
-    width: 49%;
+      width: 49%;
+     
+      padding-right:15px;
   }
 
   .column-9,
