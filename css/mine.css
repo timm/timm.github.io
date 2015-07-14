@@ -1,0 +1,39 @@
+img.bg1 { width: 20px; }
+
+.masthead a:visited  {color:white;}
+
+p { padding-top: 0px;}
+
+h3 {
+    padding: 1px;
+    padding-left: 3px;
+    color: white;
+    xfont-weight: bold;
+    font-size: normal;
+    background-color: #ffbe1b;
+    background-color: #5c5c5c;
+    background-color: black;
+    background-color: #db7373;
+    background-color: #e67300;
+}
+
+.blackimg {
+    padding: 3px;
+    background-color: white;
+    xmargin: 2px;
+    width: 175px;
+    border: #ccc 1px solid;
+}
+
+ul li,
+ol li {
+    line-height: 1.5em;
+}
+
+.bg-dirty-green {
+    background-color: #f6f8dc;
+    background-color: #dedede;
+}
+p {
+    margin-bottom: 0px;
+}

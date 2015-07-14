@@ -1,57 +1,30 @@
-Baked=.#
-Raw=.#
-Bake=.
-Htmls=$(subst .md,.html,$(Src))
-Template=$(Bake)/etc/template.html
-Hilite=pygments
+Make = $(MAKE) --no-print-directory #
 
-Src=$(shell cd $(Raw)/src; ls)
+all :
+	@cd etc; $(MAKE) 
 
-commit: htmls save
+typo:  
+	@- git status
+	@- git commit -am "saving"
+	@- git push origin master
+
+commit:  
+	@- git status
+	@- git commit -a
+	@- git push origin master
+
+update:; @- git pull origin master
+status:; @- git status
+
 
 gitting:
-	git config --global credential.helper cache
-	git config credential.helper 'cache --timeout=3600'
+	@git config --global credential.helper cache
+	@git config credential.helper 'cache --timeout=3600'
 
-save: gitting
-	- git status
-	- git commit -am "stuff"
-	- git push origin master
+your:
+	@git config --global user.name "Your name"
+	@git config --global user.email your@email.address
 
-update: gitting
-	- git pull origin master
-
-status: gitting
-	- git status
-
-htmls: $(Baked)/$(subst .html ,.html $(Baked)/,$(Htmls))
-
-$(Baked)/%.html : $(Raw)/src/%.md $(Template)
-	pandoc -s --toc \
-             -f markdown+definition_lists+pipe_tables\
-	    --highlight-style=$(Hilite) \
-	    --template=$(Template) \
-	    -o $@ $<
-
-$(Baked)/%.html : $(Raw)/src/%.html $(Template)
-	pandoc -s --toc  \
-             -f markdown+definition_lists+pipe_tables\
-	    --highlight-style=$(Hilite) \
-	    --template=$(Template) \
-	    -o $@ $<
-
-files:
-	@echo "# Code:"
-	@$(foreach  f, $(shell ls *.py), echo "+ [[$f]]: $f"; )
-
-
-pdf.md : pdf/*
-	@echo '---' > $@
-	@echo 'title: Pdf file archive' >> $@
-	@echo 'layout: page' >> $@
-	@echo '---' >> $@	
-	@echo '' >> $@	
-	@echo '<img width=100 align=middle  src="{{site:base-url}}/img/pdfdownload.jpg" >'	 >> $@
-	@echo 'For more information on any of these files, [please see here](http://goo.gl/BORLn4).<br clear=all><hr>' >> $@
-	@echo '' >> $@
-	@$(foreach f, $(shell ls pdf/*.pdf),echo '+ [$(notdir $f)]({{site:base-url}}/$f)' >> $@;)
+timm:
+	@git config --global user.name "Tim Menzies"
+	@git config --global user.email tim.menzies@gmail.com
