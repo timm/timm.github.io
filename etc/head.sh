@@ -31,7 +31,7 @@ cat <<EOF
       <ul>
         <li><a href="http://menzies.us">Home</a></li>
         <li><a href="http://scholar.google.com/citations?hl=en&user=7htTUTgmLtUC&view_op=list_works&sortby=pubdate">Papers</a></li>
-        <li><a href="img/menziesCV.pdf">CV</a></li>
+        <li><a href="img/MenziesCV.pdf">CV</a></li>
         <li><a href="http://ai4se.net">Visit my lab...</a></li>
       </ul>
     </nav>
