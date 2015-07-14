@@ -39,7 +39,7 @@ cat <<EOF
 
   <div class="masthead">
     <div class="container">
-      <a href="index.html" style="text-decoration: none;">
+      <a href="index.html" style="text-decoration: none; color: white;">
 	<h1 class="masthead-title kilo"><large>Tim Menzies</large></h1>
 	<p><b>Prof, Com.Sci., NC State, USA</b><br>
           SE, data mining, AI, search-based SE</p>
