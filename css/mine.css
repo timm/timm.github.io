@@ -2,7 +2,7 @@ img.bg1 { width: 20px; }
 
 .masthead a:visited  {color:white;}
 
-p { padding-top: 0px;}
+
 
 h3 {
     padding: 1px;
@@ -17,6 +17,7 @@ h3 {
     xbackground-color: #e67300;
     margin-top: 14px;
     border-top: 3px solid #CC0000;
+    margin-bottom: 0px;
 }
 
 .blackimg {
@@ -31,9 +32,14 @@ h3 {
      border-right: #CC0000 1px dotted;
 }
 ul li,
-ol li {
-    line-height: 1.5em;
+ol li,
+dl dt,
+dl dd {
+    font-size: small;
+    line-height: 1.2;
 }
+
+p  { padding-top: 0px; line-height: 1.2; font-size:small;}
 
 .bg-dirty-green {
     background-color: #f6f8dc;
@@ -43,7 +49,7 @@ p {
     margin-bottom: 0px;
 }
 
-@media (max-width: 48em) {
+@media (max-width: 35em) {
     .dots {
 	border-right: white 1px dotted;
     }

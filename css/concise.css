@@ -597,7 +597,7 @@ h6, .h6 {
   max-width: 100%;
 }
 
-@media (min-width: 48em) {
+@media (min-width: 35em) {
   [class*='column-'] {
     float: left;
   }
