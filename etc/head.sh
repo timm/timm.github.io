@@ -28,12 +28,11 @@ cat <<EOF
       <a href="https://www.linkedin.com/profile/view?id=420532&trk=nav_responsive_tab_profile_pic"><img class="bg1" src="icons/linkedin12.png"></a>
     </h1>
     <nav class="nav">
-      <ul>
-        <li><a href="http://menzies.us">Home</a></li>
-        <li><a href="http://scholar.google.com/citations?hl=en&user=7htTUTgmLtUC&view_op=list_works&sortby=pubdate">Papers</a></li>
-        <li><a href="img/MenziesCV.pdf">CV</a></li>
-        <li><a href="http://ai4se.net">Visit my lab...</a></li>
-      </ul>
+      <p><a href="http://menzies.us">Home</a> :: <a 
+         href="http://scholar.google.com/citations?hl=en&user=7htTUTgmLtUC&view_op=list_works&sortby=pubdate">Papers</a> :: <a 
+         href="img/MenziesCV.pdf">CV</a> :: <a 
+         href="http://ai4se.net">My lab</a>    
+      </p>
     </nav>
   </header>
 

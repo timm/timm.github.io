@@ -6,34 +6,27 @@ Home
   <div class="column-5">
     <h3>Research</h3>
     <p>I explore SE, data mining, AI, search-based SE,
-      open access science. My Ph.D. is from UNSW, Oz'95.</p>
-		
-    <div class="btn dropdown xline bg-small" style="width:180px;" tabindex="1">
-      Learn More <span class="caret"></span>
-      <ul class="dropdown-menu" >
-	<li><a href="#myresearch"  >Research goals &raquo; <span class="icon user float-right" ></span></a></li>
-	<li><a href="http://ai4se.net/projects/">My
-	    projects &raquo; <span class="icon cog float-right"></span></a></li>
-	<li><a href="https://goo.gl/mYUAOv">My papers &raquo; <span class="icon times float-right"></span></a></li>
-      </ul>
-    </div>  
-  </div>
-
+      open access science. My Ph.D. is from UNSW, Oz'95.<br>
+      <a href="#myresearch">Goals </a> |
+      <a href="http://ai4se.net/projects/">Topics</a> |
+      <a href="https://goo.gl/mYUAOv">Papers </a>
+    </p>
+  </div>  
+  
  
   <div class="column-5">	
     <h3>For students</h3>
-    <p>I am looking for motivated graduate students to explore applied AI, search-based SE, data mining. Is that you?</p>
-    <div class="btn  bg-small" style="width:180px;" tabindex="1">
-      <a href="students.html" style="text-decoration: none; color: #666;">Learn More  &raquo; </a>
-    </div>
+    <p>I am looking for motivated graduate students to explore applied AI, search-based SE, data mining. Is that you? <br>
+      <a href="students.html">Learn More...</a>
+    </p>
   </div>
+
 
   <div class="column-5">
     <h3>For industry</h3>
-    <p>I've many years experience, managing research projects. Ask me how to innovate. On time. On budget.</p>
-    <div class="btn  bg-small" style="width:180px;" tabindex="1">
-      <a href="industry.html" style="text-decoration: none; color: #666;">Learn More  &raquo; </a>
-    </div>
+    <p>I've many years experience, managing research projects. Ask me how to innovate. On time. On budget.<br>
+      <a href="industry.html">Learn More... </a>
+    </p>
   </div>
   
 </div><div class="row gutters ">
@@ -104,23 +97,19 @@ Home
       <img
 	 width=185 src="img/asdbookCover.png">
     </center>
-    <p>As to my non-academic life:     
-      <ul>
-	<li>
-	  <img src="http://menzies.us/img/helen.png" class="blackimg"
+    <h3>Other Things</h3>   
+      <p><img src="http://menzies.us/img/helen.png" class="blackimg"
 	       align=right style="width:100px;">
 	  I'm married to <a href="http://helenburgess.com/">Helen Burgess</a>
 	  who claims she's not Batman but I've never seen her and Bruce Wayne
-	  in the same room at the same time so....</li>
-	<li>In my time, I've been a nurse/ taxi-driver/
+	  in the same room at the same time so....</p>
+	<p>In my time, I've been a nurse/ taxi-driver/
 	  rocket scientist/ newspaper editor/ lecturer.... (what can I say?
-	  It all made sense at the time).</li>
-	<li>I got to NcState after a Ph.D. at UNSW, Sydney, 1995, then some
+	  It all made sense at the time).</p>
+	<p>I got to NcState after a Ph.D. at UNSW, Sydney, 1995, then some
 	  time working with NASA (early last decade) and the University of
 	  British Columbia. Then there was some free lance research for
-	  two years at Portland and six years at West Virginia University (go 'eers).</li>
-      </ul>
-    </p>
+	  two years at Portland and six years at West Virginia University (go 'eers).</p>
   </div>
 
  
@@ -148,6 +137,7 @@ Home
 	    succinctly</a>.</li>
       </ul>
     </p>
+    <a name=myfunding><h3>My Funding</h3></a>
     <p>While exploring these ideas,
       I have won  $7 million in competitive grants from:</p>
     <ul>

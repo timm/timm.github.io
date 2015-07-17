@@ -7,15 +7,16 @@ p { padding-top: 0px;}
 h3 {
     padding: 1px;
     padding-left: 3px;
-    color: white;
-    xfont-weight: bold;
+    color: #CC0000;
+    font-weight: bold;
     font-size: normal;
     xbackground-color: #ffbe1b;
     xbackground-color: #5c5c5c;
-    background-color: black;
+    xbackground-color: black;
     xbackground-color: #db7373;
     xbackground-color: #e67300;
-    margin-top: 4px;
+    margin-top: 14px;
+    border-top: 3px solid #CC0000;
 }
 
 .blackimg {
@@ -27,7 +28,7 @@ h3 {
 }
 
 .dots {
-     border-right: black 1px dotted;
+     border-right: #CC0000 1px dotted;
 }
 ul li,
 ol li {
