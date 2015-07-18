@@ -23,9 +23,10 @@ h3 {
 .blackimg {
     padding: 3px;
     background-color: white;
-    xmargin: 2px;
-    width: 175px;
+    margin: 2px;
+    width: 100px;
     border: #ccc 1px solid;
+    float: right;
 }
 
 .dots {
@@ -48,7 +49,10 @@ p  { padding-top: 0px; line-height: 1.2; font-size:small;}
 p {
     margin-bottom: 0px;
 }
-
+.w75 {
+    width: 75px;
+    border: none;
+}
 @media (max-width: 35em) {
     .dots {
 	border-right: white 1px dotted;

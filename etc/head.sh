@@ -19,7 +19,8 @@ cat <<EOF
 </head>
 <body>
   <header class="siteHeader container clearfix">
-    <h1 class="logo">      
+    <h1 class="logo">   
+       
       <a href="http://github.com/timm"><img class="bg1" src="icons/github10.png"></a>
       <a href="https://www.facebook.com/timmenzies"><img class="bg1" src="icons/facebook29.png"></a>
       <a href="https://twitter.com/timmenzies"><img class="bg1" src="icons/twitter12.png"></a>
@@ -28,11 +29,12 @@ cat <<EOF
       <a href="https://www.linkedin.com/profile/view?id=420532&trk=nav_responsive_tab_profile_pic"><img class="bg1" src="icons/linkedin12.png"></a>
     </h1>
     <nav class="nav">
-      <p><a href="http://menzies.us">Home</a> :: <a 
+        <p>
+          <a href="http://menzies.us">Home</a> :: <a 
          href="http://scholar.google.com/citations?hl=en&user=7htTUTgmLtUC&view_op=list_works&sortby=pubdate">Papers</a> :: <a 
          href="img/MenziesCV.pdf">CV</a> :: <a 
-         href="http://ai4se.net">My lab</a>    
-      </p>
+         href="http://ai4se.net">My lab</a> 
+        </p>
     </nav>
   </header>
 
@@ -47,6 +49,8 @@ cat <<EOF
     </div> 
   </div>
   
+
+
   <main class="siteContent container">
 
 $head2
