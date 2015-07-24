@@ -41,7 +41,7 @@ cat <<EOF
   <div class="masthead">
     <div class="container">
       <a href="index.html" style="text-decoration: none; color: white;">
-	<h1 class="masthead-title kilo"><large>Tim Menzies</large></h1>
+       <h1 class="masthead-title kilo"><large>Tim Menzies</large></h1>
 	<p><b style="color: white;">Prof, Com.Sci., NC State, USA</b><br>
           SE, data mining, AI, search-based SE</p>
 	<a href="#contact" class="btn bg-blue btn-medium">Contact</a>
