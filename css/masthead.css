@@ -68,3 +68,6 @@
   border-top: 1px solid #eee;
   padding-top: 15px;
 }
+.masthead p {
+    font-size: 15px;
+}
