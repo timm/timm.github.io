@@ -35,7 +35,7 @@ cat <<EOF
   <div class="masthead">
     <div class="container">
      <h1 class="masthead-title kilo"><large>Tim Menzies</large></h1>
-	<p><b style="color: white;">Prof, Com.Sci., NC State, USA</b><br>
+	<p><b style="color: white;">Prof, Com Sci, NC State, USA<br>&nbsp;<br>
 
           <a href="#contact" style="color: white;">Contact</a> ::
 <a 
@@ -43,7 +43,7 @@ cat <<EOF
  <a 
          href="http://scholar.google.com/citations?hl=en&user=7htTUTgmLtUC&view_op=list_works&sortby=pubdate" style="color: white;">Papers</a> :: <a 
          href="http://ai4se.net" style="color: white;">My lab</a> 
-	 </p>
+	 </b></p>
       
     </div> 
   </div>
