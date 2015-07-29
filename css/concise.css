@@ -348,7 +348,7 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small,
 .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small,
 .giga small, .mega small, .kilo small {
   color: #808080;
-  font-size: 60%;
+  xfont-size: 60%;
   line-height: 1;
 }
 
