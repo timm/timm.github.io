@@ -533,14 +533,14 @@ h6, .h6 {
 }
 @media (min-width: 48em) {
   .kilo {
-    font-size: 48px;
+    font-size: 64px;
     font-size: 2rem;
     line-height: 1.5;
   }
 }
 @media (min-width: 70em) {
   .kilo {
-    font-size: 48px;
+    font-size: 64px;
     font-size: 3rem;
     line-height: 1;
   }
