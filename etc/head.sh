@@ -35,7 +35,7 @@ cat <<EOF
   <div class="masthead">
     <div class="container">
      <h1 class="masthead-title kilo"><large>Tim Menzies</large></h1>
-	<p><b style="color: white;">Prof, Com Sci, NC State, USA<br>&nbsp;<br>
+	<p><h2><b style="color: white;">Prof, Com Sci, NC State, USA</h2><br>&nbsp;<br>
 
           <a href="#contact" style="color: white;">Contact</a> ::
 <a 
