@@ -33,7 +33,8 @@
 
 .masthead {
     color: white; background-color: #eee;
-  padding: 50px 0;
+    padding: 0;
+    padding-top: 50px;
   background-image: url(timm.jpg);
   background-size: cover;
   width:100%;
@@ -53,7 +54,8 @@
 }
 
 .siteContent {
-  padding: 50px 0;
+    padding:  0;
+    padding-top: 15px;
 }
 .siteContent .btn {
   background-color: transparent;
@@ -67,4 +69,7 @@
 .siteFooter {
   border-top: 1px solid #eee;
   padding-top: 15px;
+}
+.masthead p {
+    font-size: 15px;
 }
