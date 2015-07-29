@@ -527,27 +527,27 @@ h6, .h6 {
 }
 
 .kilo {
-  font-size: 64px;
+  font-size: 164px;
   font-size: 2rem;
   line-height: 1.5;
 }
 @media (min-width: 48em) {
   .kilo {
-    font-size: 64px;
+    font-size: 164px;
     font-size: 2rem;
     line-height: 1.5;
   }
 }
 @media (min-width: 70em) {
   .kilo {
-    font-size: 64px;
+    font-size: 164px;
     font-size: 3rem;
     line-height: 1;
   }
 }
 @media (min-width: 80em) {
   .kilo {
-    font-size: 64px;
+    font-size: 164px;
     font-size: 4rem;
     line-height: 1.125;
   }
