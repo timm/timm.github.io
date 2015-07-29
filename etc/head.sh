@@ -35,14 +35,13 @@ cat <<EOF
   <div class="masthead">
     <div class="container">
      <h1 class="masthead-title kilo"><large>Tim Menzies</large></h1>
-	<p><h2><b style="color: white;">Prof, Com Sci, NC State, USA</h2><br>&nbsp;<br>
+	<b>Prof, Com Sci, NC State, USA<br>&nbsp;<br>
 
           <a href="#contact" style="color: white;">Contact</a> ::
 <a 
          href="img/MenziesCV.pdf" style="color: white;" >CV</a> ::
  <a 
-         href="http://ai4se.net" style="color: white;">My lab</a> 
-	 </b><br>&nbsp; </p>
+         href="http://ai4se.net" style="color: white;">My lab</a> </b><br>&nbsp;<br>
       
     </div> 
   </div>
