@@ -10,6 +10,7 @@ all: ${files}
 ../%.html : $f/%
 	@ echo $@
 	@ - bash $e/make.sh "$e" "$<" > $@
+	@ git add $@
 
 install:
 	brew install tidy-html5
