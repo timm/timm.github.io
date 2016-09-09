@@ -21,12 +21,13 @@
 <br>
 I explore SE, data mining, AI, search-based SE, open access science.
 <ul>
-<li> <a href="goals.html">Research goals</a></li>
+<li> <a href="goals.html">My goals</a></li>
 <li> <a href="https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&oi=ao">Papers</a></li>
-<li> <a href="https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4">Students</a></li>
 <li> <a href="https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746">Funding</a></li>
 <li> <a href="http://openscience.us/repo">Data, on-line</a></li>
 <li> <a href="books.html">My books</a></li>
+<li> <a href="https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4">Students (all)</a></li>
+<li> Current phds:
 </ul>
 
 </td><td valign=top>
@@ -51,13 +52,24 @@ I explore SE, data mining, AI, search-based SE, open access science.
 <li><a href="https://github.com/timm/16/blob/master/matt.pdf">IBM</a></li>
 </ul></p>
 </td></tr>
-
-</table>
-
-<hr>
-
+<tr><td colspan="3" align=right>
+<img width=35 height=35 src="img/wei.jpg">
+<img width=35 height=35 src="img/rahlk.jpg">
+<img width=35 height=35 src="img/vivek.jpg">
+<img width=35 height=35 src="img/chen.jpg">
+<img width=35 height=35 src="img/Zhe.jpg">
+<img width=35 height=35 src="img/george.jpg">
+<img width=35 height=35 src="img/amrit.jpg">
+<img width=35 height=35 src="img/Jack.jpg">
+<img width=35 height=35 src="img/gh.jpg">
+<img width=35 height=35 src="img/hill.jpg">
+</td></tr></table>
+<ul>
+<li>
 Career funding= $8M including support from:
-
+</li>
+</ul>
+<center>
 <img height=56 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"><img
 height=60   src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"><img
 height=56 src="https://65.media.tumblr.com/avatar_fd969ad68e5a_128.png"><img
@@ -65,9 +77,9 @@ height=56 src="img/ln.png"><img
 height=56 src="https://pbs.twimg.com/profile_images/67630775/button_meatball_normal.png"><img
 height=56 src="http://www.nij.gov/PublishingImages/nij-logo-sak-page.jpg"><img
 height=56 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png">
-<br>
-<hr>
+</center>
 
+<hr>
 
 Prior projects:
 
