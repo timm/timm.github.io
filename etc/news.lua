@@ -20,20 +20,14 @@ return {
           "Sent to TSE",
     more= 'arxiv.org/abs/1608.07617' }},
 
-   {item = {
-    when= "Aug26",
-    what= "Better topic modeling. "..
-          "Sent to ICSE'16",
-    more= "arxiv.org/abs/1608.07617" }},
-
   {item = {
     when = "Aug26",
-    what= "9000+ SE conference papers clustered. Sent to ICSE'16", 
+    what= "9000+ SE conference papers clustered. Sent to ICSE'17", 
     more= 'arxiv.org/abs/1608.08100'}},
 
   {item = {
     when = "Aug26",
-    what= "How to fix topic modeling in SE. Sent to ICSE'16", 
+    what= "How to fix topic modeling in SE. Sent to ICSE'17", 
     more= 'arxiv.org/abs/1608.08176'}},
 
   {item = {

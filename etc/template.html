@@ -68,7 +68,7 @@ href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.
 {{#briefs}}
 <p id="class{{item.n}}"><b>{{item.when}}</b>:
 {{item.what}}
-<a href="http://{{{item.more}}}">More...</a></p>
+{{#item.more}}<a href="http://{{{item.more}}}">More...</a>{{/item.more}}</p>
 	    
 {{/briefs}}
     </small>
