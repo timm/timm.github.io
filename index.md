@@ -23,11 +23,10 @@ I explore SE, data mining, AI, search-based SE, open access science.
 <ul>
 <li> <a href="goals.html">My goals</a></li>
 <li> <a href="https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&oi=ao">Papers</a></li>
+<li> <a href="https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4">Students (all)</a></li>
 <li> <a href="https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746">Funding</a></li>
 <li> <a href="http://openscience.us/repo">Data, on-line</a></li>
 <li> <a href="books.html">My books</a></li>
-<li> <a href="https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4">Students (all)</a></li>
-<li> Current phds:
 </ul>
 
 </td><td valign=top>
@@ -41,19 +40,17 @@ I explore SE, data mining, AI, search-based SE, open access science.
 <li> <a href="http://ai4se.net">My lab</a>
 <li> <a href="application.html">How to apply?</a>
 <li> Current Ph.d. students:
-<img width=35 height=35 src="img/wei.jpg">
-<img width=35 height=35 src="img/rahlk.jpg">
-<img width=35 height=35 src="img/vivek.jpg">
-<img width=35 height=35 src="img/chen.jpg">
-<img width=35 height=35 src="img/Zhe.jpg">
-<img width=35 height=35 src="img/george.jpg">
-<img width=35 height=35 src="img/amrit.jpg">
-<img width=35 height=35 src="img/Jack.jpg">
-<img width=35 height=35 src="img/gh.jpg">
-<img width=35 height=35 src="img/hill.jpg">
-</li>
 </ul>
-</td><td valign=top>
+<img width=35 height=35 src="img/wei.jpg"> <img 
+width=35 height=35 src="img/rahlk.jpg"> <img 
+width=35 height=35 src="img/vivek.jpg"> <img 
+width=35 height=35 src="img/chen.jpg"> <img
+width=35 height=35 src="img/Zhe.jpg"> <img
+width=35 height=35 src="img/george.jpg"> <img
+width=35 height=35 src="img/amrit.jpg"> <img
+width=35 height=35 src="img/Jack.jpg"> <img
+width=35 height=35 src="img/gh.jpg"> <img
+width=35 height=35 src="img/hill.jpg"></td><td valign=top>
 <img width=100 src="img/industry.png">
 <br>Ask me how to innovate. <br>On time.<br> On budget.
 <p>Case studies:
