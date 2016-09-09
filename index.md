@@ -40,6 +40,18 @@ I explore SE, data mining, AI, search-based SE, open access science.
 <li> <a href="http://ai4se.net/projects">My projects</a>
 <li> <a href="http://ai4se.net">My lab</a>
 <li> <a href="application.html">How to apply?</a>
+<li> Current Ph.d. students:
+<img width=35 height=35 src="img/wei.jpg">
+<img width=35 height=35 src="img/rahlk.jpg">
+<img width=35 height=35 src="img/vivek.jpg">
+<img width=35 height=35 src="img/chen.jpg">
+<img width=35 height=35 src="img/Zhe.jpg">
+<img width=35 height=35 src="img/george.jpg">
+<img width=35 height=35 src="img/amrit.jpg">
+<img width=35 height=35 src="img/Jack.jpg">
+<img width=35 height=35 src="img/gh.jpg">
+<img width=35 height=35 src="img/hill.jpg">
+</li>
 </ul>
 </td><td valign=top>
 <img width=100 src="img/industry.png">
@@ -52,23 +64,11 @@ I explore SE, data mining, AI, search-based SE, open access science.
 <li><a href="https://github.com/timm/16/blob/master/matt.pdf">IBM</a></li>
 </ul></p>
 </td></tr>
-<tr><td colspan="3" align=right>
-<img width=35 height=35 src="img/wei.jpg">
-<img width=35 height=35 src="img/rahlk.jpg">
-<img width=35 height=35 src="img/vivek.jpg">
-<img width=35 height=35 src="img/chen.jpg">
-<img width=35 height=35 src="img/Zhe.jpg">
-<img width=35 height=35 src="img/george.jpg">
-<img width=35 height=35 src="img/amrit.jpg">
-<img width=35 height=35 src="img/Jack.jpg">
-<img width=35 height=35 src="img/gh.jpg">
-<img width=35 height=35 src="img/hill.jpg">
 </td></tr></table>
-<ul>
-<li>
+<hr>
+<p>
 Career funding= $8M including support from:
-</li>
-</ul>
+</p>
 <center>
 <img height=56 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"><img
 height=60   src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"><img
