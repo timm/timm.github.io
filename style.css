@@ -68,7 +68,7 @@ dt        {  margin: 1px; font-face: bold; background: pink;}
     margin-left: 0px;
     xborder-right: 1px dotted #534576;
     width: 155px;
-    padding:0 15px 0 15px;
+    padding:0 40px 0 0px;
 }
 
 .wrapper {

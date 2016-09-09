@@ -16,7 +16,6 @@
 </td></tr>
 
 <tr><td valign=top>
-
 <img width=100 height=100 src="img/research2.png">
 <br>
 I explore SE, data mining, AI, search-based SE, open access science.
@@ -31,7 +30,8 @@ I explore SE, data mining, AI, search-based SE, open access science.
 
 </td><td valign=top>
 <img width=100 height=100 src="img/students.png">
-<br>I need talented grad students for AI+SE. 
+<br>
+I need talented grad students for AI+SE. 
  Is that you?
 
 <ul>
@@ -51,8 +51,9 @@ width=35 height=35 src="img/amrit.jpg"> <img
 width=35 height=35 src="img/Jack.jpg"> <img
 width=35 height=35 src="img/gh.jpg"> <img
 width=35 height=35 src="img/hill.jpg"></td><td valign=top>
-<img width=100 src="img/industry.png">
-<br>Ask me how to innovate. <br>On time.<br> On budget.
+<img height=100 width=100 src="img/industry.png">
+<br>
+Ask me how to innovate. <br>On time.<br> On budget.
 <p>Case studies:
 <ul>
 <li><a href="https://www.sbir.gov/sbirsearch/detail/4945">Grammatech</a></li>
