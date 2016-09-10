@@ -50,7 +50,9 @@ alt="George Mathew" width=35 height=35 src="img/george.jpg"></a> <a href="http:/
 alt="Amritanshu Agrawal" width=35 height=35 src="img/amrit.jpg"></a> <a href="http://ai4se.net/people/2014/05/16/Di-Chen/"><img
 alt="Di (Jack) Chen" width=35 height=35 src="img/Jack.jpg"></a> <a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img
 alt="Guilherme Ferreira" width=35 height=35 src="img/gh.jpg"></a> <a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img
-alt="Andrew Hill" width=35 height=35 src="img/hill.jpg"></td><td valign=top>
+alt="Andrew Hill" width=35 height=35 src="img/hill.jpg">
+<!-- img src="https://images-na.ssl-images-amazon.com/images/I/41bvcImU6IL._SL75_.jpg" -->
+</td><td valign=top>
 <img height=100 width=100 src="img/industry.png">
 <br>
 Ask me how to innovate. <br>On time.<br> On budget.
