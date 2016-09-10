@@ -41,16 +41,16 @@ I need talented grad students for AI+SE.
 <li> <a href="application.html">How to apply?</a>
 <li> Current Ph.d. students:
 </ul>
-<img width=35 height=35 src="img/wei.jpg"> <img 
-width=35 height=35 src="img/rahlk.jpg"> <img 
-width=35 height=35 src="img/vivek.jpg"> <img 
-width=35 height=35 src="img/chen.jpg"> <img
-width=35 height=35 src="img/Zhe.jpg"> <img
-width=35 height=35 src="img/george.jpg"> <img
-width=35 height=35 src="img/amrit.jpg"> <img
-width=35 height=35 src="img/Jack.jpg"> <img
-width=35 height=35 src="img/gh.jpg"> <img
-width=35 height=35 src="img/hill.jpg"></td><td valign=top>
+<a href="http://ai4se.net/people/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=35 height=35 src="img/wei.jpg"></a> <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img 
+alt="Rahul Krishna" width=35 height=35 src="img/rahlk.jpg"></a> <a href="http://ai4se.net/people/2014/10/03/Vivek-Nair/"><img 
+alt = "Vivek Nair" width=35 height=35 src="img/vivek.jpg"></a> <a href="http://ai4se.net/people/2014/06/04/Jianfeng-Chen/"><img 
+alt ="Jianfeng Chen" width=35 height=35 src="img/chen.jpg"></a> <a href="http://ai4se.net/people/2014/05/19/Zhe-Yu/"><img
+alt="Zhe Yu" width=35 height=35 src="img/Zhe.jpg"></a> <a href="http://ai4se.net/people/2014/05/18/George-Mathew/"><img
+alt="George Mathew" width=35 height=35 src="img/george.jpg"></a> <a href="http://ai4se.net/people/2014/05/17/Amritanshu-Agrawal/"><img
+alt="Amritanshu Agrawal" width=35 height=35 src="img/amrit.jpg"></a> <a href="http://ai4se.net/people/2014/05/16/Di-Chen/"><img
+alt="Di (Jack) Chen" width=35 height=35 src="img/Jack.jpg"></a> <a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img
+alt="Guilherme Ferreira" width=35 height=35 src="img/gh.jpg"></a> <a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img
+alt="Andrew Hill" width=35 height=35 src="img/hill.jpg"></td><td valign=top>
 <img height=100 width=100 src="img/industry.png">
 <br>
 Ask me how to innovate. <br>On time.<br> On budget.
