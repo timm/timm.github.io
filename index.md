@@ -60,17 +60,22 @@ Ask me how to innovate. <br>On time.<br> On budget.
 <img height=45 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png" > 
 <img height=45 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"> 
 <img height=65 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg">
-</td></tr></table>
-<hr>
-<p>Current PhD students:
-<a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img align=right alt="Andrew Hill" width=32 height=32 src="img/hill.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img align=right alt="Guilherme Ferreira" width=32 height=32 src="img/gh.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/16/Di-Chen/"><img align=right alt="Di (Jack) Chen" width=32 height=32 src="img/Jack.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/17/Amritanshu-Agrawal/"><img align=right alt="Amritanshu Agrawal" width=32 height=32 src="img/amrit.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/18/George-Mathew/"><img align=right alt="George Mathew" width=32 height=32 src="img/george.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/19/Zhe-Yu/"><img align=right alt="Zhe Yu" width=32 height=32 src="img/Zhe.jpg"></a>
-<a href="http://ai4se.net/people/2014/06/04/Jianfeng-Chen/"><img align=right alt ="Jianfeng Chen" width=32 height=32 src="img/chen.jpg"></a>
-<a href="http://ai4se.net/people/2014/10/03/Vivek-Nair/"><img align=right alt = "Vivek Nair" width=32 height=32 src="img/vivek.jpg"></a>
-<a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img align=right alt="Rahul Krishna" width=32 height=32 src="img/rahlk.jpg"></a> 
-<a href="http://ai4se.net/people/2014/10/05/Wei-Fu/"><img align=right alt="Wei Fu" width=32 height=32 src="img/wei.jpg"></a></p>
+</td>
+</tr>
+<tr><td colspan=3>
+<p>Current PhD students:</p>
+<center>
+<a href="http://ai4se.net/peoplppe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=36 height=36 src="img/wei.jpg"></a>
+<a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=36 height=36 src="img/rahlk.jpg"></a> 
+<a href="http://ai4se.net/people/2014/10/03/Vivek-Nair/"><img alt = "Vivek Nair" width=36 height=36 src="img/vivek.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/18/George-Mathew/"><img alt="George Mathew" width=36 height=36 src="img/george.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/19/Zhe-Yu/"><img alt="Zhe Yu" width=36 height=36 src="img/Zhe.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/16/Di-Chen/"><img alt="Di (Jack) Chen" width=36 height=36 src="img/Jack.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/17/Amritanshu-Agrawal/"><img alt="Amritanshu Agrawal" width=36 height=36 src="img/amrit.jpg"></a>
+<a href="http://ai4se.net/people/2014/06/04/Jianfeng-Chen/"><img alt ="Jianfeng Chen" width=36 height=36 src="img/chen.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=36 height=36 src="img/gh.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img alt="Andrew Hill" width=36 height=36 src="img/hill.jpg"></a>
+</center>
+</td></tr>
+</table>
 
