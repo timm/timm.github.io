@@ -5,7 +5,7 @@
 
 [Full details, 28 pages](pdf/MenziesCF.pdf). TL;DR? Then...
 
-# Some stats:
+## Some stats:
 
 **Funding**
 
@@ -39,7 +39,7 @@
  href="https://www.amazon.com/Art-Science-Analyzing-Software-Data/dp/0124115195"><img width=150 src="img/asdbookCover.png"></a>&nbsp;<a
  href="https://www.amazon.com/Perspectives-Data-Science-Software-Engineering/dp/0128042060"><img width=150 src="img/perspectivesBook.jpg"></a>
 
-# Short bio
+## Short bio
 
 Tim Menzies (Ph.D., UNSW, 1995) is a full Professor in CS at North Carolina
 State University where he teaches software engineering, automated software
@@ -65,3 +65,31 @@ chair of ICMSE'16. For more, see his vita
 ([http://goo.gl/8eNhYM](http://goo.gl/8eNhYM)) or his list of publications
 [https://goo.gl/qNQAIq](https://goo.gl/qNQAIq)) or his home page
 [http://menzies.us](http://menzies.us).
+
+## Projects
+
+### Past
+
+- SE research chair at NASA's software IV&V facility.
+- Code comprehension with Grammatech
+- National Archives
+
+
+### Current
+
+- Documenting what was:
+       - <a href="http://openscience.us/repo">Methods for open science</a>
+       - <a href="books.html">Textbooks on software science</a>
+       - Belief and proof in software engineering.
+
+- Building what's next:
+       - <a href="http://tiny.cc/factorg">Case studies in industrial data mining</a>
+       - <a href="http://menzies.us/pdf/15lace2.pdf">Data sharing and privacy</a>
+       -  <a href="https://docs.google.com/presentation/d/145_yPZnx65Z-TOW3_Y9HcLqbEm39QZD1oZMksI8FqW4/edit#slide=id.gc6f980f91_0_29">Text mining: active learning, crowd-sourcing</a>
+       - <a href="http://www.slideshare.net/timmenzies/gale-geometric-active-learning-for-searchbased-software-engineering">Multi-objective optimization</a>
+       - <a href="https://raw.githubusercontent.com/timm/timm.github.io/master/pdf/16tunelearner.pdf">Learning how to make learners smarter (hyperparameter optimization)</a>
+       - Transfer learning: <a href="http://dl.acm.org/citation.cfm?id=2970339">bellwethers</a>, heterogeneous data
+       - From prediction to planning
+       - <a href="http://arxiv.org/pdf/1609.00489">Effort estimation</a>
+
+

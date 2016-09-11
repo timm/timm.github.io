@@ -1,9 +1,22 @@
-<center>
 
 <a href="img/bigtim.jpg"><img src="img/bigtim.jpg" width=470></a>
-
-</center>
-
+<p>
+I find simple solutions to seemingly hard problems.</a></p>
+<p>Turns out, the world is 
+<a href=">http://menzies.us/pdf/07strange.pdf">much simpler</a> than we might thought.
+With the right tools,
+it is fast and easy to 
+discover simple models for prediction  and control.
+E.g.
+how to <a href="http://menzies.us/pdf/15gale.pdf">optimize </a> hard problems;
+<a href="http://menzies.us/pdf/13transferEffort.pdf">transferlessons learned</a> between software projects;
+share <a href="http://menzies.us/pdf/15lace2.pdf">privitized  data</a>;
+and  <a href="http://menzies.us/pdf/03tar2.pdf">explaining ideas</a> very succinctly.
+</p>
+<p>
+So what hard problem can I simplify for you?
+</p>
+<hr>
 <table  class=paddingBetweenCols>
 
 
@@ -20,7 +33,6 @@
 <br>
 I explore SE, data mining, AI, search-based SE, open access science.
 <ul>
-<li> <a href="goals.html">My goals</a></li>
 <li> <a href="https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&oi=ao">Papers</a></li>
 <li> <a href="https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4">Students (all)</a></li>
 <li> <a href="https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746">Funding</a></li>
@@ -65,11 +77,9 @@ Ask me how to innovate. <br>On time.<br> On budget.
 </ul></p>
 </td></tr>
 </td></tr></table>
-<hr>
 <p>
 Career funding= $8M including support from:
-</p>
-<center>
+<br>
 <img height=56 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"><img
 height=60   src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"><img
 height=56 src="https://65.media.tumblr.com/avatar_fd969ad68e5a_128.png"><img
@@ -77,33 +87,8 @@ height=56 src="img/ln.png"><img
 height=56 src="https://pbs.twimg.com/profile_images/67630775/button_meatball_normal.png"><img
 height=56 src="http://www.nij.gov/PublishingImages/nij-logo-sak-page.jpg"><img
 height=56 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png">
-</center>
+</p>
 
-<hr>
-
-Prior projects:
-
-- SE research chair at NASA's software IV&V facility.
-- Code comprehension with Grammatech
-- National Archives
-
-
-Currently:
-
-- Documenting what was:
-       - <a href="http://openscience.us/repo">Methods for open science</a>
-       - <a href="books.html">Textbooks on software science</a>
-       - Belief and proof in software engineering.
-
-- Building what's next:
-       - <a href="http://tiny.cc/factorg">Case studies in industrial data mining</a>
-       - <a href="http://menzies.us/pdf/15lace2.pdf">Data sharing and privacy</a>
-       -  <a href="https://docs.google.com/presentation/d/145_yPZnx65Z-TOW3_Y9HcLqbEm39QZD1oZMksI8FqW4/edit#slide=id.gc6f980f91_0_29">Text mining: active learning, crowd-sourcing</a>
-       - <a href="http://www.slideshare.net/timmenzies/gale-geometric-active-learning-for-searchbased-software-engineering">Multi-objective optimization</a>
-       - <a href="https://raw.githubusercontent.com/timm/timm.github.io/master/pdf/16tunelearner.pdf">Learning how to make learners smarter (hyperparameter optimization)</a>
-       - Transfer learning: <a href="http://dl.acm.org/citation.cfm?id=2970339">bellwethers</a>, heterogeneous data
-       - From prediction to planning
-       - <a href="http://arxiv.org/pdf/1609.00489">Effort estimation</a>
 
 
 
