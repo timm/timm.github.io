@@ -3,6 +3,11 @@
 
 #  Curriculum Vitae
 
+Full professor, computer science, NC State University.
+
+I teach programming languages, software engineering,
+automated software engineering, and foundations of software science.
+
 [Full details, 28 pages](pdf/MenziesCF.pdf). TL;DR? Then...
 
 ## Some stats:
