@@ -14,7 +14,7 @@ share <a href="http://menzies.us/pdf/15lace2.pdf">privitized  data</a>;
 and  <a href="http://menzies.us/pdf/03tar2.pdf">explaining ideas</a> very succinctly.
 </p>
 <p>
-So what hard problem can I simplify for you?
+So what can I simplify for you?
 </p>
 <hr>
 <table  class=paddingBetweenCols>
