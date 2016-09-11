@@ -3,7 +3,7 @@
 <p>
 I find simple solutions to seemingly hard problems.</a></p>
 <p>Turns out, the world is 
-<a href=">http://menzies.us/pdf/07strange.pdf">much simpler</a> than we might thought.
+<a href=">http://menzies.us/pdf/07strange.pdf">much simpler</a> than we thought.
 With the right tools,
 it is fast and easy to 
 discover simple models for prediction  and control.
@@ -18,8 +18,8 @@ So what hard problem can I simplify for you?
 </p>
 <hr>
 <p>
-Career funding= $8M including support from:
-<br>
+Career funding= $8M including support from:</p>
+<center>
 <img height=56 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"><img
 height=60   src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"><img
 height=56 src="https://65.media.tumblr.com/avatar_fd969ad68e5a_128.png"><img
@@ -27,7 +27,7 @@ height=56 src="img/ln.png"><img
 height=56 src="https://pbs.twimg.com/profile_images/67630775/button_meatball_normal.png"><img
 height=56 src="http://www.nij.gov/PublishingImages/nij-logo-sak-page.jpg"><img
 height=56 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png">
-</p>
+</center>
 
 
 <hr>
