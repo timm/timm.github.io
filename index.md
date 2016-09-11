@@ -67,6 +67,7 @@ I need talented grad students for AI+SE.
 <li> <a href="application.html">How to apply?</a>
 <li> Current Ph.d. students:
 </ul>
+<p>
 <a href="http://ai4se.net/people/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=35 height=35 src="img/wei.jpg"></a> <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img 
 alt="Rahul Krishna" width=35 height=35 src="img/rahlk.jpg"></a> <a href="http://ai4se.net/people/2014/10/03/Vivek-Nair/"><img 
 alt = "Vivek Nair" width=35 height=35 src="img/vivek.jpg"></a> <a href="http://ai4se.net/people/2014/06/04/Jianfeng-Chen/"><img 
@@ -78,6 +79,7 @@ alt="Di (Jack) Chen" width=35 height=35 src="img/Jack.jpg"></a> <a href="http://
 alt="Guilherme Ferreira" width=35 height=35 src="img/gh.jpg"></a> <a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img
 alt="Andrew Hill" width=35 height=35 src="img/hill.jpg">
 <!-- img src="https://images-na.ssl-images-amazon.com/images/I/41bvcImU6IL._SL75_.jpg" -->
+</p>
 </td><td valign=top>
 <img height=100 width=100 src="img/industry.png">
 <br>
