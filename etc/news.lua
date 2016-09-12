@@ -12,7 +12,7 @@ return {
   {item = {
       when= "Sept 1",
       what= "I'm now an author of a top 100 most cited/year papers in SE",
-      more= "www.researchgate.net/publication/284563030_Highly-cited_papers_in_software_engineering_The_top-100" }},
+      more= "menzies.us/pdf/mostCitedSEpapers.pdf" }},
     
    
   {item = {
