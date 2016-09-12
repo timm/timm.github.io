@@ -52,17 +52,15 @@ Ask me how to innovate. <br>On time.<br> On budget.
 </ul></p>
 </td>
 <td valign=top>
-<p>Career total=$8M. From many sources, including: </p><br>
+<p>Career total=$8M. From many sources, including: </p>
+<center>
 <img height=45 src="https://65.media.tumblr.com/avatar_fd969ad68e5a_128.png">
 <img height=45 src="img/ln.png">
 <img height=45 src="https://pbs.twimg.com/profile_images/67630775/button_meatball_normal.png">
 <img height=45 src="http://www.nij.gov/PublishingImages/nij-logo-sak-page.jpg">
 <img height=45 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png" > 
 <img height=45 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"> 
-<img height=65 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg">
-</td>
-</tr>
-<tr><td colspan=3>
+<img height=65 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></center></td></tr></table><hr>
 <p>Current grad students:</p>
 <center>
 <a href="http://ai4se.net/peoplppe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=60 height=60 src="img/wei.jpg"></a>
@@ -77,6 +75,4 @@ Ask me how to innovate. <br>On time.<br> On budget.
 <a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=60 height=60 src="img/gh.jpg"></a><br>
 <a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img alt="Andrew Hill" width=60 height=60 src="img/hill.jpg"></a>
 </center>
-</td></tr>
-</table>
 
