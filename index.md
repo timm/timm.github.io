@@ -63,7 +63,7 @@ Ask me how to innovate. <br>On time.<br> On budget.
 </td>
 </tr>
 <tr><td colspan=3>
-<p>Current PhD students:</p>
+<p>Current grad students:</p>
 <center>
 <a href="http://ai4se.net/peoplppe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=60 height=60 src="img/wei.jpg"></a>
 <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=60 height=60 src="img/rahlk.jpg"></a> 
@@ -73,7 +73,8 @@ Ask me how to innovate. <br>On time.<br> On budget.
 <a href="http://ai4se.net/people/2014/05/16/Di-Chen/"><img alt="Di (Jack) Chen" width=60 height=60 src="img/Jack.jpg"></a>
 <a href="http://ai4se.net/people/2014/05/17/Amritanshu-Agrawal/"><img alt="Amritanshu Agrawal" width=60 height=60 src="img/amrit.jpg"></a>
 <a href="http://ai4se.net/people/2014/06/04/Jianfeng-Chen/"><img alt ="Jianfeng Chen" width=60 height=60 src="img/chen.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=60 height=60 src="img/gh.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/13/Sushma-ravichandran/"><img width-60 height=60 src="http://ai4se.net/img/sushma.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=60 height=60 src="img/gh.jpg"></a><br>
 <a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img alt="Andrew Hill" width=60 height=60 src="img/hill.jpg"></a>
 </center>
 </td></tr>
