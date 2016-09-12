@@ -1,5 +1,10 @@
 
 return {
+  { item = {
+    when = "Sept 9",
+    what = "Why DE is better than grid search. Sent to IST journal.",
+    more= "arxiv.org/abs/1609.02613"
+  }},
   {item = {
       when= "Sept 7",
       what= "My new book is here.",

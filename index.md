@@ -6,7 +6,7 @@ I find simple solutions to seemingly hard problems.</a></p>
 <a href=">http://menzies.us/pdf/07strange.pdf">much simpler</a> than we thought.
 With the right tools,
 it is fast and easy to 
-discover simple models for prediction  and control.
+<a href="lessdata.html">discover simple models</a> for prediction  and control.
 E.g.
 how to <a href="http://menzies.us/pdf/15gale.pdf">optimize </a> hard problems;
 <a href="http://menzies.us/pdf/13transferEffort.pdf">transferlessons learned</a> between software projects;
