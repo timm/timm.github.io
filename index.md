@@ -42,8 +42,8 @@ So what can I simplify for you?
 </td><td valign=top>
 <img height=100 width=100 src="img/industry.png">
 <br>
-Ask me how to innovate. <br>On time.<br> On budget.
-<p>Case studies:
+<p>Ask me how to innovate. On time. On budget.<br>
+Case studies:
 <ul>
 <li><a href="https://www.sbir.gov/sbirsearch/detail/4945">Grammatech</a></li>
 <li>LexisNexis:<a href="http://www.slideshare.net/slideshow/embed_code/key/f8etbZ448ukfOs">1</a>,<a href="pdf/Best_Practice_SE_text_mining.pdf">2<a> </li>
@@ -52,16 +52,16 @@ Ask me how to innovate. <br>On time.<br> On budget.
 </ul></p>
 </td>
 <td valign=top>
-<p>Career total=$8M. From many sources, including: </p>
+<a href="https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit">Over $8M</a>. From many sources, e.g.: 
 <center>
-<img height=45 src="https://65.media.tumblr.com/avatar_fd969ad68e5a_128.png">
-<img height=45 src="img/ln.png">
-<img height=45 src="https://pbs.twimg.com/profile_images/67630775/button_meatball_normal.png">
-<img height=45 src="http://www.nij.gov/PublishingImages/nij-logo-sak-page.jpg">
-<img height=45 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png" > 
-<img height=45 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"> 
-<img height=65 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></center></td></tr></table><hr>
-<p>Current grad students:</p>
+<p><img height=50 src="https://65.media.tumblr.com/avatar_fd969ad68e5a_128.png">
+<img height=50 src="img/ln.png">
+<img height=50 src="https://pbs.twimg.com/profile_images/67630775/button_meatball_normal.png">
+<img height=50 src="http://www.nij.gov/PublishingImages/nij-logo-sak-page.jpg">
+<img height=50 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png" > 
+<img height=50 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"> 
+<img height=75 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></p></center></td></tr></table><hr>
+<p>My current grad students at <a href="http://ai4se.net">RAISE</a> (real-world AI for SE):</p>
 <center>
 <a href="http://ai4se.net/peoplppe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=60 height=60 src="img/wei.jpg"></a>
 <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=60 height=60 src="img/rahlk.jpg"></a> 

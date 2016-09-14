@@ -52,7 +52,7 @@ body {  font-size: small;
         font-family:Lato,sans-serif; background: #FFF;}
 header p { margin-bottom: 5px;  padding-top:0px; padding-bottom:0px;
            margin-top:0px; }
-header h1 {padding-top: 7px; padding-bottom: 7px; margin-top: 0px; margin-bottom:0px;
+header h1 {padding-top: 8px; padding-bottom: 8px; margin-top: 0px; margin-bottom:0px;
             color: #fff; background: #534576;}
 header    { margin-top:0px; margin-bottom:0px;padding-bottom: 0px;  padding-top:0px;}
 dt        {  margin: 1px; font-face: bold; background: pink;}
@@ -67,8 +67,8 @@ dt        {  margin: 1px; font-face: bold; background: pink;}
     padding-left: 0px;
     margin-left: 0px;
     xborder-right: 1px dotted #534576;
-    width: 160px;
-    padding:0 35px 0 0px;
+    width: 170px;
+    padding:0 15px 0 15px;
 }
 
 .wrapper {
