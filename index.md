@@ -3,7 +3,7 @@
 <p>
 I find simple solutions to seemingly hard problems.</a></p>
 <p>Turns out, the world is 
-<a href=">http://menzies.us/pdf/07strange.pdf">much simpler</a> than we thought.
+much <a href=">http://menzies.us/pdf/07strange.pdf">simpler</a> than we thought.
 With the right tools,
 it is fast and easy to 
 discover <a href="lessdata.html">simple</a> models for prediction  and control.
