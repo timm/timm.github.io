@@ -116,6 +116,7 @@ section#right {
 }
 
 footer {
+    padding-top: 2000px;
     margin-top: 15px;
     xborder-top: thin dotted #534576;
 }

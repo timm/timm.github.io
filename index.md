@@ -54,12 +54,13 @@ Case studies:
 <td valign=top>
 <a href="https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit">Over $8M</a>. From many sources, e.g.: 
 <center>
-<p><img height=50 src="https://65.media.tumblr.com/avatar_fd969ad68e5a_128.png">
+<p>
+<img height=50 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"> 
 <img height=50 src="img/ln.png">
 <img height=50 src="https://pbs.twimg.com/profile_images/67630775/button_meatball_normal.png">
+<img height=50 src="https://65.media.tumblr.com/avatar_fd969ad68e5a_128.png">
 <img height=50 src="http://www.nij.gov/PublishingImages/nij-logo-sak-page.jpg">
 <img height=50 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png" > 
-<img height=50 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"> 
 <img height=75 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></p></center></td></tr></table><hr>
 <p>My current grad students at <a href="http://ai4se.net">RAISE</a> (real-world AI for SE):</p>
 <center>
