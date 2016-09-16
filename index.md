@@ -11,7 +11,7 @@ E.g.
 how to <a href="http://menzies.us/pdf/15gale.pdf">optimize </a> hard problems;
 <a href="http://menzies.us/pdf/13transferEffort.pdf">transfer</a> lessons learned between software projects;
 share <a href="http://menzies.us/pdf/15lace2.pdf">privitized</a> data;
-and  <a href="http://menzies.us/pdf/03tar2.pdf">explaining</a> ideas very succinctly.
+and  <a href="http://menzies.us/pdf/03tar2.pdf">explain</a> ideas very succinctly.
 </p>
 <p>
 So what can I simplify for you?
