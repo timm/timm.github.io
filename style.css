@@ -53,7 +53,7 @@ body {  font-size: small;
 header p { margin-bottom: 5px;  padding-top:0px; padding-bottom:0px;
            margin-top:0px; }
 header h1 {padding-top: 8px; padding-bottom: 8px; margin-top: 0px; margin-bottom:0px;
-            color: #fff; background: #534576;}
+            color: #fff; background: #CC0000; aaa:#534576;}
 header    { margin-top:0px; margin-bottom:0px;padding-bottom: 0px;  padding-top:0px;}
 dt        {  margin: 1px; font-face: bold; background: pink;}
 .right h1 {  padding-top:0px    }
@@ -182,30 +182,31 @@ ul {
   padding-left: 15px;
 }
 
+    /* aa:534576; */
 /* unvisited link */
 a:link {
-    color: #534576;
+    color: #CC0000; 
     font-weight: bold;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: #534576;
+    color: #CC0000; 
         font-weight: bold;
     text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-    color: #534576;
+    color: #CC0000; 
         font-weight: bold;
     text-decoration: underline;
 }
 
 /* selected link */
 a:active {
-    color: #534576;
+    color: #CC0000; 
     font-weight: bold;
     text-decoration: underline;
 }

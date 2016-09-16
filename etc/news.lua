@@ -1,6 +1,11 @@
 
 return {
   { item = {
+    when = "Sept 15",
+    what = "Recommendations for Intelligence Core Reorganization. Sent to IST journal",
+    more= "arxiv.org/abs/1609.03614"
+  }},
+  { item = {
     when = "Sept 9",
     what = "Why DE is better than grid search. Sent to IST journal.",
     more= "arxiv.org/abs/1609.02613"
