@@ -64,7 +64,7 @@ Case studies:
 <img height=75 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></p></center></td></tr></table><hr>
 <p>My grad students at <a href="http://ai4se.net">RAISE</a> (real-world AI for SE):</p>
 <center>
-<a href="http://ai4se.net/peoplppe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=60 height=60 src="img/wei.jpg"></a>
+<a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=60 height=60 src="img/wei.jpg"></a>
 <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=60 height=60 src="img/rahlk.jpg"></a> 
 <a href="http://ai4se.net/people/2014/10/03/Vivek-Nair/"><img alt = "Vivek Nair" width=60 height=60 src="img/vivek.jpg"></a>
 <a href="http://ai4se.net/people/2014/05/18/George-Mathew/"><img alt="George Mathew" width=60 height=60 src="img/george.jpg"></a>
