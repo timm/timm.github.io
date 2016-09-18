@@ -50,9 +50,9 @@
 }
 body {  font-size: small;
         font-family:Lato,sans-serif; background: #FFF;}
-header p { margin-bottom: 5px;  padding-top:0px; padding-bottom:0px;
+header p { margin-bottom: 0px;  padding-top:0px; padding-bottom:0px;
            margin-top:0px; }
-header h1 {padding-top: 6px; padding-bottom: 6px; margin-top: 0px; margin-bottom:0px;
+header h1 {padding-top: 6px; padding-bottom: 6px; margin-top: 0px; margin-bottom:2px;
             color: #fff; background: #CC0000; aaa:#534576;}
 header    { margin-top:0px; margin-bottom:0px;padding-bottom: 0px;  padding-top:0px;}
 dt        {  margin: 1px; font-face: bold; background: pink;}
