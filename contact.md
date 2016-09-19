@@ -9,7 +9,6 @@
 304-376-2859
 
 **Fax:**     
-919-515-7896, attn Tim Menzies
 
 **Room:**    
 3298 EB II [(directions)](https://www.csc.ncsu.edu/department/map/)
