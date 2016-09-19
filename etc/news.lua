@@ -51,7 +51,8 @@ return {
   
   {item = {
     when= "Aug13",
-    what= "Paper accepted with minor revisions, EMSE journal, Phase Delay and SE"
+    what= "Paper accepted with minor revisions, EMSE journal, Phase Delay and SE",
+    more="arxiv.org/abs/1609.04886"
   }},
   
   
