@@ -2,34 +2,27 @@
 
 <html lang="en">
 <head>
-    <meta name="generator" content=
-    "HTML Tidy for Mac OS X (vers 31 October 2006 - Apple Inc. build 15.17), see www.w3.org">
+    <meta name="generator" content= "HTML Tidy for Mac OS X (vers 31 October 2006 - Apple Inc. build 15.17), see www.w3.org">
     <meta charset="utf-8">
     <meta name="description" content="Web site for Prof Tim Menzies, CS, North Carolina State University">
     <meta name="author" content="{{author}}">
     <meta name="keywords" content="university, research, professor, software engineering, artifical intelligence, software science, open science, optimzation, multi-objective evolution algorithms, abduction, data mining, defect prediction, effort estimation">
-
     <title>{{site}}{{#title}}: {{title}}{{/title}}</title>
     <link href='style.css' rel='stylesheet' type='text/css'>  
-
     <link rel="icon" href="img/favicon.png" type="image/png" />
-    <link rel="stylesheet"
-href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
-    
+    <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 </head>
 <body>
   <div class="wrapper">
     <header>
-
       <p class="alignleft">
-      <a href="http://menzies.us"><i class="fa fa-home" style="font-size: 16px; color: #CC0000;"></i></a> 
-      <a href="mailto:tim@menzies.us">tim@menzies.us</a>
+        <a href="http://menzies.us"><i class="fa fa-home" style="font-size: 16px; color: #CC0000;"></i></a> 
+        <a href="mailto:tim@menzies.us">tim@menzies.us</a>
       </p>
       <p class="alignright">
-      <a href="bio.html">cv</a> |
-                               
-      <a href="cal.html">calendar</a> | 
-      <a href="http://helenburgess.com">helen</a> </p>
+        <a href="bio.html">cv</a> |
+        <a href="cal.html">calendar</a> | 
+        <a href="http://helenburgess.com">helen</a> </p>
       <br clear=all>
       <h1>&nbsp; 
         <p class="alignleft">&nbsp;Tim Menzies</p><p
@@ -41,35 +34,37 @@ href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.
       <a href="http://ai4se.net">lab</a> 
       </p> 
       <p class="alignright">
-            <img width=120 src="img/CSClogo.gif"></a>
-                  </p>
+      <img width=120 src="img/CSClogo.gif"></a>
+      </p>
     </header>
     <div id="core" class="clearfix">
       <section id="left">
         {{{main}}}
       </section>
       <section id="right">
-          <small>
-            <p>
-            <a href="http://github.com/timm"><i class="fa fa-github" style="padding-right:5px; color:#CC0000; font-size: 25px;"></i></a>
-            <a href="https://twitter.com/timmenzies"><i class="fa fa-twitter-square" style="padding-right:5px; color:#CC0000; font-size: 25px;"></i></a>
-            <a href="https://www.facebook.com/timmenzies"><i class="fa fa-facebook-official" style="padding-right:5px;  color:#CC0000; font-size: 25px;"></i></a>
-            <a href="https://www.linkedin.com/in/tim-menzies-444183"><i class="fa fa-linkedin" style="padding-right:5px; color:#CC0000; font-size: 25px;"></i></a></p>
-</p>
-        <p><b>Office: </b>3298,eeII,<a href="https://www.csc.ncsu.edu/department/map">map</a><br>
-        <b>Call: </b>304-376-2859<br>
-        <b>Fax: </b>919-515-7896<br>
-        <b>Snail mail: </b></p>
-        <p>
-        Computer Science, NC State University, 890 Oval Dr, Raleigh, NC, 27695-8206.
-        </p>
-        {{#briefs}}
-        <p id="class{{item.n}}"><b>{{item.when}}</b>:
-        {{item.what}}
-        {{#item.more}}<a href="http://{{{item.more}}}">More...</a>{{/item.more}}</p>
-        {{/briefs}}
-          </small>
-          <a href="news.html"><img src="http://www.hcdistrictclerk.com/ChildSupport.Web/images/icons/icon_MoreNews.gif"></a>
+        <small>
+          <p>
+          <hr>
+          <a href="http://github.com/timm"><i class="fa fa-github" style="padding-right:5px; color:#CC0000; font-size: 25px;"></i></a>
+          <a href="https://twitter.com/timmenzies"><i class="fa fa-twitter-square" style="padding-right:5px; color:#CC0000; font-size: 25px;"></i></a>
+          <a href="https://www.facebook.com/timmenzies"><i class="fa fa-facebook-official" style="padding-right:5px;  color:#CC0000; font-size: 25px;"></i></a>
+          <a href="https://www.linkedin.com/in/tim-menzies-444183"><i class="fa fa-linkedin" style="padding-right:5px; color:#CC0000; font-size: 25px;"></i></a></p>
+          </p>
+          <p><b>OFFICE: </b>3298,eeII,<a href="https://www.csc.ncsu.edu/department/map">map</a><br>
+          <b>CALL: </b>304-376-2859<br>
+          <b>FAX: </b>919-515-7896<br>
+          <b>SNAIL MAIL: </b></p>
+          <p>
+          Computer Science, NC State University, 890 Oval Dr, Raleigh, NC, 27695-8206.
+          <hr>
+          </p>
+          {{#briefs}}
+          <p id="class{{item.n}}"><b>{{item.when}}</b>:
+          {{item.what}}
+          {{#item.more}}<a href="http://{{{item.more}}}">More...</a>{{/item.more}}</p>
+          {{/briefs}}
+        </small>
+        <a href="news.html"><img src="http://www.hcdistrictclerk.com/ChildSupport.Web/images/icons/icon_MoreNews.gif"></a>
       </section>            
     </div>
     <footer>
@@ -79,7 +74,7 @@ href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.
           <pre>{{footer}}</pre> 
         </a></p>
       </center>
-    </footer>	
+    </footer>       
   </div>
 </body>
 </html>
