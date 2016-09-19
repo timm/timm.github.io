@@ -7,6 +7,7 @@
 {{#news}}
 <b>{{item.when}}</b>:
 {{item.what}}
-<a href="http://{{{item.more}}}">More...</a></p>
-	    
+{{#item.more}}
+<a href="http://{{{item.more}}}">More...</a>{{/item.more}}
+</p>
 {{/news}}
