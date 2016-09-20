@@ -1,7 +1,7 @@
 
 <img src="img/timm.png" align=right>
 
-#  Curriculum Vitae
+#  Resume
 
 Full professor, computer science, NC State University.
 
