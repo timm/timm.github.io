@@ -1,6 +1,12 @@
 
 return {
-  {item={
+   
+  {item = {
+    when= "Sept 20",
+    what= "Paper accepted with minor revisions, EMSE journal, Negative Results about Effort Estimation",
+    more="arxiv.org/abs/1609.05563"
+  }},
+{item={
     when="Sept 19",
     what="Invited to speak at 'Big Software on the Run' winter school, Netherlands in Oct.",
     more="www.3tu-bsr.nl/doku.php?id=bsr-ws2016:speakers"
@@ -29,12 +35,7 @@ return {
       what= "I'm now an author of a top 100 most cited/year papers in SE",
       more= "menzies.us/pdf/mostCitedSEpapers.pdf" }},
     
-   
-  {item = {
-    when= "Aug30",
-    what= "Paper accepted with minor revisions, EMSE journal, Negative Results about Effort Estimation"
-  }},
-    {item = {
+      {item = {
     when= "Aug26",
     what= "Breakthrough in multi-objective optimization "..
           "Sent to TSE",
