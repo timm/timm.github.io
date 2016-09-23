@@ -1,5 +1,5 @@
 
-<img align=right width=300 src="https://www.oldstationsurgery.nhs.uk/wp-content/uploads/sites/463/2016/02/news-image.png">
+<img align=right width=200 src="https://www.oldstationsurgery.nhs.uk/wp-content/uploads/sites/463/2016/02/news-image.png">
 # News
 
 
