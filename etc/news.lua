@@ -6,11 +6,6 @@ return {
     what= "Paper accepted with minor revisions, EMSE journal, Negative Results about Effort Estimation",
     more="arxiv.org/abs/1609.05563"
   }},
-{item={
-    when="Sept 19",
-    what="Invited to speak at 'Big Software on the Run' winter school, Netherlands in Oct.",
-    more="www.3tu-bsr.nl/doku.php?id=bsr-ws2016:speakers"
-  }},
   {item={
     when="Sept 16",
     what="Invited to give keynote, 2nd Int. Workshop on Software Analytics (SWAN 2016) in Nov",
