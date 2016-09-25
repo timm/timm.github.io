@@ -1,7 +1,19 @@
 
 <a href="img/bigtim.jpg"><img src="img/bigtim.jpg" width=470></a>
-<p>
-I find simple solutions to seemingly hard problems.</a></p>
+<p>My grad students at the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
+<a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=38 height=38 src="img/wei.jpg"></a>
+<a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=38 height=38 src="img/rahlk.jpg"></a> 
+<a href="http://ai4se.net/people/2014/10/03/Vivek-Nair/"><img alt = "Vivek Nair" width=38 height=38 src="img/vivek.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/18/George-Mathew/"><img alt="George Mathew" width=38 height=38 src="img/george.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/19/Zhe-Yu/"><img alt="Zhe Yu" width=38 height=38 src="img/Zhe.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/16/Di-Chen/"><img alt="Di (Jack) Chen" width=38 height=38 src="img/Jack.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/17/Amritanshu-Agrawal/"><img alt="Amritanshu Agrawal" width=38 height=38 src="img/amrit.jpg"></a>
+<a href="http://ai4se.net/people/2014/06/04/Jianfeng-Chen/"><img alt ="Jianfeng Chen" width=38 height=38 src="img/chen.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/13/Sushma-ravichandran/"><img width-60 height=38 src="http://ai4se.net/img/sushma.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=38 height=38 src="img/gh.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img alt="Andrew Hill" width=38 height=38 src="img/hill.jpg"></a>
+</p>
+<p>We find simple solutions to seemingly hard problems.</a></p>
 <p>Turns out, the world is 
 much <a href=">http://menzies.us/pdf/07strange.pdf">simpler</a> than we thought.
 With the right tools,
@@ -14,15 +26,15 @@ share <a href="http://menzies.us/pdf/15lace2.pdf">privitized</a> data;
 and  <a href="http://menzies.us/pdf/03tar2.pdf">explain</a> ideas very succinctly.
 </p>
 <p>
-So what can I simplify for you?
+So what can we simplify for you?
 </p>
 <hr>
 <table  class=paddingBetweenCols>
 <tr>
 <td>
-<h2> Students</h2>
+<h2> For Students</h2>
 </td><td>
-<h2>Industry</h2>
+<h2>For Industry</h2>
 </td><td>
 <h2> Funding </h2>
 </td></tr>
@@ -61,18 +73,5 @@ Case studies:
 <img height=50 src="http://www.nij.gov/PublishingImages/nij-logo-sak-page.jpg">
 &nbsp;<img height=50 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png" > 
 <img height=75 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></p></td></tr>
-</table><hr>
-<p>My grad students at <a href="http://ai4se.net">RAISE</a> (real-world AI for SE):</p>
-<center>
-<a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=60 height=60 src="img/wei.jpg"></a>
-<a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=60 height=60 src="img/rahlk.jpg"></a> 
-<a href="http://ai4se.net/people/2014/10/03/Vivek-Nair/"><img alt = "Vivek Nair" width=60 height=60 src="img/vivek.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/18/George-Mathew/"><img alt="George Mathew" width=60 height=60 src="img/george.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/19/Zhe-Yu/"><img alt="Zhe Yu" width=60 height=60 src="img/Zhe.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/16/Di-Chen/"><img alt="Di (Jack) Chen" width=60 height=60 src="img/Jack.jpg"></a></br>
-<a href="http://ai4se.net/people/2014/05/17/Amritanshu-Agrawal/"><img alt="Amritanshu Agrawal" width=60 height=60 src="img/amrit.jpg"></a>
-<a href="http://ai4se.net/people/2014/06/04/Jianfeng-Chen/"><img alt ="Jianfeng Chen" width=60 height=60 src="img/chen.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/13/Sushma-ravichandran/"><img width-60 height=60 src="http://ai4se.net/img/sushma.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=60 height=60 src="img/gh.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img alt="Andrew Hill" width=60 height=60 src="img/hill.jpg"></a>
-</center>
+</table>
+
