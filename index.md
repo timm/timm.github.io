@@ -1,4 +1,3 @@
-
 <a href="img/bigtim.jpg"><img src="img/bigtim.jpg" width=470></a>
 <p>My grad students at the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
 <a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=38 height=38 src="img/wei.jpg"></a>
