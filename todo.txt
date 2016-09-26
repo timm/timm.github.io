@@ -1,3 +1,27 @@
+
+When applied as our
+sampling method for crowdsourcing,
+the Menzies methods would (a) recursively bi-cluster the data
+using a first approximation to the  first PCA component (recomputed
+for the data found at each level of the recursion); then (b) only ask the crowd
+for a (small) number of sample of each leaf cluster.
+
+
+Our preliminary work qualified workers by training and then testing them on specification concepts, but challenges remain in 
+ how to do this efficiently and effectively (Section~\ref{})
+% \kt{We've just said that MTurk is open call, but that MTurk was used for qualified experiments that are better than open call.... I think it's inaccurate, then, to call all MTurk experiments open call}
+In addition to accessing qualified crowds through crowdsourcing platforms,
+ via our IBM  industrial partners, we can access
+large SE crowds with specialized  SE knowledge (see attached statement of
+  interest in working with us on this project, from IBM's Research Triangle development team
+  at Raleigh, North Carolina).  IBM runs its BlueMix product
+as an ``internal open project''. At one recent hackathon open to only
+IBM developers, 1,300 programmers colloberated to contribute nearly a 100 small
+tools to BlueMix.  That is, with some evangelising within the BlueMix community,
+we have ready access to the participants needed for this research.
+
+]
+
 collect all my magic icons locally
 
 dd funding to raise lab
