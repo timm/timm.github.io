@@ -1,7 +1,7 @@
 
 
 <img src="http://collegeinformations.com/wp-content/uploads/2012/06/Graduate-Studies.jpg" align=right width=200>
-# Thing About Grad Studies?
+# Thinking About Graduate Studies?
 
 <em>
 Please forgive this form letter as a reply but, as you might imagine, I get many such enquiries.
