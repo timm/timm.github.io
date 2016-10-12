@@ -8,7 +8,7 @@ return {
   {item = {
     when= "Oct 7",
     what= "Successfully completed ICSME'16 as co-general chair.",
-    more="icsme2016.github.io"
+    more="twitter.com/search?f=images&vertical=default&q=%23icsme16&src=typd"
   }},
   {item = {
     when= "Sept 20",
