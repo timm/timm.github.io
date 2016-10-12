@@ -8,7 +8,7 @@ return {
   {item = {
     when= "Oct 7",
     what= "Successfully completed ICSME'16 as co-general chair.",
-    more="icsme16.github.io"
+    more="icsme2016.github.io"
   }},
   {item = {
     when= "Sept 20",
