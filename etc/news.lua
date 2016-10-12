@@ -1,6 +1,15 @@
 
 return {
-   
+  {item = {
+    when= "Oct 12",
+    what= "Appointed co-PC chair for Syposium on Search-Based Software Engineering (SSBSE'17)",
+    more="ssbse17.github.io"
+  }},
+  {item = {
+    when= "Oct 7",
+    what= "Successfully completed ICSME'16 as co-general chair.",
+    more="icsme16.github.io"
+  }},
   {item = {
     when= "Sept 20",
     what= "Paper accepted with minor revisions, EMSE journal, Negative Results about Effort Estimation",
