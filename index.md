@@ -1,6 +1,6 @@
 <a href="img/bigtim.jpg"><img src="img/bigtim.jpg" width=470></a>
-
-<p>My grad students at the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
+<p>Here are my grad students at the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab.</p>
+<p>
 <a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=38 height=38 src="img/wei.jpg"></a>
 <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=38 height=38 src="img/rahlk.jpg"></a> 
 <a href="http://ai4se.net/people/2014/10/03/Vivek-Nair/"><img alt = "Vivek Nair" width=38 height=38 src="img/vivek.jpg"></a>
@@ -12,6 +12,11 @@
 <a href="http://ai4se.net/people/2014/05/13/Sushma-ravichandran/"><img width-60 height=38 src="http://ai4se.net/img/sushma.jpg"></a>
 <a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=38 height=38 src="img/gh.jpg"></a>
 <a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img alt="Andrew Hill" width=38 height=38 src="img/hill.jpg"></a>
+</p>
+<p>
+We find simple solutions to seemingly hard problems 
+<a href="#details">(for examples, see below)</a>.
+So what can we simplify for you?
 </p>
 <hr>
 <table  class=paddingBetweenCols>
@@ -59,33 +64,23 @@ Case studies:
 &nbsp;<img height=50 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png" > 
 <img height=75 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></p></td></tr>
 </table>
-
 <hr>
-<h2>What I Do...</h2>
-<p>I find simple solutions to seemingly hard problems.</a></p>
-<p>Turns out, the world is 
-much <a href="http://menzies.us/pdf/07strange.pdf">simpler</a> than we thought.
-With the right tools(*),
-it is fast and easy to 
-discover <a href="lessdata.html">simple</a> models for prediction  and control.
-E.g.
-how to <a href="http://menzies.us/pdf/15gale.pdf">optimize </a> hard problems;
-<a href="http://menzies.us/pdf/13transferEffort.pdf">transfer</a> lessons learned between software projects;
-share <a href="http://menzies.us/pdf/15lace2.pdf">privitized</a> data;
-and  <a href="http://menzies.us/pdf/03tar2.pdf">explain</a> ideas very succinctly.
-</p>
-<p>
-So what can I simplify for you?
-</p>
-<hr>
-<h2>(*) Simplication methods built by my students:</h2>
+<a name="details"><h2>Tools for Simplicity</h2></a>
+<p>Turns out,
+the world becomes 
+much simpler than we thought,
+both <a href="http://menzies.us/pdf/07strange.pdf">empirically</a>
+and
+<a href="lessdata.html">theoretically</a>.
+So with the right tools, it becomes easy to understand, model,
+and control the world.</p><p>For example:
 <ul>
-<li>Very simple optimizers that can:
+<li>Very simple optimizers:
 <ul>
-<li><a href="https://arxiv.org/pdf/1609.01759">Dramatically improve</a>
+<li>Can <a href="https://arxiv.org/pdf/1609.01759">dramatically improve</a>
 the performance of  data miners;
 </ul>
-<li> Contrast set learners that:
+<li> Contrast set learners:
 <ul>
 <li>Find simple control patterns in <a href="http://menzies.us/pdf/02re02.pdf">requirements models</a>;
 <li>
@@ -96,15 +91,28 @@ Out-perform state-of-the-art optimizers for <a href="https://ntrs.nasa.gov/archi
 <li>
  <a href="http://menzies.us/pdf/02truisms.pdf">Test truisms</a> in software engineering;
 </ul>
-<li> Active learners that let us:
+<li> Active learners:
 <ul>
-<li>Estimate large software projects <a href="http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F32%2F6568862%2F06392173.pdf&authDecision=-203">after
+<li>That can estimate large software projects <a href="http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F32%2F6568862%2F06392173.pdf&authDecision=-203">after
 just a few samples</a>;
 <li>
 <a href="http://menzies.us/pdf/15gale.pdf">Reduce the cost</a> of multi-objective optimization by orders of magnitude.
 </ul>
-<li>Social metrics that lead to <a href="http://menzies.us/pdf/12better.pdf">near-optimal defect prediction</a>;
+<li>
+Clustering tools:
+<ul>
+<Li>
+Enable
+<a href="http://menzies.us/pdf/13transferEffort.pdf">transfering</a> lessons learned between software projects;
 </ul>
-
+<li>Feature and instance selectors:
+<ul>
+<li> 
+That let communities 
+share and reason about <a href="http://menzies.us/pdf/15lace2.pdf">privitized</a> data.
+</ul>
+<li>Social metrics:
+<ul>
+<li>That generate <a href="http://menzies.us/pdf/12better.pdf">near-optimal defect prediction</a>;
 </ul>
 </ul>
