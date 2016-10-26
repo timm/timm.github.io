@@ -13,7 +13,7 @@
 <a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=38 height=38 src="img/gh.jpg"></a>
 <a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img alt="Andrew Hill" width=38 height=38 src="img/hill.jpg"></a>
 </p>
-
+<hr>
 <table  class=paddingBetweenCols>
 <tr>
 <td>
