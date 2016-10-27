@@ -1,5 +1,5 @@
 <a href="img/bigtim.jpg"><img src="img/bigtim.jpg" width=470></a>
-<p>Here are my grad students at the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab.</p>
+<p>My grad students, from the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
 <p>
 <a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=38 height=38 src="img/wei.jpg"></a>
 <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=38 height=38 src="img/rahlk.jpg"></a> 
