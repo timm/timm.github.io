@@ -14,19 +14,20 @@ Make = $(MAKE) --no-print-directory #
 all :
 	@cd etc; $(MAKE) 
 
-typo:  
+typo:  ready 
 	@- git status
 	@- git commit -am "saving"
 	@- git push origin master
 
-commit:  
+commit:   ready
 	@- git status
 	@- git commit -a
 	@- git push origin master
 
-update:; @- git pull origin master
+update: ready; @- git pull origin master
 status:; @- git status
 
+ready: gitting timm
 
 gitting:
 	@git config --global credential.helper cache
