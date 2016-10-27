@@ -5,6 +5,10 @@ return {
     what= "Invited to MSR'17 program committee",
     more= "2017.msrconf.org/"
   }},
+ {item = {
+    when= "Oct 19",
+    what= "Two NSF medium proposals submitted. Now crossing all  fingers+toes." 
+  }},
   {item = {
     when= "Oct 12",
     what= "Appointed co-PC chair for Syposium on Search-Based Software Engineering (SSBSE'17)",
