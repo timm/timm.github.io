@@ -1,9 +1,14 @@
 
 return {
   {item = {
+    when= "Oct 27",
+    what= "Most-cited research at NCSU CS, 2 months in a row.",
+    more= "www.researchgate.net/institution/North_Carolina_State_University/department/Department_of_Computer_Science/stats"
+  }},
+  {item = {
     when= "Oct 26",
     what= "Invited to MSR'17 program committee",
-    more= "2017.msrconf.org/"
+    more= "2017.msrconf.org"
   }},
  {item = {
     when= "Oct 19",
