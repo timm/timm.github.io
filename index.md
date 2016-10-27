@@ -80,6 +80,10 @@ and control the world.</p><p>For example:
 <li>Can <a href="https://arxiv.org/pdf/1609.01759">dramatically improve</a>
 the performance of  data miners;
 </ul>
+<li>Text miners:
+<ul>
+<li>To <a href="https://arxiv.org/abs/1608.08100">succinctly summarize</a> thousands of technical papers.
+</ul>
 <li> Contrast set learners:
 <ul>
 <li>Find simple control patterns in <a href="http://menzies.us/pdf/02re02.pdf">requirements models</a>;
