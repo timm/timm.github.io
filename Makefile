@@ -1,5 +1,5 @@
 mds=$(shell ls *.md)
-
+# 
 all: $(mds:.md=.html)
 
 title=gawk 'gsub(/^#+ /,"") { print $0; exit}'#
