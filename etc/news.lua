@@ -1,6 +1,11 @@
 
 return {
   {item = {
+    when= "Oct 26",
+    what= "Invited to MSR'17 program committee",
+    more= "2017.msrconf.org/"
+  }},
+  {item = {
     when= "Oct 12",
     what= "Appointed co-PC chair for Syposium on Search-Based Software Engineering (SSBSE'17)",
     more="ssbse17.github.io"
