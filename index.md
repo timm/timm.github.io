@@ -122,6 +122,7 @@ share and reason about <a href="http://menzies.us/pdf/15lace2.pdf">privitized</a
 </td></tr>
 <td valign=top><img width=75 height=75 src="img/squares/social.png"></td><td bgcolor="#E6E4E4">
 <b>Social metrics</b> 
- can generate <a href="http://menzies.us/pdf/12better.pdf">near-optimal defect prediction</a>;
+ can generate <a href="http://menzies.us/pdf/12better.pdf">near-optimal defect
+ prediction</a>.
 </td></tr>
 </table>
