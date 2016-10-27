@@ -73,50 +73,54 @@ both <a href="http://menzies.us/pdf/07strange.pdf">empirically</a>
 and
 <a href="lessdata.html">theoretically</a>.
 So with the right tools, it becomes easy to understand, model,
-and control the world.</p><p>For example:
-<ul>
-<li>Very simple optimizers:
-<ul>
-<li>Can <a href="https://arxiv.org/pdf/1609.01759">dramatically improve</a>
-the performance of  data miners;
-</ul>
-<li>Text miners:
-<ul>
-<li>To <a href="https://arxiv.org/abs/1608.08100">succinctly summarize</a> thousands of technical papers.
-</ul>
-<li> Contrast set learners:
-<ul>
-<li>Find simple control patterns in <a href="http://menzies.us/pdf/02re02.pdf">requirements models</a>;
-<li>
-Reduce
-6000 node decision trees to <a href="http://menzies.us/pdf/03tar2.pdf">six simple rules</a>;
-<li>
-Out-perform state-of-the-art optimizers for <a href="https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110010887.pdf">controlling spacecraft</a>;
-<li>
- <a href="http://menzies.us/pdf/02truisms.pdf">Test truisms</a> in software engineering;
-</ul>
-<li> Active learners:
-<ul>
-<li>That can estimate large software projects <a href="http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F32%2F6568862%2F06392173.pdf&authDecision=-203">after
+and control the world. For example:</p>
+
+<table width="100%">
+<tr><td valign=top><img width=75 src="img/squares/optimize.png"></td><td><p>
+Very <b>simple optimizers</b> can <a href="https://arxiv.org/pdf/1609.01759">dramatically improve</a>
+the performance of  data miners.
+</p></td></tr>
+<tr bgcolor="#ddd"><td valign=top><img width=75  src="img/squares/textmine.png"></td><td><p>
+<b>Text miners</b> can  <a href="https://arxiv.org/abs/1608.08100">succinctly summarize</a> thousands of technical papers.
+</p></td></tr>
+
+
+<tr><td valign=top><img width=75  src="img/squares/contrast.png"></td><td><p>
+<b>Contrast set learners</b> can
+find simple control patterns in <a href="http://menzies.us/pdf/02re02.pdf">requirements models</a>;
+reduce
+6000 node decision trees to <a href="http://menzies.us/pdf/03tar2.pdf">six simple 
+rules</a>;
+out-perform state-of-the-art optimizers for <a href="https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20110010887.pdf">controlling 
+spacecraft</a>;
+ <a href="http://menzies.us/pdf/02truisms.pdf">test truisms</a> in software engineering.
+</p></td></tr>
+
+
+<tr bgcolor="#ddd"><td valign=top><img width=75 src="img/squares/active.png"></td><td><p>
+<b>Active learners</b>
+can estimate large software projects <a href="http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F32%2F6568862%2F06392173.pdf&authDecision=-203">after
 just a few samples</a>;
-<li>
-<a href="http://menzies.us/pdf/15gale.pdf">Reduce the cost</a> of multi-objective optimization by orders of magnitude.
-</ul>
-<li>
-Clustering tools:
-<ul>
-<Li>
-Enable
-<a href="http://menzies.us/pdf/13transferEffort.pdf">transfering</a> lessons learned between software projects;
-</ul>
-<li>Feature and instance selectors:
-<ul>
-<li> 
-That let communities 
+<a href="http://menzies.us/pdf/15gale.pdf">reduce 
+the cost</a> of multi-objective optimization by orders of magnitude.
+</p></td></tr>
+
+
+<tr><td valign=top><img width=75 src="img/squares/contrast.png"></td><td><p>
+<b>Clustering tools </b>
+enable
+<a href="http://menzies.us/pdf/13transferEffort.pdf">transfering</a> lessons learned between software projects.
+
+</p></td></tr>
+
+
+<tr bgcolor="#ddd"><td valign=top><img width=75 src="img/squares/features.png"></td><td><p>
+<b>Feature and instance selectors</b>
+that let communities 
 share and reason about <a href="http://menzies.us/pdf/15lace2.pdf">privitized</a> data.
-</ul>
-<li>Social metrics:
-<ul>
-<li>That generate <a href="http://menzies.us/pdf/12better.pdf">near-optimal defect prediction</a>;
-</ul>
-</ul>
+</p></td></tr>
+<td valign=top><img width=75 src="img/squares/social.png"></td><td valign=top><p>
+<b>Social metrics</b> 
+ can generate <a href="http://menzies.us/pdf/12better.pdf">near-optimal defect prediction</a>;
+</p></td></tr>
+</table>
