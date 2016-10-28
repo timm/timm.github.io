@@ -70,7 +70,9 @@ Case studies:
 <a href="http://greggay.com/"><img alt="Greg Gay" width=38 height=38 src="img/who/greg.png"></a>
 </p>
 <p>
-We find simple solutions to  hard problems.
+We find simple solutions to  seemingly hard problems.
+</p>
+<p>
 It turns out that 
 the world  
 is simpler than we thought,
