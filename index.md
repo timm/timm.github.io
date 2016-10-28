@@ -140,6 +140,6 @@ share and reason about
 src="img/squares/social.jpg"></td><td>&nbsp;</td><td  class=cells bgcolor="#E6E4E4">
 <b>Social metrics</b> 
  can generate <a href="http://menzies.us/pdf/12better.pdf">near-optimal 
- software quality predictors</a>.
+     predictors</a> for software quality.
 </td></tr>
 </table> 
