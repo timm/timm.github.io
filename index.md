@@ -11,8 +11,8 @@
 </td></tr>
 <tr>
 <td valign=top>
-<img width=100 height=100 src="img/students.png">
-<br>
+<!-- img width=100 height=100 src="img/students.png">
+<br -->
 <p>I need talented grad students for AI+SE. 
  Is that you?</p>
 <ul>
@@ -23,8 +23,8 @@
 <li> <a href="https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit">All my students</a></li>
 </ul>
 </td><td valign=top>
-<img height=100 width=100 src="img/industry.png">
-<br>
+<!-- img height=100 width=100 src="img/industry.png">
+<br -->
 <p>Ask me how to innovate. On time. On budget.<br>
 Case studies:
 <ul>
