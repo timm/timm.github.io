@@ -91,7 +91,7 @@ the performance of  data miners.
 </td></tr>
 <tr  class="row" ><td  valign=top><img width=75 height=75 
 src="img/squares/textmine.jpg"></td><td>&nbsp;</td><td>
-<b>Text miners</b> can  <a href="https://arxiv.org/abs/1608.08100">succinctly summarize</a> thousands of technical papers.
+<b>Text miners</b> can  <a href="https://arxiv.org/pdf/1608.08100v2.pdf">succinctly summarize</a> thousands of technical papers.
 </td></tr>
 
 
