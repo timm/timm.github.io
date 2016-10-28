@@ -64,9 +64,10 @@ src="img/ibm.png"></p></td></tr>
 <a href="http://documentslide.com/documents/zhihao-scott-chen.html"><img alt="Scott Chen" width=38 height=38 src="img/who/scottchen.png"></a>
 <a href="http://www.messiah.edu/info/21665/our_faculty/2753/department_faculty/4"><img alt="David Owen" width=38 height=38 src="img/who/davidowen.png"></a>  
 <a href="http://nandeshwar.info/"><img alt="Ashutosh Nandeshwar" width=38 height=38 src="img/who/ashutosh.png"></a>  
+<a href="http://www.kocaguneli.com/"><img alt="Ekrem Kocaguneli" width=38 height=38 src="img/who/ekrem.png"></a>      
 <a href="http://www.birzeit.edu/en/faculty-staff/abdel-salam-sayyad"><img alt="Abdel Salem Sayyad" width=38 height=38 src="img/who/abdel.png"></a>     
 <a href="http://www.fayolapeters.com/about/"><img alt="Fayola Peters" width=38 height=38 src="img/who/fayola.png"></a>  
-<a href="http://www.kocaguneli.com/"><img alt="Ekrem Kocaguneli" width=38 height=38 src="img/who/ekrem.png"></a>      
+<a href="https://www.linkedin.com/in/joseph-krall-53125470/"><img alt="Joe Krall" width=38 height=38 src="img/who/joekrall.png"></a>  
 <a href="http://greggay.com/"><img alt="Greg Gay" width=38 height=38 src="img/who/greg.png"></a>
 </p>
 <p>
