@@ -41,10 +41,9 @@ Case studies:
 <img height=50 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"> 
 &nbsp;<img height=50 src="img/ln.png">
 <img height=50 src="https://pbs.twimg.com/profile_images/67630775/button_meatball_normal.png">
-&nbsp;<img height=50 src="https://65.media.tumblr.com/avatar_fd969ad68e5a_128.png">
-<img height=50 src="http://www.nij.gov/PublishingImages/nij-logo-sak-page.jpg">
 &nbsp;<img height=50 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png" > 
-<img height=75 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></p></td></tr>
+<img width=80
+src="img/ibm.png"></p></td></tr>
 </table>
 <p>My current grad students, at  <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
 <p>
