@@ -70,11 +70,7 @@ Case studies:
 </p>
 <p>
 We find simple solutions to  hard problems.
-So what can we simplify for you?
-</p>
-<hr>
-<h3>My Research</h3>
-<p>It turns out that 
+It turns out that 
 the world  
 is simpler than we thought,
 both <a href="http://menzies.us/pdf/07strange.pdf">empirically</a>
