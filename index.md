@@ -1,33 +1,5 @@
 <a href="img/bigtim.jpg"><img src="img/bigtim.jpg" width=470></a>
-<p>My current grad students, at the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
-<p>
-<a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=38 height=38 src="img/wei.jpg"></a>
-<a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=38 height=38 src="img/rahlk.jpg"></a> 
-<a href="http://ai4se.net/people/2014/10/03/Vivek-Nair/"><img alt = "Vivek Nair" width=38 height=38 src="img/vivek.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/18/George-Mathew/"><img alt="George Mathew" width=38 height=38 src="img/george.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/19/Zhe-Yu/"><img alt="Zhe Yu" width=38 height=38 src="img/Zhe.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/16/Di-Chen/"><img alt="Di (Jack) Chen" width=38 height=38 src="img/Jack.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/17/Amritanshu-Agrawal/"><img alt="Amritanshu Agrawal" width=38 height=38 src="img/amrit.jpg"></a>
-<a href="http://ai4se.net/people/2014/06/04/Jianfeng-Chen/"><img alt ="Jianfeng Chen" width=38 height=38 src="img/chen.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/13/Sushma-ravichandran/"><img width-60 height=38 src="http://ai4se.net/img/sushma.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=38 height=38 src="img/gh.jpg"></a>
-<a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img alt="Andrew Hill" width=38 height=38 src="img/hill.jpg"></a>
-</p>
-<p>My former students, now with Ph.D.s:</p><p>
-<a href="http://documentslide.com/documents/zhihao-scott-chen.html"><img alt="Scott Chen" width=38 height=38 src="img/who/scottchen.png"></a>
-<a href="http://www.messiah.edu/info/21665/our_faculty/2753/department_faculty/4"><img alt="David Owen" width=38 height=38 src="img/who/davidowen.png"></a>  
-<a href="http://nandeshwar.info/"><img alt="Ashutosh Nandeshwar" width=38 height=38 src="img/who/ashutosh.png"></a>  
-<a href="http://www.birzeit.edu/en/faculty-staff/abdel-salam-sayyad"><img alt="Abdel Salem Sayyad" width=38 height=38 src="img/who/abdel.png"></a>     
-<a href="http://www.fayolapeters.com/about/"><img alt="Fayola Peters" width=38 height=38 src="img/who/fayola.png"></a>  
-<a href="http://www.kocaguneli.com/"><img alt="Ekrem Kocaguneli" width=38 height=38 src="img/who/ekrem.png"></a>      
-<a href="http://greggay.com/"><img alt="Greg Gay" width=38 height=38 src="img/who/greg.png"></a>
-</p>
-<p>
-We find simple solutions to seemingly hard problems 
-<a href="#details">(for examples, see below)</a>.
-So what can we simplify for you?
-</p>
-<hr>
+
 <table  class=paddingBetweenCols>
 <tr>
 <td>
@@ -74,8 +46,32 @@ Case studies:
 <img height=75 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></p></td></tr>
 </table>
 <hr>
-<a name="details"><h2>Tools for Simplicity</h2></a>
-<p>Turns out,
+<p>My current grad students, at the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
+<p>
+<a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=38 height=38 src="img/wei.jpg"></a>
+<a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=38 height=38 src="img/rahlk.jpg"></a> 
+<a href="http://ai4se.net/people/2014/10/03/Vivek-Nair/"><img alt = "Vivek Nair" width=38 height=38 src="img/vivek.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/18/George-Mathew/"><img alt="George Mathew" width=38 height=38 src="img/george.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/19/Zhe-Yu/"><img alt="Zhe Yu" width=38 height=38 src="img/Zhe.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/16/Di-Chen/"><img alt="Di (Jack) Chen" width=38 height=38 src="img/Jack.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/17/Amritanshu-Agrawal/"><img alt="Amritanshu Agrawal" width=38 height=38 src="img/amrit.jpg"></a>
+<a href="http://ai4se.net/people/2014/06/04/Jianfeng-Chen/"><img alt ="Jianfeng Chen" width=38 height=38 src="img/chen.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/13/Sushma-ravichandran/"><img width-60 height=38 src="http://ai4se.net/img/sushma.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=38 height=38 src="img/gh.jpg"></a>
+<a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img alt="Andrew Hill" width=38 height=38 src="img/hill.jpg"></a>
+</p>
+<p>My former students, now with Ph.D.s:</p><p>
+<a href="http://documentslide.com/documents/zhihao-scott-chen.html"><img alt="Scott Chen" width=38 height=38 src="img/who/scottchen.png"></a>
+<a href="http://www.messiah.edu/info/21665/our_faculty/2753/department_faculty/4"><img alt="David Owen" width=38 height=38 src="img/who/davidowen.png"></a>  
+<a href="http://nandeshwar.info/"><img alt="Ashutosh Nandeshwar" width=38 height=38 src="img/who/ashutosh.png"></a>  
+<a href="http://www.birzeit.edu/en/faculty-staff/abdel-salam-sayyad"><img alt="Abdel Salem Sayyad" width=38 height=38 src="img/who/abdel.png"></a>     
+<a href="http://www.fayolapeters.com/about/"><img alt="Fayola Peters" width=38 height=38 src="img/who/fayola.png"></a>  
+<a href="http://www.kocaguneli.com/"><img alt="Ekrem Kocaguneli" width=38 height=38 src="img/who/ekrem.png"></a>      
+<a href="http://greggay.com/"><img alt="Greg Gay" width=38 height=38 src="img/who/greg.png"></a>
+</p>
+<p>
+We find simple solutions to seemingly hard problems 
+<a href="#details">(for examples, see below). It turns out,
 the world becomes 
 much simpler than we thought,
 both <a href="http://menzies.us/pdf/07strange.pdf">empirically</a>
