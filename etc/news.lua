@@ -87,7 +87,7 @@ return {
   
     {item = {
     when= "Jul 28",
-    what= "Invited to program committee ICSE;18",
+    what= "Invited to program committee ICSE'18",
     more= "www.icse2018.org/committee/icse-2018-program-committee"
    }},
    
