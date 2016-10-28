@@ -2,17 +2,10 @@
 
 <table  class=paddingBetweenCols>
 <tr>
-<td>
-<h2> For Students</h2>
-</td><td>
-<h2>For Industry</h2>
-</td><td>
-<h2> Funding </h2>
-</td></tr>
-<tr>
 <td valign=top>
 <!-- img width=100 height=100 src="img/students.png">
 <br -->
+<h2> For Students</h2>
 <p>I seek talented grad students for AI+SE. Is that you?</p>
 <ul>
 <li> <a href="https://www.youtube.com/watch?v=LRoI-Rw4GBY">Why NC State?</a></li>
@@ -24,6 +17,7 @@
 </td><td valign=top>
 <!-- img height=100 width=100 src="img/industry.png">
 <br -->
+<h2>For Industry</h2>
 <p>Ask me how to innovate. On time. On budget.
 Case studies:
 <ul>
@@ -34,6 +28,7 @@ Case studies:
 </ul></p>
 </td>
 <td valign=top>
+<h2> Funding </h2>
 <a href="https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit">Over $8M</a>. From many sources, e.g.: 
 <p>
 <img height=50 src="https://media.glassdoor.com/sqls/263980/grammatech-squarelogo.png"> 
