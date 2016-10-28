@@ -77,17 +77,17 @@ and control the world. For example:</p>
  
 <table width="100%">
 <tr class="row"><td valign=top><img  height=75 
-src="img/squares/optimize.png"></td><td  class=cells bgcolor="#E6E4E4">
+src="img/squares/optimize.png"></td><td>&nbsp;</td><td   bgcolor="#E6E4E4">
 Very <b>simple optimizers</b> can <a href="https://arxiv.org/pdf/1609.01759">dramatically improve</a>
 the performance of  data miners.
 </td></tr>
-<tr  class="row" ><td   class=cells valign=top><img width=75 height=75  src="img/squares/textmine.jpg"></td><td>
+<tr  class="row" ><td>&nbsp;</td><td  valign=top><img width=75 height=75  src="img/squares/textmine.jpg"></td><td>
 <b>Text miners</b> can  <a href="https://arxiv.org/abs/1608.08100">succinctly summarize</a> thousands of technical papers.
 </td></tr>
 
 
 <tr class="row"><td valign=top><img width=75 height=75 
-src="img/squares/contrast.png"></td><td   class=cells class=cells bgcolor="#E6E4E4">
+src="img/squares/contrast.png"></td><td>&nbsp;</td><td  class=cells bgcolor="#E6E4E4">
 <b>Contrast set learners</b> 
 find simple controllers in  <a href="http://menzies.us/pdf/02re02.pdf">requirements models</a>;
 reduce
@@ -101,7 +101,7 @@ control</a>; and
 
 
 <tr class="row"><td valign=top><img width=75
-height=75 src="img/squares/active.jpg"></td><td  class=cells>
+height=75 src="img/squares/active.jpg"></td><td>&nbsp;</td><td >
 <b>Active learners</b>
 can estimate large software projects <a href="http://ieeexplore.ieee.org/Xplore/login.jsp?url=http%3A%2F%2Fieeexplore.ieee.org%2Fiel5%2F32%2F6568862%2F06392173.pdf&authDecision=-203">after
 just a few samples</a>;
@@ -111,7 +111,7 @@ the cost</a> of multi-objective optimization by orders of magnitude.
 
 
 <tr class="row"><td valign=top><img width=75 height=75 
-src="img/squares/clustering.jpg"></td><td  class=cells bgcolor="#E6E4E4">
+src="img/squares/clustering.jpg"></td><td>&nbsp;</td><td  bgcolor="#E6E4E4">
 <b>Clustering tools </b>
 enable
 <a href="http://menzies.us/pdf/13transferEffort.pdf">transfering</a> lessons learned between software projects.
@@ -120,7 +120,7 @@ enable
 
 
 <tr  class="row"><td valign=top><img width=75 height=75 
-src="img/squares/features.jpg"></td><td  class=cells>
+src="img/squares/features.jpg"></td><td>&nbsp;</td><td >
 <b>Feature and instance selectors</b>
 that let communities 
 share and reason about <a href="http://menzies.us/pdf/15lace2.pdf">privitized</a> data.
