@@ -63,13 +63,15 @@ dt        {  margin: 1px; font-face: bold; background: pink;}
                       
 p {margin-top:0px;}
 
+
+
 .paddingBetweenCols  td
 {
-    padding-left: 0px;
-    margin-left: 0px;
-    xborder-right: 1px dotted #534576;
-    width: 170px;
-    padding:0 15px 0 15px;
+    padding-left: 15px;
+    padding-right: 10px; 
+    border-left: 1px dotted #534576;
+    width: 140px;
+    xpadding:0 15px 0 15px;
 }
 
 .wrapper {
