@@ -84,7 +84,7 @@ and control the world.</p><p> For example:</p>
  
 <table width="100%">
 <tr class="row"><td valign=top><img  height=75 
-src="img/squares/optimize.png"></td><td>&nbsp;</td><td   bgcolor="#E6E4E4">
+src="img/squares/optimize.jpg"></td><td>&nbsp;</td><td   bgcolor="#E6E4E4">
 Very <b>simple optimizers</b> can <a href="https://arxiv.org/pdf/1609.01759">dramatically improve</a>
 the performance of  data miners learning software quality predictors.
 </td></tr>
