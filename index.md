@@ -45,7 +45,6 @@ Case studies:
 &nbsp;<img height=50 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png" > 
 <img height=75 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></p></td></tr>
 </table>
-<hr>
 <p>My current grad students, at the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
 <p>
 <a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=38 height=38 src="img/wei.jpg"></a>
