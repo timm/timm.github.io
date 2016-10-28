@@ -1,0 +1,29 @@
+<html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script language="text/javascript">
+$("#nav a").click( function() {
+      $(".hide").hide(); // hide other divs, marked with hide class
+      var c = $(this).attr('class').split(' ')[0]; //Get First Class
+      $("#content ."+c).show(); //show anything inside content div with the class c (marked with a . to represent class)
+});
+  </script>
+</head>
+<body>
+<div id="container">
+    <ul id="nav">
+        <li><a href="#" class="index">Index</a></li>
+        <li><a href="#" class="contact">Contact</a></li>
+        <li><a href="#" class="other">Other</a></li>
+        <li><a href="#" class="a1">a1</a></li>
+    </ul>
+    <div id="content">
+        <div class="index hide">This is the home page.</div>
+        <div class="contact hide" style="display:none;">This is my contact info.</div>
+        <div class="other hide" style="display:none;">This is other stuff.</div>
+        <div class="a1 hide" style="display:none;">a1.</div>
+    </div>
+</div>
+</body>
+</html>
+
