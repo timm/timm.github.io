@@ -82,10 +82,13 @@ src="img/squares/optimize.jpg"></td><td>&nbsp;</td><td   bgcolor="#E6E4E4">
 Very <b>simple optimizers</b> can <a href="https://arxiv.org/pdf/1609.01759">dramatically improve</a>
 the performance of  data miners learning software quality predictors.
 </td></tr>
-<tr  class="row" ><td  valign=top><img width=75 height=75 
-src="img/squares/textmine.jpg"></td><td>&nbsp;</td><td>
-<b>Text miners</b> can  <a href="https://arxiv.org/pdf/1608.08100v2.pdf">succinctly 
-summarize</a> thousands of technical papers about SE.
+
+<tr  class="row"><td valign=top><img width=75 height=75 
+src="img/squares/features.jpg"></td><td>&nbsp;</td><td >
+<b>Feature and instance selectors</b>
+that let software projects 
+share and reason about 
+<a href="http://menzies.us/pdf/15lace2.pdf">privitized</a> data.
 </td></tr>
 
 
@@ -124,13 +127,14 @@ learned between software projects.
 </td></tr>
 
 
-<tr  class="row"><td valign=top><img width=75 height=75 
-src="img/squares/features.jpg"></td><td>&nbsp;</td><td >
-<b>Feature and instance selectors</b>
-that let software projects 
-share and reason about 
-<a href="http://menzies.us/pdf/15lace2.pdf">privitized</a> data.
+<tr  class="row" ><td  valign=top><img width=75 height=75 
+src="img/squares/textmine.jpg"></td><td>&nbsp;</td><td>
+<b>Text miners</b> can  <a href="https://arxiv.org/pdf/1608.08100v2.pdf">succinctly 
+summarize</a> thousands of technical papers about SE.
 </td></tr>
+
+
+<tr>
 <td valign=top><img width=75 height=75
 src="img/squares/social.jpg"></td><td>&nbsp;</td><td  class=cells bgcolor="#E6E4E4">
 <b>Social metrics</b> 
