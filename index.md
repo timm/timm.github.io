@@ -69,11 +69,16 @@ Case studies:
 <a href="http://greggay.com/"><img alt="Greg Gay" width=38 height=38 src="img/who/greg.png"></a>
 </p>
 <p>
-We find simple solutions to seemingly hard problems. What can we simplify for you?
+We find simple solutions to seemingly hard problems.
+</p>
+<p>
+What can we simplify for you?
+</p>
 <hr>
-It turns out,
-the world becomes 
-much simpler than we thought,
+<h3>My Research</h3>
+<p>It turns out that 
+the world  
+is simpler than we thought,
 both <a href="http://menzies.us/pdf/07strange.pdf">empirically</a>
 and
 <a href="lessdata.html">theoretically</a>.
