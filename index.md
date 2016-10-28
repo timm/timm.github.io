@@ -43,8 +43,7 @@ Case studies:
 <img width=80
 src="img/ibm.png"></p></td></tr>
 </table>
- 
- <p>&nbsp;<p>
+ <br>
 <p>My current grad students, at  <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
 <p>
 <a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=38 height=38 src="img/wei.jpg"></a>
