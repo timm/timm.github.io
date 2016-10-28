@@ -69,7 +69,7 @@ Case studies:
 <a href="http://greggay.com/"><img alt="Greg Gay" width=38 height=38 src="img/who/greg.png"></a>
 </p>
 <p>
-We find simple solutions to seemingly hard problems.
+We find simple solutions to  hard problems.
 So what can we simplify for you?
 </p>
 <hr>
@@ -81,7 +81,7 @@ both <a href="http://menzies.us/pdf/07strange.pdf">empirically</a>
 and
 <a href="lessdata.html">theoretically</a>.
 So with the right tools, it becomes easy to understand, model,
-and control the world. For example:</p>
+and control the world.</p><p> For example:</p>
  
 <table width="100%">
 <tr class="row"><td valign=top><img  height=75 
