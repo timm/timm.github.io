@@ -32,8 +32,9 @@ TL;DR? Then...
 
 + **co-General chair:** ICMSE'16
 + **co-PC-chair:** SSBSE'17, ICSE NEIR'15, ASE'12
-+ **PCs:**  ICSE'18, EASE'17, ASE'16, ISSRE'16, SSBSE'16, BIGDSE'16, PROMISE'16
-+ **PCs, before:** ICSE, ASE, FSE, ISSRE, HASE, SSBSE, EASE, MSR, RAISE, etc, etc
++ **PCSs (now):**  ASE'16, ISSRE'16, SSBSE'16, BIGDSE'16, PROMISE'16
++ **PCs (next):**  ICSE'18, ASE'17, MSR'17, EASE'17
++ **PCs (before):** ICSE, ASE, FSE, ISSRE, HASE, SSBSE, EASE, MSR, RAISE, etc, etc
 
 **Papers:**
 
