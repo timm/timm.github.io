@@ -1,5 +1,5 @@
 <a href="img/bigtim.jpg"><img src="img/bigtim.jpg" width=470></a>
-<p>My grad students, from the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
+<p>My current grad students, at the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
 <p>
 <a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=38 height=38 src="img/wei.jpg"></a>
 <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=38 height=38 src="img/rahlk.jpg"></a> 
@@ -12,6 +12,15 @@
 <a href="http://ai4se.net/people/2014/05/13/Sushma-ravichandran/"><img width-60 height=38 src="http://ai4se.net/img/sushma.jpg"></a>
 <a href="http://ai4se.net/people/2014/05/15/Guilherme-Ferreira/"><img alt="Guilherme Ferreira" width=38 height=38 src="img/gh.jpg"></a>
 <a href="http://ai4se.net/people/2014/05/14/Andrew-Hill/"><img alt="Andrew Hill" width=38 height=38 src="img/hill.jpg"></a>
+</p>
+<p>My former students, now with Ph.D.s:</p><p>
+<a href="http://documentslide.com/documents/zhihao-scott-chen.html"><img alt="Scott Chen" width=38 height=38 src="img/who/scottchen.png"></a>
+<a href="http://www.messiah.edu/info/21665/our_faculty/2753/department_faculty/4"><img alt="David Owen" width=38 height=38 src="img/who/davidowen.png"></a>  
+<a href="http://nandeshwar.info/"><img alt="Ashutosh Nandeshwar" width=38 height=38 src="img/who/ashutosh.png"></a>  
+<a href="http://www.birzeit.edu/en/faculty-staff/abdel-salam-sayyad"><img alt="Abdel Salem Sayyad" width=38 height=38 src="img/who/abdel.png"></a>     
+<a href="http://www.fayolapeters.com/about/"><img alt="Fayola Peters" width=38 height=38 src="img/who/fayola.png"></a>  
+<a href="http://www.kocaguneli.com/"><img alt="Ekrem Kocaguneli" width=38 height=38 src="img/who/ekrem.png"></a>      
+<a href="http://greggay.com/"><img alt="Greg Gay" width=38 height=38 src="img/who/greg.png"></a>
 </p>
 <p>
 We find simple solutions to seemingly hard problems 
