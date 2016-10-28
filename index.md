@@ -70,9 +70,7 @@ Case studies:
 </p>
 <p>
 We find simple solutions to seemingly hard problems.
-</p>
-<p>
-What can we simplify for you?
+So what can we simplify for you?
 </p>
 <hr>
 <h3>My Research</h3>
