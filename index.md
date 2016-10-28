@@ -45,7 +45,7 @@ Case studies:
 &nbsp;<img height=50 src="https://www.unavco.org/lib/images/Footer-NSF-logo.png" > 
 <img height=75 src="https://pbs.twimg.com/profile_images/471652076645126144/Lds3l2C3_normal.jpeg"></p></td></tr>
 </table>
-<p>My current grad students, at the <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
+<p>My current grad students, at  <a href="http://ai4se.net">RAISE</a> (real-world AI for SE) lab:</p>
 <p>
 <a href="http://ai4se.net/peoplpe/2014/10/05/Wei-Fu/"><img alt="Wei Fu" width=38 height=38 src="img/wei.jpg"></a>
 <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width=38 height=38 src="img/rahlk.jpg"></a> 
@@ -69,8 +69,9 @@ Case studies:
 <a href="http://greggay.com/"><img alt="Greg Gay" width=38 height=38 src="img/who/greg.png"></a>
 </p>
 <p>
-We find simple solutions to seemingly hard problems 
-<a href="#details">(for examples, see below). It turns out,
+We find simple solutions to seemingly hard problems. What can we simplify for you?
+<hr>
+It turns out,
 the world becomes 
 much simpler than we thought,
 both <a href="http://menzies.us/pdf/07strange.pdf">empirically</a>
