@@ -81,7 +81,8 @@ src="img/squares/optimize.png"></td><td>&nbsp;</td><td   bgcolor="#E6E4E4">
 Very <b>simple optimizers</b> can <a href="https://arxiv.org/pdf/1609.01759">dramatically improve</a>
 the performance of  data miners.
 </td></tr>
-<tr  class="row" ><td>&nbsp;</td><td  valign=top><img width=75 height=75  src="img/squares/textmine.jpg"></td><td>
+<tr  class="row" ><td  valign=top><img width=75 height=75 
+src="img/squares/textmine.jpg"></td><td>&nbsp;</td><td>
 <b>Text miners</b> can  <a href="https://arxiv.org/abs/1608.08100">succinctly summarize</a> thousands of technical papers.
 </td></tr>
 
@@ -126,7 +127,7 @@ that let communities
 share and reason about <a href="http://menzies.us/pdf/15lace2.pdf">privitized</a> data.
 </td></tr>
 <td valign=top><img width=75 height=75
-src="img/squares/social.jpg"></td><td  class=cells bgcolor="#E6E4E4">
+src="img/squares/social.jpg"></td><td>&nbsp;</td><td  class=cells bgcolor="#E6E4E4">
 <b>Social metrics</b> 
  can generate <a href="http://menzies.us/pdf/12better.pdf">near-optimal defect
  prediction</a>.
