@@ -222,4 +222,11 @@ a:active {
 
 .hide { display: none;}
 
+.showSingle { 
+  background: #CC0000; 
+  color: #FFF;
+  padding: 4px 8px 4px 8px;
+  margin-top:10px;
+  margin-bottom:10px;
+}
  
