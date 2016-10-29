@@ -220,16 +220,29 @@ a:active {
     text-decoration: underline;
 }
 
-.hide { display: none;}
+.hide { display: none;
+  margin-left: 40px;
+  margin-right: 20px;
+}
 
 .showSingle { 
   background: #CC0000; 
   color: #FFF;
-  padding: 4px 8px 4px 8px;
+  padding: 3px 6px 3px 6px;
   margin-top:10px;
   margin-bottom:10px;
 }
  a.showSingle:hover    {
-   color: #CCC;
+   color: #FFF;  
 }
+
+.buttons {text-align: center;}
  
+blockquote.style2 {
+  xfont: 14px/22px normal helvetica, sans-serif;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+} 
