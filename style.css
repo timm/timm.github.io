@@ -69,7 +69,7 @@ p {margin-top:0px;}
 {
     padding-left: 15px;
     padding-right: 10px; 
-    border-left: 1px solid #ccc; 
+    border-left: 1px solid #ccc;  
     width: 140px;
     xpadding:0 15px 0 15px; 
 }
@@ -220,18 +220,28 @@ a:active {
     text-decoration: underline;
 }
 
-.hide { display: none;
-  margin-left: 40px;
-  margin-right: 20px;
+.hide { xdisplay: none;
+  xmargin-left: 40px;
+  xmargin-right: 100px;
 }
 
+ .hide h4  { margin-bottom: 0px; color: #999;} 
 .showSingle { 
   background: #CC0000; 
   color: #FFF;
   line-height: 2;
   padding: 2px 6px 2px 6px;
-  margin-top: 20px;
-  margin-bottom:10px;
+  margin-top: 5px;
+  margin-bottom:5px;
+}
+.hide img  {
+   width: 65px;
+   height: 65px;
+  float: right;
+  text-align:right;
+  align: right;
+   padding: 5px;
+}
 }
  a.showSingle:hover    {
    color: #FFF;  
@@ -241,9 +251,10 @@ a:active {
  
 blockquote.style2 {
   xfont: 14px/22px normal helvetica, sans-serif;
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  xmargin-right: 100px;
   margin-left: 50px;
   padding-left: 15px;
-  border-left: 3px solid #ccc;
+  border-left: 3px solid #ccc; 
 } 
