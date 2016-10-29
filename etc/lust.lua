@@ -36,6 +36,10 @@ raw = arg[1] and slurp(arg[1]) or f:read("*all")
 
 about.title = title(raw)
 
-about.main = markdown(raw)
+if arg[2] == "markdown" then
+  about.main = markdown (raw)
+else
+  about.main = raw
+end
 
 print(render(render(slurp("../etc/template.html"))))

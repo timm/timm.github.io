@@ -701,6 +701,7 @@ function encode_code(s)
    s = s:gsub("%&", "&amp;")
    s = s:gsub("<", "&lt;")
    s = s:gsub(">", "&gt;")
+    s = s:gsub("ATARget", "<")
    for k,v in pairs(escape_table) do
       s = s:gsub("%"..k, v)
    end

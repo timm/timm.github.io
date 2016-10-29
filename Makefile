@@ -1,13 +1,18 @@
 mds=$(shell ls *.md)
 # 
-all: $(mds:.md=.html)
+all: $(mds:.md=.html) index
 
 title=gawk 'gsub(/^#+ /,"") { print $0; exit}'#
 
 %.html : %.md #etc/template.html etc/about.html
 	@echo "$< ==> $@"
-	@cd etc; /usr/local/bin/lua lust.lua ../$< > ../$@
+	@cd etc; /usr/local/bin/lua lust.lua ../$<  markdown > ../$@
 	@git  add $@
+	
+index :
+	@echo "index0.html ==> index.html"
+	@cd etc; /usr/local/bin/lua lust.lua ../index0.html html > ../index.html
+	@git  add index.html	
 
 Make = $(MAKE) --no-print-directory #
 
