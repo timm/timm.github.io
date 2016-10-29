@@ -223,8 +223,8 @@ a:active {
 .hide { xdisplay: none;
   xmargin-left: 40px;
   xmargin-right: 100px;
-}
-
+} 
+.hide h3  { margin-bottom: 0px; margin-top:0px;} 
  .hide h4  { margin-bottom: 0px; color: #999;} 
 .showSingle { 
   background: #CC0000; 
