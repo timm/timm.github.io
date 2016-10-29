@@ -230,8 +230,8 @@ a:active {
   xmargin-left: 40px;
   xmargin-right: 100px;
 } 
-.hide h3  { margin-bottom: 0px; padding-top:100px;} 
- .hide h4  { margin-bottom: 0px; color: #999;} 
+.hide h3  { margin-bottom: 0px; padding-top:10px;} 
+ .hide h4  { margin-bottom: 0px; padding-top:0px; color: #999;} 
 .showSingle { 
   background: #CC0000; 
   color: #FFF;
