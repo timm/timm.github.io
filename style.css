@@ -229,7 +229,7 @@ a:active {
   margin-top:10px;
   margin-bottom:10px;
 }
- a:hover  .showSingle {
-  color: green;
+ a.showSingle:hover    {
+   color: #CCC;
 }
  
