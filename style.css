@@ -228,8 +228,9 @@ a:active {
 .showSingle { 
   background: #CC0000; 
   color: #FFF;
-  padding: 3px 6px 3px 6px;
-  margin-top:10px;
+  line-height: 2;
+  padding: 2px 6px 2px 6px;
+  margin-top: 20px;
   margin-bottom:10px;
 }
  a.showSingle:hover    {
