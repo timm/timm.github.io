@@ -143,3 +143,18 @@ src="img/squares/social.jpg"></td><td>&nbsp;</td><td  class=cells bgcolor="#E6E4
      predictors</a> for software quality.
 </td></tr>
 </table> 
+
+
+  
+  <div class="buttons">
+        <a  class="showSingle" target="0"></a> |
+    <a  class="showSingle" target="1">Div 1</a> |
+    <a  class="showSingle" target="2">Div 2</a> |
+    <a  class="showSingle" target="3">Div 3</a> |
+    <a  class="showSingle" target="4">Div 4</a>
+  </div>
+
+  <div id="div1" class="hide targetDiv">Lorum Ipsum11</div>
+  <div id="div2" class="hide targetDiv">Lorum Ipsum2</div>
+  <div id="div3" class="hide targetDiv">Lorum Ipsum3</div>
+  <div id="div4" class="hide targetDiv">Lorum Ipsum4</div>

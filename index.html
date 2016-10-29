@@ -11,6 +11,24 @@
     <link href='style.css' rel='stylesheet' type='text/css'>  
     <link rel="icon" href="img/favicon.png" type="image/png" />
     <link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+ <script
+    src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js">
+ </script>  
+ <script>
+    jQuery(function(){
+         jQuery('#showall').click(function(){
+               jQuery('.targetDiv').show();
+        });
+        jQuery('.showSingle').click(function(){
+              jQuery('.targetDiv').hide();
+              jQuery('#div'+$(this).attr('target')).show();
+        });
+    });
+  </script>
+  
+  
+
+
 </head>
 <body>
   <div class="wrapper">
@@ -212,6 +230,22 @@ src="img/squares/social.jpg"></td><td>&nbsp;</td><td  class=cells bgcolor="#E6E4
 </td></tr>
 </table> 
 
+
+
+
+<p>  <div class="buttons"></p>
+<pre><code>    &lt;a  class="showSingle" target="0"&gt;&lt;/a&gt; |
+&lt;a  class="showSingle" target="1"&gt;Div 1&lt;/a&gt; |
+&lt;a  class="showSingle" target="2"&gt;Div 2&lt;/a&gt; |
+&lt;a  class="showSingle" target="3"&gt;Div 3&lt;/a&gt; |
+&lt;a  class="showSingle" target="4"&gt;Div 4&lt;/a&gt;
+</code></pre>
+<p>  </div></p>
+
+<p>  <div id="div1" class="hide targetDiv">Lorum Ipsum11</div>
+  <div id="div2" class="hide targetDiv">Lorum Ipsum2</div>
+  <div id="div3" class="hide targetDiv">Lorum Ipsum3</div>
+  <div id="div4" class="hide targetDiv">Lorum Ipsum4</div></p>
 
 
       </section>
