@@ -1,5 +1,9 @@
-
+International Systems and Software Product Line Conference
 return {
+  {item = {
+    when= "Oct 30",
+    what= "Invited to the program committee of the Systems and Software Project Line conference, 2017."
+  }},
   {item = {
     when= "Oct 27",
     what= "Most-cited research at NCSU CS, 2 months in a row.",
