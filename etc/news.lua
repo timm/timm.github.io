@@ -1,4 +1,3 @@
-International Systems and Software Product Line Conference
 return {
   {item = {
     when= "Oct 30",
