@@ -19,7 +19,7 @@ return {
   }},
   {item = {
     when= "Oct 12",
-    what= "Appointed co-PC chair for Syposium on Search-Based Software Engineering (SSBSE'17)",
+    what= "Appointed co-PC chair for Symposium on Search-Based Software Engineering (SSBSE'17)",
     more="ssbse17.github.io"
   }},
   {item = {
@@ -78,7 +78,7 @@ return {
    }},
   {item = {
     when = "Aug15",
-    what= "New graont, $85K, Learning Analytics Sciences, Data sharing and privacy"
+    what= "New grant, $85K, Learning Analytics Sciences, Data sharing and privacy"
    }},
   
   {item = {
