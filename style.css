@@ -241,11 +241,9 @@ a:active {
   margin-bottom:5px;
 }
 .hide img  {
-   width: 65px;
-   height: 65px;
+   width: 60px;
+   height: 60px;
   float: right;
-  text-align:right;
-  align: right;
    padding: 5px;
 }
 }
@@ -260,7 +258,7 @@ blockquote.style2 {
   margin-top: 5px;
   margin-bottom: 5px;
   xmargin-right: 100px;
-  margin-left: 50px;
+  margin-left: 40px;
   padding-left: 15px;
   border-left: 3px solid #d7dee3; 
 } 
