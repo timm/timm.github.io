@@ -53,7 +53,45 @@ body {  font-size: small;
 header p { margin-bottom: 5px;  padding-top:0px; padding-bottom:0px;
            margin-top:0px; }
 header h1 {padding-top: 6px; padding-bottom: 6px; margin-top: 0px; margin-bottom:2px;
-            color: #fff; background: #CC0000; aaa:#534576;}
+            color: #fff;  
+            
+/* IE10+ */ 
+background-image: -ms-linear-gradient(left, #CC0000 0%, #FFFFFF 100%);
+
+/* Mozilla Firefox */ 
+background-image: -moz-linear-gradient(left, #CC0000 0%, #FFFFFF 100%);
+
+/* Opera */ 
+background-image: -o-linear-gradient(left, #CC0000 0%, #FFFFFF 100%);
+
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(linear, left top, right top, color-stop(0, #CC0000), color-stop(100, #FFFFFF));
+
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-linear-gradient(left, #CC0000 0%, #FFFFFF 100%);
+
+/* W3C Markup */ 
+background-image: linear-gradient(to right, #CC0000 0%, #FFFFFF 100%);            
+            
+            
+}
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
 header    { margin-top:0px; margin-bottom:35px; padding-top:0px;}
 dt        {  margin: 1px; font-face: bold; background: pink;}
 .right h1 {  padding-top:0px    }
