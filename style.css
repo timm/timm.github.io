@@ -51,8 +51,8 @@
 body {  font-size: small;
         font-family:Lato,sans-serif;  
         background: #6e7f80;  
-        background-image: url(https://www.visitabisko.com/wp-content/uploads/2016/08/pattern-7.png);
-        background-repeat: repeat-x;
+        xbackground-image: url(https://www.visitabisko.com/wp-content/uploads/2016/08/pattern-7.png);
+        xbackground-repeat: repeat-x;
         xbackground: #edc9af; 
         xbackground: #cc7a00;  
   }
