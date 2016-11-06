@@ -51,8 +51,8 @@
 body {  font-size: small;
         font-family:Lato,sans-serif;  
         xbackground: #6e7f80;  
-        background: #edc9af; 
-        xbackground: #cc7a00;  
+        xbackground: #edc9af; 
+        background: #cc7a00;  
   }
 header p { margin-bottom: 0px;  padding-top:0px; padding-bottom:0px;
            margin-top:0px; }
