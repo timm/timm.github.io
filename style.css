@@ -53,7 +53,7 @@ body {  font-size: small;
         background: #6e7f80;  
         xbackground-image: url(https://www.visitabisko.com/wp-content/uploads/2016/08/pattern-7.png);
         background-image: url(img/bi-background-redish.png);
-         xbackground-repeat: repeat-x;
+         background-repeat: repeat-x;
         xbackground: #edc9af; 
         xbackground: #cc7a00;  
   }
