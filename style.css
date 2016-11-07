@@ -291,11 +291,11 @@ a:active {
   margin-bottom:5px;
 }
 .hide img  {
-  box-shadow: 5px 5px 5px #CCC;
-  border: 1px #CCC solid;
+  xbox-shadow: 5px 5px 5px #CCC;
+  xborder: 1px #CCC solid;
   margin: 4px;
-   width: 75px;
-   height: 75px;
+   width: 100px;
+   height: 100px;
   float: right;
    xpadding: 4px;
 }
