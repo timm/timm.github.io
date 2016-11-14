@@ -1,5 +1,15 @@
 return {
   {item = {
+    when = "Now 14",
+    what = "Journal article published: 'Are delayed issues harder to resolve? Revisitingcost-to-fix of defects throughout the lifecycle'.",
+    more = "rdcu.be/mCq0"
+  }},
+  {item = {
+    when = "Now 13",
+    what = "Gave keynote, International Workshop on Software Analytics",
+    more = "tiny.cc/timm13"
+  }},
+  {item = {
     when= "Oct 30",
     what= "Invited to the program committee of the Systems and Software Project Line conference, 2017."
   }},
