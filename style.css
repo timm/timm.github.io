@@ -50,7 +50,7 @@
 }
 body {  font-size: small;
         font-family:Lato,sans-serif;  
-        background: #6e7f80;  
+        background: #6e7f80;   
         xbackground-image: url(https://www.visitabisko.com/wp-content/uploads/2016/08/pattern-7.png);
         xbackground-image: url(img/bi-background-redish.png);
          xbackground-repeat: repeat-x;
@@ -131,8 +131,8 @@ p {margin-top:0px;}
     padding-top: 0px;
     padding-left: 15px;
     padding-right: 15px; 
-    padding-top: 3px;
-    margin-top:10px;
+    padding-top: 10px;
+    margin-top:20px;
     margin-bottom:10px;  
     border: 1px solid black;
 	background: #fff;
