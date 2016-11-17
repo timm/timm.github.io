@@ -1,6 +1,10 @@
 return {
   {item = {
-    when = "Now 14",
+    when = "Nov 17",
+    what ="3 NSF submissions in one month is more than enough. !!"
+  }},
+  {item = {
+    when = "Nov 14",
     what = "Journal article published: 'Are delayed issues harder to resolve? Revisitingcost-to-fix of defects throughout the lifecycle'.",
     more = "rdcu.be/mCq0"
   }},
