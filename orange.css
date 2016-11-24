@@ -1,6 +1,7 @@
 body    {
           font-family: 'Lato', sans-serif;
           font-size: small;
+          color: #888;
           background-image: url(http://www.dreamtemplate.com/dreamcodes/bg_images/color/c14.jpg);
 }
 .header { background-color: #4B0082;
@@ -43,28 +44,28 @@ footer {
     margin-top: 15px; 
 }
 a:link {
-    color: #4717F6; 
+    xcolor: #551A8B; 
     font-weight: bold;
     text-decoration: none;
 }
 
 /* visited link */
 a:visited { 
-    color: #4717F6; 
+    xcolor: #551A8B; 
     font-weight: bold;
     text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {  
-    color: #4717F6; 
+    xcolor: #551A8B; 
     font-weight: bold;
     text-decoration: underline;
 }
 
 /* selected link */
 a:active {   
-    color: #4717F6; 
+    xcolor: #551A8B; 
     font-weight: bold;
     text-decoration: underline;
 }
@@ -72,6 +73,7 @@ a:active {
 header h1 {
     padding: 2px; 
     margin: 2px; 
-    background-color: #4B0082;
+    padding-left: 8px;
+    background-color: #551A8B;
     color: #fff; 
 }
