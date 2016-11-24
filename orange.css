@@ -63,7 +63,7 @@ a:hover {
 }
 
 /* selected link */
-a:active {  
+a:active {   
     color: #4717F6; 
     font-weight: bold;
     text-decoration: underline;
