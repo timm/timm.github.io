@@ -1,5 +1,14 @@
 return {
   {item = {
+    when = "Npv 26",
+    what = "$75K gift from Lexix Nexis for advanced analytics"
+  }},
+  {item = { 
+    when = "Nov 22",
+    what = "Journal article published: 'Negative results about Effort Estimation'.",
+    more = "rdcu.be/mRsF"
+  }},
+  {item = {
     when = "Nov 17",
     what ="3 NSF submissions in one month is more than enough. !!"
   }},
