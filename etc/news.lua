@@ -1,6 +1,11 @@
 return {
   {item = {
-    when = "Npv 26",
+    when = "Dec 1",
+    what = "Invited to the program committee of the 2017 Automated Software Engineering conference.",
+    more= "www.ase2017.org"
+  }},
+  {item = {
+    when = "Nov 26",
     what = "$75K gift from Lexix Nexis for advanced analytics"
   }},
   {item = { 
