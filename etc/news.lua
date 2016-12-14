@@ -1,4 +1,14 @@
 return {
+  { item = {
+      when="Dec 10",
+      what="New tech report: How to Read Less: Better Machine Assisted Reading Methods",
+      more="arxiv.org/abs/1612.03224"
+  }}, 
+  { item = {
+      when="Dec 5",
+      what="New tech report: Impact of Bad Early Size Predictions on Effort Estimation",
+      more="arxiv.org/abs/1612.03240"
+  }},
   {item = {
     when = "Dec 1",
     what = "Invited to the program committee of the 2017 Automated Software Engineering conference.",
