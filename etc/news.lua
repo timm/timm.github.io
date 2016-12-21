@@ -1,4 +1,8 @@
 return {
+   { item = {
+      when="Dec 20",
+      what="Journal paper accepted: Discovering Relevant API Methods Through Text Mining"
+  }}, 
   { item = {
       when="Dec 10",
       what="New tech report: How to Read Less: Better Machine Assisted Reading Methods",
