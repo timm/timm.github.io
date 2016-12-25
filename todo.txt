@@ -1,91 +1,10 @@
-static code attribiutes. simple work
+ to do:
 
-complex osftare can be estiamted by v.simple equations (negative results)
-
-bellweather: v.simple transfer
-
-simplyging data colelction for medicine
-espert sustems. a few rules, rool. auspig.
-
-arrange students in rows, add masters students
-
-=============
-
-<div id="container">
-    <ul id="nav">
-        <li><a href="#" class="index">Index</a></li>
-        <li><a href="#" class="contact">Contact</a></li>
-        <li><a href="#" class="other">Other</a></li>
-        <li><a href="#" class="a1">a1</a></li>
-    </ul>
-    <div id="content">
-        <div class="index hide">This is the home page.</div>
-        <div class="contact hide" style="display:none;">This is my contact info.</div>
-        <div class="other hide" style="display:none;">This is other stuff.</div>
-        <div class="a1 hide" style="display:none;">a1.</div>
-    </div>
-</div>
-
-$("#nav a").click( function() {
-    $(".hide").hide(); // hide other divs, marked with hide class
-    var c = $(this).attr('class').split(' ')[0]; //Get First Class
-    $("#content ."+c).show(); //show anything inside content div with the class c (marked with a . to represent class)
-});
-
-=============
-<link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
-Specify in CSS
-
-Use the following CSS rules to specify these families:
-font-family: 'Roboto Slab', serif;
-
-===============:
-Embed Font
-
-To embed your selected fonts into a webpage, copy this code into the <head> of your HTML document.
-STANDARD @IMPORT
-<link href="https://fonts.googleapis.com/css?family=Coiny" rel="stylesheet">
-Specify in CSS
-
-Use the following CSS rules to specify these families:
-font-family: 'Coiny', cursive;
-
-==========
-When applied as our
-sampling method for crowdsourcing,
-the Menzies methods would (a) recursively bi-cluster the data
-using a first approximation to the  first PCA component (recomputed
-for the data found at each level of the recursion); then (b) only ask the crowd
-for a (small) number of sample of each leaf cluster.
-
-
-Our preliminary work qualified workers by training and then testing them on specification concepts, but challenges remain in 
- how to do this efficiently and effectively (Section~\ref{})
-% \kt{We've just said that MTurk is open call, but that MTurk was used for qualified experiments that are better than open call.... I think it's inaccurate, then, to call all MTurk experiments open call}
-In addition to accessing qualified crowds through crowdsourcing platforms,
- via our IBM  industrial partners, we can access
-large SE crowds with specialized  SE knowledge (see attached statement of
-  interest in working with us on this project, from IBM's Research Triangle development team
-  at Raleigh, North Carolina).  IBM runs its BlueMix product
-as an ``internal open project''. At one recent hackathon open to only
-IBM developers, 1,300 programmers colloberated to contribute nearly a 100 small
-tools to BlueMix.  That is, with some evangelising within the BlueMix community,
-we have ready access to the participants needed for this research.
-
-]
-
-collect all my magic icons locally
-
-dd funding to raise lab
-
-add papers under review to undersubmission
-
-get news page to generate
-
-get more pics into raise home page
-
-get img txt overlays onot front page
-
-get rss feed updated
-
-meet our people:
+ - software configs
+ - command-line data mining
+ - data mining in python (simple tools)
+ - web site generation
+ - jekkyll blanks
+ - stats.py
+ - george's stuff
+ - knn
