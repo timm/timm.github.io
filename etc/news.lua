@@ -1,6 +1,11 @@
 return {
-  { item = {
+   { item = {
       when="Jan 10",
+      what="Invited to speak, NSF PI meeting,  Software Infrastructure   \
+            for Sustained Innovation, Feb 21, 2017"
+  }},
+  { item = {
+      when="Jan 08",
       what="Invited to editorial board, Journal of Software and Systems"
   }},
    { item = {
