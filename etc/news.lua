@@ -1,4 +1,8 @@
 return {
+  { item = {
+      when="Jan 10",
+      what="Invited to editorial board, Journal of Software and Systems"
+  }},
    { item = {
       when="Dec 20",
       what="Journal paper accepted: Discovering Relevant API Methods Through Text Mining"
