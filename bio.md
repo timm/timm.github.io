@@ -26,7 +26,7 @@ TL;DR? Then...
 
 **Editorial boards:**
 
-+ TSE, EMSE, IST, ASE, SQJ, Big Data journal
++ TSE, JSS, EMSE, IST, ASE, SQJ, Big Data journal
 
 **Conference**
 
