@@ -1,5 +1,9 @@
 return {
-   { item = {
+  { item = {
+      when="Jan 13",
+      what="New gift from Lexis Nexis: $60K extension to SElab"
+  }},
+ { item = {
       when="Jan 10",
       what="Invited to speak, NSF PI meeting,  Software Infrastructure   \
             for Sustained Innovation, Feb 21, 2017"
