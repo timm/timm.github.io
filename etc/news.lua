@@ -14,7 +14,7 @@ return {
   }},
    { item = {
       when="Dec 20",
-      what="Journal paper accepted: Discovering Relevant API Methods Through Text Mining"
+      what="Journal paper accepted: Discovering  API Methods thru Text Mining; Software:Evol+Process with   Pandita et al."
   }}, 
   { item = {
       when="Dec 10",
