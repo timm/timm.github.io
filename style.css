@@ -110,6 +110,10 @@ p {margin-top:0px;}
 
 
 
+.paddingBetweenCols  table {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
 .paddingBetweenCols  td
 {
     padding-left: 15px;
@@ -316,3 +320,10 @@ blockquote.style2 {
   padding-left: 15px;
   border-left: 3px solid #d7dee3; 
 } 
+#div1 {
+  margin-top:0px;
+  padding-top:0px;
+  margin-left: 3px;
+  padding-left: 14px;
+  border-left: 1px solid #d7dee3;  
+}
