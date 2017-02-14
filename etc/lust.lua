@@ -22,7 +22,7 @@ about.news   = news
 briefs = {}
 
 klass=1
-for i=1,10 do
+for i=1,5 do
   if i > #news then break end
   klass = 1 - klass
   tmp   = news[i].item
