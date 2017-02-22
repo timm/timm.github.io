@@ -21,7 +21,7 @@ return {
       when="Jan 10",
       what="Invited to speak, NSF PI meeting,  Software Infrastructure   \
             for Sustained Innovation, Feb 21, 2017",
-      more = "http://tiny.cc/nsf17"      
+      more = "tiny.cc/nsf17"      
   }},
   { item = {
       when="Jan 08",
