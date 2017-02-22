@@ -1,12 +1,27 @@
 return {
   { item = {
+    when = "Feb 22",
+    what = "Workshop accepted to HICSS'18: Frontiers of AI and SE"
+  }},
+  { item = {
+    when = "Feb 19",
+    what = "New: using bad learners to find good configurations",
+    more = "arxiv.org/abs/1702.05701"
+  }},
+  { item = {
+    when = "Feb 18",
+    what = "New: many  models are controlled by a handful of key decisions",
+    more = "arxiv.org/abs/1702.05568"
+  }},
+  { item = {
       when="Jan 13",
       what="New gift from Lexis Nexis: $60K extension to SElab"
   }},
  { item = {
       when="Jan 10",
       what="Invited to speak, NSF PI meeting,  Software Infrastructure   \
-            for Sustained Innovation, Feb 21, 2017"
+            for Sustained Innovation, Feb 21, 2017",
+      more = "http://tiny.cc/nsf17"      
   }},
   { item = {
       when="Jan 08",
