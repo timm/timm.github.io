@@ -1,4 +1,9 @@
 return {
+  { item= {
+    when = "Feb 27",
+    what = "Invited to give keynote, University College, London",
+    more = "crest.cs.ucl.ac.uk/cow/52/"
+    }},
   { item = {
     when = "Feb 22",
     what = "Workshop accepted to HICSS'18: Frontiers of AI and SE"
