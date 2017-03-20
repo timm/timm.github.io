@@ -121,7 +121,7 @@ estimation and defect prediction.
 One of the landmark results here was documenting the
 business case for the value of such predictors.
 For example, [Misirli et al.]([200~http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/2348/2216/)
-} report studies where the guidance offered by
+report studies where the guidance offered by
 defect predictors (a)reduced the effort required for
 software inspections in some Turkish software companies by
 72%;
@@ -183,13 +183,12 @@ contains
 numerous interesting research contributions. But  much of
 the paper reads like a "how to" guide on software
 analytics. All its data was placed on­line at PROMISE.
-This paper is widely cited, to say the least (770
-citations since 2007, most cites per year for any
+This paper is widely cited, to say the least: 770
+citations since 2007; most cites per year for any
 TSE paper since its publication; one the top­100
 most cited papers anywhere in the history of SE
 (see
-[http://dl.acm.org/citation.cfm?id=2874005](http://dl.acm.org/citation.cfm?id=2874005)
-).
+[http://dl.acm.org/citation.cfm?id=2874005](http://dl.acm.org/citation.cfm?id=2874005)).
 That paper ends with following paragraph:<ul>
 <em>Our hope
 is that numerous researchers repeat our experiments
