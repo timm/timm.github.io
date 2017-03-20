@@ -116,6 +116,18 @@ PROMISE repository includes sharable data on defect prediction,
   effort estimation, model-based SE, requirements models, performance
   prediction, over 240,000 real-world spreadsheets (one of the largest
   collections ever assembled), and many other kinds of data as well.
+- The early focus of PROMISE was on effort
+estimation and defect prediction.
+One of the landmark results here was documenting the
+business case for the value of such predictors.
+For example, [Misirli et al.]([200~http://www.aaai.org/ojs/index.php/aimagazine/article/viewFile/2348/2216/)
+} report studies where the guidance offered by
+defect predictors (a)reduced the effort required for
+software inspections in some Turkish software companies by
+72%;
+(b)while, at the same time, still being able to find the 25% 
+of the files that
+contain 88% of the defects. 
 - The repo
 not only greatly influenced
 effort estimation and defect prediction, but also the field of vulnerability prediction.
