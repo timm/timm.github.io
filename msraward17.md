@@ -56,13 +56,13 @@ I started the PROMISE workshop
 with Jelber Sayyad 
 that
 "encouraged" data
-sharing. I put "encouraged" in quotes, because it actually was a very explicit requirement:
+sharing. I put "encouraged" in quotes, because it actually was a very explicit requirement.
+Here are part of the 2005 call for papers for PROMISE, which put the following text in all caps:
 
-
-- Here is part of the 2005 call for papers for PROMISE, which put the following text in all caps.
 - "SUBMISSIONS WHICH
 INCLUDE EMPIRICAL RESULTS BASED ON PUBLICLY ACCESSIBLE DATASETS WILL BE GIVEN
-THE HIGHEST PRIORITY” and “A COPY OF THE PUBLIC DATASETS USED IN THE ACCEPTED
+THE HIGHEST PRIORITY” 
+- “A COPY OF THE PUBLIC DATASETS USED IN THE ACCEPTED
 PAPERS WILL BE POSTED ON THE PROMISE SOFTWARE ENGINEERING REPOSITORY.
 THEREFORE, IF APPLICABLE, THE AUTHORS SHOULD OBTAIN THE NECESSARY PERMISSION
 TO DONATE THE DATA BEFORE SUBMITTING THEIR PAPER." 
