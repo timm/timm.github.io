@@ -1,5 +1,5 @@
 
-# Thanks to the MSR'17 Award Committee
+# Thanks to the MSR'17 Award Committee,<br>and Others
 
 <img align=right width=300 src="img/repo.png">
 
@@ -33,11 +33,78 @@ made PROMISE possible:
   Library and, hey presto, suddenly all the PROMISE papers become ACM publications.
 - Numerous other researchers were kind enough to lend their talents
   to the organization of  the conferences.  That list of people
-  is very long and including **Ayse Benar, Guenther Ruhe, Stefan Wagner, Ye Yang**
+  is very long and including **Ayse Bener, Guenther Ruhe, Stefan Wagner, Ye Yang**
   (and many others, besides).
 - Finally, over the years, a small army of students worked on the repository.
   These students regularly scoured the table of contents of SE recent conference proceedings
   to find new data for PROMISE.
+
+## Why PROMISE was Important
+
+In this era of Github, GHtorrent, et al. it is hard to recall that only a decade ago, it was
+difficult to access project data. Nevertheless, that was the case.
+
+Back in 2005
+many people in the MSR field were analyzing large amount of (public) open
+source data but kept the tools and processed datasets to themselves as it was often
+considered a competitive advantage. In fact, within the MSR
+community, it was not until 2013 that they started
+their Data Showcase track to encourage sharing of data. 
+
+Meanwhile, back in 2005,
+I started the PROMISE workshop 
+with Jelber Sayyad 
+that
+"encouraged" data
+sharing. I put "encouraged" in quotes, because it actually was a very explicit requirement:
+
+
+- Here is part of the 2005 call for papers for PROMISE, which put the following text in all caps.
+- "SUBMISSIONS WHICH
+INCLUDE EMPIRICAL RESULTS BASED ON PUBLICLY ACCESSIBLE DATASETS WILL BE GIVEN
+THE HIGHEST PRIORITY” and “A COPY OF THE PUBLIC DATASETS USED IN THE ACCEPTED
+PAPERS WILL BE POSTED ON THE PROMISE SOFTWARE ENGINEERING REPOSITORY.
+THEREFORE, IF APPLICABLE, THE AUTHORS SHOULD OBTAIN THE NECESSARY PERMISSION
+TO DONATE THE DATA BEFORE SUBMITTING THEIR PAPER." 
+
+This emphasis in shared and repeatable results was  unthinkable at that
+time and many people predicted that PROMISE would not last long. Tee hee. We proved them wrong.
+The PROMISE workshop soon grew into its own stand-alone  conference.
+Due to
+some cosmic quirk of scheduling, the PROMISE and
+MSR conferences
+often meet at the same time, in
+the same corridor, sometimes even in the next room. But both events had full schedules
+so we rarely made it to each other sessions.
+Hence, the conferences evolved differently.
+The following is Prem Devanbu's  attempt to capture
+the differences  (and to misquote George Box, he hopes his model is more useful than it is
+wrong):
+
+- For the most part, the MSR community was mostly concerned with the initial
+collection of data sets from software projects.
+-  Meanwhile, the PROMISE community emphasized the analysis of the data after
+it was collected.
+
+Now it is true that 
+most MSR people analyzed their data with statistics
+and ML, and many PROMISE people did spend time in data collection.
+But where the PROMISE conferences was different and unique
+was its analysis of the analysis of data. 
+According to 
+Robles et
+al. at MSR'10 paper,
+most MSR papers were not concerned with
+a repeated analysis of data explored by a prior paper. On the other hand, the
+PROMISE people routinely posted all their data on a public repository and their new
+papers would re-analyze old data, in an attempt to improve that analysis. 
+
+Since 2011, PROMISE stopped scheduling itself at the same time as MSR.
+This has lead to richer
+interactions between MSR and PROMISE people. Hence, as time passes, the
+directions of these two conferences grow less distinct. Today, MSR meets at ICSE
+and PROMISE meets at ESEM and both events draw international leaders in the field
+of software data science.
 
 ## Results from PROMISE
 
@@ -126,7 +193,7 @@ Further, by placing all the materials for this paper
 on­line at PROMISE, he is enabling other researchers
 to refute his work, if they can."
 
-## The Future of PROMISE
+## The Future of the PROMISE Repository
 
 Now that PROMISE has achieved international
 recognition,  it is strange to report that  the repo is being
