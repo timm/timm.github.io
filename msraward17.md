@@ -206,7 +206,9 @@ to refute his work, if they can."
 
 ## The Future of the PROMISE Repository
 
-Now that PROMISE has achieved international
+Now that PROMISE 
+repository
+has achieved international
 recognition,  it is strange to report that  the repo is being
 decommissioned. 
 
