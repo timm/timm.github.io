@@ -1,5 +1,5 @@
 
-# Thanks to the MSR'17 Award Committee,<br>and Others
+# Thanks to the MSR'17 Award Committee,<br>(and Many Others as Well!)
 
 <img align=right width=300 src="img/repo.png">
 
