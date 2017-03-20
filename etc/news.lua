@@ -1,5 +1,15 @@
 return {
   { item= {
+    when = "Mar 19",
+    what = "Just won: the inaugural MSR Foundational Contibution Award",
+    more = "menzies.us/msraward17.html"
+    }},
+{ item= {
+    when = "Mar 10",
+    what = "FSE accepts our proposal to run SWAN'17",
+    more = "softwareanalytics.ca/swan17/Home.html"
+    }},
+  { item= {
     when = "Feb 27",
     what = "Invited to give keynote, University College, London",
     more = "crest.cs.ucl.ac.uk/cow/52/"
