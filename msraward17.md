@@ -39,7 +39,7 @@ made PROMISE possible:
   These students regularly scoured the table of contents of SE recent conference proceedings
   to find new data for PROMISE.
 
-## Why PROMISE was Important
+## Why PROMISE?
 
 In this era of Github, GHtorrent, et al. it is hard to recall that only a decade ago, it was
 difficult to access project data. Nevertheless, that was the case.
