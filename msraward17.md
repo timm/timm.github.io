@@ -1,0 +1,152 @@
+
+# Thanks to the MSR'17 Award Committee
+
+<img align=right width=300 src="img/repo.png">
+
+This evening I learned that I was the winner of the inaugural Mining
+Software Repositories Foundational Contribution Award. 
+According to the award web site, the award is a recognition of fundamental
+contributions in the field of mining software repositories, which
+helped others
+to advance the state of the art.  
+I was nominated for my work on the
+PROMISE project 
+[http://openscience.us/repo](http://openscience.us/repo). 
+
+I want to thank the committee for the award
+and I'd like to
+dedicate the award to 
+the many people whose hard work
+made PROMISE possible:
+
+- **Jelber Sayyad** was my original partner in PROMISE. Together, we
+  had the idea in 2004 that SE analytics papers should not only 
+  report their results, but also share the data used to achieve those results.
+- **Gary Boetticher** worked on PROMISE till 2009. He was very influential in those
+  early days and PROMISE would not have lasted past its infancy without
+  his diligent efforts.
+- **Tom Ostrand** and **Elaine Weyuker** were very important to the development of
+  PROMISE. The 2005 PROMISE meeting was somewhat low energy and
+  Gary and I were considering cancelling the project. But in 2006,
+  Tom and Elaine joined our community, injecting much needed energy and
+  credibility to our meetings.  Tom also performed some magic with the ACM Digital
+  Library and, hey presto, suddenly all the PROMISE papers become ACM publications.
+- Numerous other researchers were kind enough to lend their talents
+  to the organization of  the conferences.  That list of people
+  is very long and including **Ayse Benar, Guenther Ruhe, Stefan Wagner, Ye Yang**
+  (and many others, besides).
+- Finally, over the years, a small army of students worked on the repository.
+  These students regularly scoured the table of contents of SE recent conference proceedings
+  to find new data for PROMISE.
+
+## Results from PROMISE
+
+Here's a sample of what was achieved with PROMISE (and if anyone wants to add to this list, just
+email me at tim@menzies.us):
+
+- At the time of this writing, the 
+PROMISE repository includes sharable data on defect prediction,
+  effort estimation, model-based SE, requirements models, performance
+  prediction, over 240,000 real-world spreadsheets (one of the largest
+  collections ever assembled), and many other kinds of data as well.
+- The repo
+not only greatly influenced
+effort estimation and defect prediction, but also the field of vulnerability prediction.
+Several recent state of the art papers in that field
+use methods first widely described in the process of
+PROMISE data.
+- The first examples of successful cross-project learning in defect prediction and effort
+estimation came from work on PROMISE data.
+ Working with **Burak Turhan** and **Ayse Bener**, we used PROMISE data to write a top-ten-
+most-cited EMSE paper (2009 to 2014) on how to share data between projects (see
+"[On the relative value of cross-company and within-company data for defect prediction](http://cs.gmu.edu/~offutt/classes/see/papers/turham2009.pdf)", EMSE 2009).
+- More recent uses of PROMISE include work in software sharing and privacy. Many
+researchers have reported that as data is anonymized (for privacy purposes), it
+becomes harder to make conclusions from that data. Using PROMISE data, my Ph.D.
+student, Fayola Peters,
+showed that it is possible to share privatized versions of data that
+hide details about individual projects, while at the same time allowed researchers to
+build effect predictors for SE quality attributes (see "[Better privacy-preserving data sharing for cross project defect prediction](https://lucas.ezzoterik.com/wp-content/uploads/2016/03/15lace2.pdf)", ICSE’15).
+
+## Reviewer Comments
+
+I need to also thank my nominees for their
+kind words about PROMISE. The following are quotes from those letters.
+
+- "I don't think any other contribution that is
+even remotely comparable to (PROMISE)."
+- "There are many factors that lead to the state-of-the-art
+in mining software repositories, ... sharing and replicability in
+the science of software engineering, but in my opinion, none played
+a greater role than the PROMISE repository, created by Tim Menzies."
+- "I can’t think of a stronger
+contribution right now (to MSR), except maybe the creation of the MSR
+community by Dr. Hassan."
+- "PROMISE makes research results reproducible. For example, according to Robles et
+al. at MSR 
+2010, they found that over 95% of 171 papers published at MSR were
+unreproducible, since 
+their associated data was no longer on­line. However, nearly all of the
+papers at the PROMISE 
+conference was reproducible since they were based on PROMISE data. I believe
+this is a really 
+significant contribution. "
+- "Prof. Menzies has enabled and inspired a generation of
+  SE data scientists to use data to make refutable results. In his own
+publications, he makes extensive use of PROMISE data with the express
+aim of challenging others to share their data and/or repeat/improve/
+or refute his own results. 
+For example,
+his 2007 TSE article 
+"[Data Mining Static Code Attributes to Learn Defect
+Predictors](https://www.researchgate.net/profile/Tim_Menzies/publication/3189767_Problems_with_Precision_A_Response_to_Comments_on_'Data_Mining_Static_Code_Attributes_to_Learn_Defect_Predictors'/links/0912f50c0549e3cb3d000000.pdf)"
+contains
+numerous interesting research contributions. But  much of
+the paper reads like a "how to" guide on software
+analytics. All its data was placed on­line at PROMISE.
+This paper is widely cited, to say the least (770
+citations since 2007, most cites per year for any
+TSE paper since its publication; one the top­100
+most cited papers anywhere in the history of SE
+(see
+[http://dl.acm.org/citation.cfm?id=2874005](http://dl.acm.org/citation.cfm?id=2874005)
+).
+That paper ends with following paragraph:<ul>
+<em>Our hope
+is that numerous researchers repeat our experiments
+and discover learning methods that are superior to the
+one proposed here. Paradoxically, this paper will be a
+success if it is quickly superseded.</em>
+</ul>
+I find this paragraph inspirational, a shining example
+of how to do open science in the Internet age.
+Here Dr. Menzies is pleading with the international
+research community to out­perform his own publication.
+Further, by placing all the materials for this paper
+on­line at PROMISE, he is enabling other researchers
+to refute his work, if they can."
+
+## The Future of PROMISE
+
+Now that PROMISE has achieved international
+recognition,  it is strange to report that  the repo is being
+decommissioned. 
+
+<img width=300 src="img/zenodo.png" align=right>
+
+The ZENODO repo at the CERN Large Hadron Collider 
+offers many services that significantly extend what PROMISE can offer:
+
+- It happily accepts files of up to 50GB. 
+- It auto-assigns DOIs (digital object identifiers) to all files.
+- And if any Github repo is registered at ZENODO, then whenever
+  a new release if tagged in Git, ZENODO automatically grabs a zip copy
+  of the newly released file.
+
+Accordingly, we have nearly finished moving all the PROMISE data over 
+to the 
+ZENODO repo called SEACRAFT  ([Software Engineering Artifacts Can Really Assist Future Tasks](http://tiny.cc/seacraft)).
+In future, if anyone wants a long-term storage
+facility for data, or scripts in Github, please submit 
+to [https://zenodo.org/deposit/new?c=seacraft](https://zenodo.org/deposit/new?c=seacraft).
+
