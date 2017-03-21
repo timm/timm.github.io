@@ -35,9 +35,23 @@ made PROMISE possible:
   to the organization of  the conferences.  That list of people
   is very long and including **Ayse Bener, Guenther Ruhe, Stefan Wagner, Ye Yang**
   (and many others, besides).
-- Finally, over the years, a small army of students worked on the repository.
-  These students regularly scoured the table of contents of SE recent conference proceedings
+- Finally, over the years, a small army of students worked on the repository:
+  <img align=right width=300 src="img/hack.jpg">
+     - These students regularly scoured the table of contents of SE recent conference proceedings
   to find new data for PROMISE.
+     - Many of those former students 
+  how have Ph.D.s:
+  **Greg Gay**, **Ekrem Kocaguneli**,
+  **Joe Krall**,  **Fayola Peters**, 
+  and **Burak Turhan**. I hope the
+  connections they made while working on
+  PROMISE will help them in their future careers.
+     - As to more recent students, special thanks
+  are due to **Rahul Krishna** for curating
+  the current version of PROMISE;
+  **Mitch Rees-Jones** for the large scale redesign of the repo web-site in 2014; and **David Pryor**
+  for many things including all the work
+  with ZENODO (see below).
 
 ## Why PROMISE?
 
@@ -53,7 +67,7 @@ their Data Showcase track to encourage sharing of data.
 
 Meanwhile, back in 2005,
 I started the PROMISE workshop 
-with Jelber Sayyad 
+with **Jelber Sayyad** 
 that
 "encouraged" data
 sharing. I put "encouraged" in quotes, because it actually was a very explicit requirement.
@@ -142,7 +156,7 @@ most-cited EMSE paper (2009 to 2014) on how to share data between projects (see
 - More recent uses of PROMISE include work in software sharing and privacy. Many
 researchers have reported that as data is anonymized (for privacy purposes), it
 becomes harder to make conclusions from that data. Using PROMISE data, my Ph.D.
-student, Fayola Peters,
+student, **Fayola Peters**,
 showed that it is possible to share privatized versions of data that
 hide details about individual projects, while at the same time allowed researchers to
 build effect predictors for SE quality attributes (see "[Better privacy-preserving data sharing for cross project defect prediction](https://lucas.ezzoterik.com/wp-content/uploads/2016/03/15lace2.pdf)", ICSE’15).
