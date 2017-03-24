@@ -10,32 +10,34 @@ contributions in the field of mining software repositories, which
 helped others
 to advance the state of the art.  
 I was nominated for my work on the
-PROMISE project 
+PROMISE repository 
 [http://openscience.us/repo](http://openscience.us/repo). 
 
 I want to thank the committee for the award
 and I'd like to
 dedicate the award to 
 the many people whose hard work
-made PROMISE possible:
+made the PROMISE repo possible:
 
 - **Jelber Sayyad** was my original partner in PROMISE. Together, we
   had the idea in 2004 that SE analytics papers should not only 
   report their results, but also share the data used to achieve those results.
-- **Gary Boetticher** worked on PROMISE till 2009. He was very influential in those
-  early days and PROMISE would not have lasted past its infancy without
+  Accordingly we started the PROMISE conference series and an associated repo.
+- **Gary Boetticher** worked on the PROMISE conference (and offered advice
+  on the repo) till 2009. He was very influential in those
+  early days and PROMISE (repo or conference) would not have lasted past its infancy without
   his diligent efforts.
 - **Tom Ostrand** and **Elaine Weyuker** were very important to the development of
-  PROMISE. The 2005 PROMISE meeting was somewhat low energy and
-  Gary and I were considering cancelling the project. But in 2006,
+  the PROMISE conference. The 2005 PROMISE conference meeting was somewhat low energy and
+  Gary and I were considering cancelling the whole thing. But in 2006,
   Tom and Elaine joined our community, injecting much needed energy and
   credibility to our meetings.  Tom also performed some magic with the ACM Digital
-  Library and, hey presto, suddenly all the PROMISE papers become ACM publications.
+  Library and, hey presto, suddenly all the PROMISE conference papers become ACM publications.
 - Numerous other researchers were kind enough to lend their talents
   to the organization of  the conferences.  That list of people
   is very long and including **Ayse Bener, Guenther Ruhe, Stefan Wagner, Ye Yang**
   (and many others, besides).
-- Finally, over the years, a small army of students worked on the repository:
+- Finally, over the years, a small army of students worked on the repo:
   <img align=right width=300 src="img/hack.jpg">
      - These students regularly scoured the table of contents of SE recent conference proceedings
   to find new data for PROMISE.
