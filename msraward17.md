@@ -53,26 +53,6 @@ made PROMISE possible:
   for many things including all the work
   with ZENODO (see below).
 
-And just to be clear, the "PROMISE project" has two parts:
-
-- a repo;
-- an annual conference called "PROMISE", that is currently co-located with ESEM.
-
-This award was given to me for my work on the repo.
-As to the conference,
-Initially, that conference was  tightly connected to the repo (to store the data from papers from the conference).
-Since then, the scope of the repo has extended to include data from many sources.
-
-As to the PROMISE conference, I was its steering committee chair till 2012 when **Stefan Wagner** was kind enough
-to take on those duties. 
-These days, is guided
-by its dedicated and talented steering committee
-**Leandro Minku**, 
-**Andriy Miranskyy**, 
-**Massimiliano Di Penta**, 
-**Burak Turhan**, 
-and **Hongyu Zhang**.
-
 
 ## Why PROMISE?
 
@@ -140,6 +120,27 @@ interactions between MSR and PROMISE people. Hence, as time passes, the
 directions of these two conferences grow less distinct. Today, MSR meets at ICSE
 and PROMISE meets at ESEM and both events draw international leaders in the field
 of software data science.
+
+So just to be clear, the "PROMISE project" has two parts:
+
+- a repo;
+- an annual conference called "PROMISE", that is currently co-located with ESEM.
+
+This award was given to me for my work on the repo.
+As to the conference,
+Initially, that conference was  tightly connected to the repo (to store the data from papers from the conference).
+Since then, the scope of the repo has extended to include data from many sources.
+
+As to the PROMISE conference, I was its steering committee chair till 2012 when **Stefan Wagner** was kind enough
+to take on those duties. 
+These days, is guided
+by its dedicated and talented steering committee
+**Leandro Minku**, 
+**Andriy Miranskyy**, 
+**Massimiliano Di Penta**, 
+**Burak Turhan**, 
+and **Hongyu Zhang**.
+
 
 ## Results from PROMISE
 
