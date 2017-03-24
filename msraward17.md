@@ -135,7 +135,7 @@ Since then, the scope of the repo has extended to include data from many sources
 
 As to the PROMISE conference, I was its steering committee chair till 2012 when **Stefan Wagner** was kind enough
 to take on those duties. 
-These days, is guided
+These days, the PROMOSE conference is guided
 by its dedicated and talented steering committee
 **Leandro Minku**, 
 **Andriy Miranskyy**, 
