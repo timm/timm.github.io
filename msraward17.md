@@ -3,6 +3,8 @@
 
 <img align=right width=300 src="img/repo.png">
 
+_Mar 15, 2017_
+
 This evening I learned that I was the winner of the inaugural Mining
 Software Repositories Foundational Contribution Award. 
 According to the award web site, the award is a recognition of fundamental
