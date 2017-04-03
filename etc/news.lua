@@ -5,6 +5,11 @@ return {
     more = "docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/"
     }},
   { item= {
+    when = "Mar 27",
+    what = "Video of my London talk, on-line",
+    more = "crest.cs.ucl.ac.uk/cow/52/videos/menzies_cow52_480p.mp4"
+  }},
+  { item= {
     when = "Mar 24",
     what = "Journal paper accepted to IST: Minimizing Code Reorganization",
     more = "arxiv.org/abs/1609.03614"
