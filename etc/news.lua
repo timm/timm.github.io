@@ -6,7 +6,7 @@ return {
     }},
   { item= {
     when = "Mar 27",
-    what = "Video of my London talk, on-line",
+    what = "Video of my London talk, 'Analytics Without SBSE Considered Harmful'",
     more = "crest.cs.ucl.ac.uk/cow/52/videos/menzies_cow52_480p.mp4"
   }},
   { item= {
