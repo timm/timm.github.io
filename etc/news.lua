@@ -1,5 +1,15 @@
 return {
   { item= {
+    when = "Apr 2",
+    what = "Career funding tops $9M",
+    more = "docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/"
+    }},
+  { item= {
+    when = "Mar 24",
+    what = "Journal paper accepted to IST: Minimizing Code Reorganization",
+    more = "arxiv.org/abs/1609.03614"
+    }},
+  { item= {
     when = "Mar 19",
     what = "Just won: the inaugural MSR Foundational Contibution Award",
     more = "menzies.us/msraward17.html"
