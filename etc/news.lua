@@ -1,4 +1,9 @@
 return {
+   { item= {
+    when = "Apr 20",
+    what = "ASE journal accepts paper (with minor revision): 'Faster Discovery of Faster System Configurations with Spectral Learning'",
+    more = "arxiv.org/pdf/1701.08106.pdf"
+    }},
   { item= {
     when = "Apr 2",
     what = "Career funding tops $9M",
