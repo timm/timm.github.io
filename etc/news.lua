@@ -1,5 +1,23 @@
 return {
-   { item= {
+  
+  { item= {
+    when = "May  11",
+    what = "RE'17 accepts 'SHORTer reasoning about larger requirements model'",
+    more = "arxiv.org/pdf/1702.05568.pdf"
+    }}, 
+  
+  { item= {
+    when = "May  10",
+    what = "NSF agrees to fund our SWAN'17 meeting.",
+    more = "softwareanalytics.ca/swan17/Travel_Award.html"
+    }}, 
+  
+  { item= {
+    when = "May  6",
+    what = "Better software analytics via intelligence data rebalancing  (SMOTE+DE).",
+    more = "arxiv.org/pdf/1705.03697.pdf"
+    }},
+  { item= {
     when = "Apr 20",
     what = "ASE journal accepts paper (with minor revision): 'Faster Discovery of Faster System Configurations with Spectral Learning'",
     more = "arxiv.org/pdf/1701.08106.pdf"
