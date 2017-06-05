@@ -6,7 +6,7 @@ return {
     }},   
   { item= {
     when = "June 3",
-    what = "New faculty award from IBM: $40K"
+    what = "New faculty award from IBM: 40K"
     }},  
   { item= {
     when = "June 2",
