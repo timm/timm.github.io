@@ -1,11 +1,31 @@
 return {
+ 
+  { item= {
+    when = "June 5",
+    what = "New faculty award from IBM: $40K"
+    }},  
+  { item= {
+    when = "June 2",
+    what = "Three papers accepted to FSE'17. Well done team!",
+    more = "www.facebook.com/tim.menzies/posts/10154339711081652"
+    }}, 
+  { item= {
+    when = "May  29",
+    what = "New NSF (medium) award: $900K",
+    more = "goo.gl/hJ27Ti"
+    }},  
+   { item= {
+    when = "May 23",
+    what = "Given inaugural foundational contribution award for MSR",
+    more = "twitter.com/timmenzies/status/866647406850576385"
+    }}, 
   
   { item= {
     when = "May  11",
     what = "RE'17 accepts 'SHORTer reasoning about larger requirements model'",
     more = "arxiv.org/pdf/1702.05568.pdf"
     }}, 
-  
+   
   { item= {
     when = "May  10",
     what = "NSF agrees to fund our SWAN'17 meeting.",
