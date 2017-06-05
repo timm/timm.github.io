@@ -17,7 +17,7 @@ return {
   { item= {
     when = "May 24",
     what = "Gave talk, ICSE'17: Trends and Topics in SE",
-    more = "tiny.cc/tim/17icse"
+    more = "tiny.cc/tim17icse"
     }}, 
   { item= {
     when = "May 23",
