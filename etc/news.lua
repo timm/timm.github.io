@@ -1,7 +1,11 @@
 return {
- 
   { item= {
     when = "June 5",
+    what = "New workshop: Frontiers of AI+SE",
+    more ="menzies.us/faise18.html"
+    }},   
+  { item= {
+    when = "June 3",
     what = "New faculty award from IBM: $40K"
     }},  
   { item= {
