@@ -14,12 +14,17 @@ return {
     what = "New NSF (medium) award: $900K",
     more = "goo.gl/hJ27Ti"
     }},  
-   { item= {
+  { item= {
+    when = "May 24",
+    what = "Gave talk, ICSE'17: Trends and Topics in SE",
+    more = "tiny.cc/tim/17icse"
+    }}, 
+  { item= {
     when = "May 23",
     what = "Given inaugural foundational contribution award for MSR",
     more = "twitter.com/timmenzies/status/866647406850576385"
     }}, 
-  
+   
   { item= {
     when = "May  11",
     what = "RE'17 accepts 'SHORTer reasoning about larger requirements model'",
