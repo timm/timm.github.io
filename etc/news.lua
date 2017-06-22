@@ -10,6 +10,11 @@ return {
     more ="arxiv.org/pdf/1609.04886.pdf"
     }}, 
   
+   { item= {
+    when = "June 13",
+    what = "Journal paper accepted to TSE: Heterogeneous Defect Prediction' " 
+    }}, 
+  
   { item= {
     when = "June 5",
     what = "New workshop: Frontiers of AI+SE",
