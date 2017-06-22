@@ -12,7 +12,7 @@ return {
   
    { item= {
     when = "June 13",
-    what = "Journal paper accepted to TSE: Heterogeneous Defect Prediction' " 
+    what = "Journal paper accepted to TSE: 'Heterogeneous Defect Prediction' " 
     }}, 
   
   { item= {
