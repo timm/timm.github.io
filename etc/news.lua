@@ -1,5 +1,16 @@
 return {
   { item= {
+    when = "June 21",
+    what = "Elevated to IEEE Senior Member. Next step, IEEE Fellow?"
+  }}, 
+  
+  { item= {
+    when = "June 21",
+    what = "Journal first paper accepted to FSE'17: 'Are Delayed Issues Harder to Resolve?' ",
+    more ="arxiv.org/pdf/1609.04886.pdf"
+    }}, 
+  
+  { item= {
     when = "June 5",
     what = "New workshop: Frontiers of AI+SE",
     more ="menzies.us/faise18.html"
