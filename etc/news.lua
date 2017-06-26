@@ -1,5 +1,9 @@
 return {
   { item= {
+    when = "June 22",
+    what = "Conference co-chairing for 2018: RE'18(data); FSE'18(artifacts)"
+  }},  
+  { item= {
     when = "June 21",
     what = "Elevated to IEEE Senior Member. Next step, IEEE Fellow?"
   }}, 
