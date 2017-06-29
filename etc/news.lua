@@ -1,5 +1,5 @@
 return {
-  { item= {
+ { item= {
     when = "June 22",
     what = "Conference co-chairing for 2018: RE'18(data); FSE'18(artifacts)"
   }},  
@@ -16,7 +16,8 @@ return {
   
    { item= {
     when = "June 13",
-    what = "Journal paper accepted to TSE: 'Heterogeneous Defect Prediction' " 
+    what = "Journal paper accepted to TSE: 'Heterogeneous Defect Prediction' " ,
+    more="/menzies.us/pdf/17hdp.pdf"
     }}, 
   
   { item= {
