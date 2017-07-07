@@ -1,5 +1,10 @@
 return {
  { item= {
+    when = "July 5",
+    what = "Guest lecture, Monash Uni., 'Simpler Analytics'",
+    more = "www.youtube.com/watch?v=d0zX4JkmE3E"
+  }},  
+ { item= {
     when = "June 22",
     what = "Conference co-chairing for 2018: RE'18(data); FSE'18(artifacts)"
   }},  
