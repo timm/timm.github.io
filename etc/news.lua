@@ -1,4 +1,8 @@
 return {
+   { item= {
+    when = "July 13",
+    what = "Joined Editorial Board, IEEE Software"
+  }},  
  { item= {
     when = "July 5",
     what = "Guest lecture, Monash Uni., 'Simpler Analytics'",

@@ -26,12 +26,13 @@ TL;DR? Then...
 
 **Editorial boards:**
 
-+ TSE, JSS, EMSE, IST, ASE, SQJ, Big Data journal
++ TSE, JSS, EMSE, IST, ASE, SQJ, Big Data journal, IEEE Software
 
 **Conference**
 
 + **co-General chair:** ICMSE'16
-+ **co-PC-chair:** SSBSE'17, ICSE NEIR'15, ASE'12
++ **co-PC-chair:** SSBSE'17,  ICSE NEIR'15, ASE'12
++ **track chairs:** RE'18 data, artifacts(FSE'18,16, ICSME'16), 
 + **PCs (next):**  ICSE'18, ASE'17, MSR'17, EASE'17, SPLC'17
 + **PCSs (2016):**  ASE'16, ISSRE'16, SSBSE'16, BIGDSE'16, PROMISE'16
 + **PCs (before):** ICSE, ASE, FSE, ISSRE, HASE, SSBSE, EASE, MSR, RAISE, etc, etc
@@ -64,10 +65,11 @@ and Validation Facility.
 
 Prof. Menzies is the co-founder of the PROMISE conference series devoted to
 reproducible experiments in software engineering
-([http://openscience.us/repo](http://openscience.us/repo)). He is an associate
+([http://tiny.cc/seacraft](http://tiny.cc/seacraft)). He is an associate
 editor of IEEE Transactions on Software Engineering, Empirical Software
 Engineering, the Automated Software Engineering Journal the Big Data Journal,
-Information Software Technology, and the Software Quality Journal. In 2015, he
+Information Software Technology, IEEE Software,
+and the Software Quality Journal. In 2015, he
 served as co-chair for the ICSE'15 NIER track. In 2016, he serves as co-general
 chair of ICMSE'16. For more, see his vita
 ([http://goo.gl/8eNhYM](http://goo.gl/8eNhYM)) or his list of publications
