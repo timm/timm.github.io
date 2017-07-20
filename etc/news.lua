@@ -1,7 +1,11 @@
 return {
    { item= {
+    when = "July 19",
+    what = "Appointed associate editor, ACM TOSEM" 
+  }},  
+   { item= {
     when = "July 13",
-    what = "Joined Editorial Board, IEEE Software"
+    what = "Appointed to editorial board, IEEE Software"
   }},  
  { item= {
     when = "July 5",
