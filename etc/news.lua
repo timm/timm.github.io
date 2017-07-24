@@ -1,5 +1,9 @@
 return {
    { item= {
+    when = "July 24",
+    what = "Not a bad week. 3 papers accepted (with minor revisions) to IST,ASE,EMSE journals" 
+  }},   
+   { item= {
     when = "July 19",
     what = "Appointed associate editor, ACM TOSEM" 
   }},  
