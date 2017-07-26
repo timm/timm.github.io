@@ -1,5 +1,10 @@
 return {
    { item= {
+    when = "July 26",
+    what = "Shiny new lab space!",
+    more = "newlab.html"
+  }}, 
+  { item= {
     when = "July 24",
     what = "Not a bad week. 3 papers accepted (with minor revisions) to IST,ASE,EMSE journals" 
   }},   
