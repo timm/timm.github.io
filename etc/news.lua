@@ -2,7 +2,7 @@ return {
    { item= {
     when = "July 26",
     what = "Shiny new lab space!",
-    more = "newlab.html"
+    more = "menzies.us/newlab.html"
   }}, 
   { item= {
     when = "July 24",
