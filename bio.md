@@ -16,17 +16,17 @@ TL;DR? Then...
 
 **Funding**
 
-+ $8M in [research funding](https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746make%20-)
++ $9M in [research funding](https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746make%20-)
 + Funding from  NSF, NIJ, DoD, NASA, NARA, USDA, LEXIS NEXIS, GRAMMATECH
 
 **Grad students:**
 
-+ 8 + 23 graduated [Ph.D. + masters](https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing) 
-+ 12 + 1 current Ph.D. + masters;
++ Graduated: [7 Ph.D. + 29 masters](https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing) 
++ 9 current Ph.D.;
 
 **Editorial boards:**
 
-+ TSE, JSS, EMSE, IST, ASE, SQJ, Big Data journal, IEEE Software
++ TSE,TOSEM,  JSS, EMSE, IST, ASE, SQJ, Big Data journal, IEEE Software
 
 **Conference**
 
@@ -40,7 +40,7 @@ TL;DR? Then...
 **Papers:**
 
 + 250+ refereed [research papers](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&oi=ao);
-+ h-index = 41
++ h-index = 48
 
 **Books:**
 
@@ -66,7 +66,8 @@ and Validation Facility.
 Prof. Menzies is the co-founder of the PROMISE conference series devoted to
 reproducible experiments in software engineering
 ([http://tiny.cc/seacraft](http://tiny.cc/seacraft)). He is an associate
-editor of IEEE Transactions on Software Engineering, Empirical Software
+editor of IEEE Transactions on Software Engineering, 
+ACM Transactions on Software Engineering Methodologies, Empirical Software
 Engineering, the Automated Software Engineering Journal the Big Data Journal,
 Information Software Technology, IEEE Software,
 and the Software Quality Journal. In 2015, he
