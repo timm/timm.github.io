@@ -1,4 +1,30 @@
 return {
+ { item = {
+    what= "Now on-line 'Beyond Evolutionary Algorithms'",
+    more="www.sciencedirect.com/science/article/pii/S0950584917300757",
+    when="Sept 7"
+    }},  
+    { item = {
+    what= "Photos from 'Software Analytics', 2017",
+    more="goo.gl/oWRemh",
+    when="Sept 4"
+    }}, 
+  { item = {
+    what= "Now on-line 'Faster Discovery of Faster Configurations'",
+    more="www.sciencedirect.com/science/article/pii/S0950584917300757",
+    when="Sept 2"
+    }},
+  { item = {
+    when="Aug 31",
+    what="LAS'18 grant selected: 'How to Make a Magician'",
+    more="goo.gl/yuiBNQ"
+  }},
+  { item = {
+    when="Aug 31",
+    what="LAS'18 grant selected: 'Analytics Science with (In,Ab,De)duction'",
+    more="goo.gl/KqCFJS"
+  }},
+
    { item= {
     when = "July 26",
     what = "Shiny new lab space!",
