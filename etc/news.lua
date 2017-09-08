@@ -4,6 +4,17 @@ return {
     more="www.sciencedirect.com/science/article/pii/S0950584917300757",
     when="Sept 7"
     }},  
+   { item = {
+    what= "Wei Fu presents at FSE'17 'Easy over Hard Deep Learning'",
+    more="twitter.com/timmenzies/status/905359356241346560",
+    when="Sept 6"
+    }}, 
+    { item = {
+    what= "Vivek Nair  presents at FSE'17 'Bad Learners to Find Good Configurations'",
+    more="twitter.com/onyame/status/904632840024928257",
+    when="Sept 6"
+    }}, 
+  
     { item = {
     what= "Photos from 'Software Analytics', 2017",
     more="goo.gl/oWRemh",
@@ -24,7 +35,11 @@ return {
     what="LAS'18 grant selected: 'Analytics Science with (In,Ab,De)duction'",
     more="goo.gl/KqCFJS"
   }},
-
+{ item = {
+    what= "RIOT: a Novel Stochastic Method for Rapidly Configuring Cloud-Based Workflows",
+    more="arxiv.org/pdf/1708.08127.pdf",
+    when="Aug 25"
+    }}, 
    { item= {
     when = "July 26",
     what = "Shiny new lab space!",
