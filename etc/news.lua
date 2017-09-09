@@ -14,8 +14,7 @@ return {
     more="twitter.com/onyame/status/904632840024928257",
     when="Sept 6"
     }}, 
-  
-    { item = {
+{ item = {
     what= "Photos from 'Software Analytics', 2017",
     more="goo.gl/oWRemh",
     when="Sept 4"
