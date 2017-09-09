@@ -22,7 +22,7 @@ return {
     }}, 
   { item = {
     what= "Now on-line 'Faster Discovery of Faster Configurations'",
-    more="www.sciencedirect.com/science/article/pii/S0950584917300757",
+    more="goo.gl/9GCN6j",
     when="Sept 2"
     }},
   { item = {
