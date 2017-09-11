@@ -1,7 +1,7 @@
 return {
   { item= {
     when="Sept 11",
-    what="Elected, steering committee, Symposium Search-bases Software Engineering"
+    what="Elected to steering committee, Symposium Search-bases Software Engineering"
   }},
  { item = {
     what= "Now on-line 'Beyond Evolutionary Algorithms'",
