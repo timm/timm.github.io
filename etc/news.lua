@@ -1,7 +1,12 @@
 return {
+  { item =
+    { when = "Sept 14",
+      what = "Photos from the 2017 Symposium on Search-based SE",
+      more = "goo.gl/JcGau5"
+      }},
   { item= {
     when="Sept 11",
-    what="Elected to steering committee, Symposium Search-bases Software Engineering"
+    what="Elected to steering committee, Symposium Search-based Software Engineering"
   }},
  { item = {
     what= "Now on-line 'Beyond Evolutionary Algorithms'",
