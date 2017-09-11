@@ -1,4 +1,8 @@
 return {
+  { item= {
+    when="Sept 11",
+    what="Elected to steering committee, Symposium Search-bases Software Engineering"
+  }},
  { item = {
     what= "Now on-line 'Beyond Evolutionary Algorithms'",
     more="www.sciencedirect.com/science/article/pii/S0950584917300757",
