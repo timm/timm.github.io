@@ -117,7 +117,7 @@ p {margin-top:0px;}
     padding-left: 15px;
     padding-right: 10px; 
     xsborder-left: 1px solid #d7dee3;  
-    xborder-bottom: 1px solid #d7dee3;  
+    border-bottom: 1px solid #d7dee3;  
     width: 140px;
     xpadding:0 15px 0 15px; 
 }
