@@ -100,9 +100,10 @@ background-image: linear-gradient(to right, #CC0000 0%, #FFFFFF 100%);
             
             
 header    { margin-top:0px; margin-bottom:30px; padding-top:0px;}
-dt        {  margin: 1px; font-face: bold; background: pink;}
-.right h1 {  padding-top:0px    }
-.left  h1 {  padding-top:0px    }
+dt        {  font-size: small; margin: 1px; font-weight: bold; background: pink;}
+dd       {  font-size: small;}
+.right h1 {  padding-top:0px ;   }
+.left  h1 {  padding-top:0px ;   }
 
 
                       
@@ -110,18 +111,21 @@ p {margin-top:0px;}
 
 
 
-.paddingBetweenCols  table {
-  padding-bottom: 0px;
-  margin-bottom: 0px;
-}
+
 .paddingBetweenCols  td
 {
     padding-left: 15px;
     padding-right: 10px; 
-    border-left: 1px solid #d7dee3;  
-    border-bottom: 1px solid #d7dee3;  
+    xsborder-left: 1px solid #d7dee3;  
+    xborder-bottom: 1px solid #d7dee3;  
     width: 140px;
     xpadding:0 15px 0 15px; 
+}
+
+.paddingBetweenCols  table {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  border-left: 10px solid #000;
 }
 
 .wrapper {
