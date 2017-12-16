@@ -1,12 +1,51 @@
 return {
+   
+  { item =
+    { when = "Dec 14",
+      what = "Accepted to IEEE TSE: 'Sampling' as a Baseline Optimizer for Search-based Software Engineering'. ",
+      more = "arxiv.org/pdf/1608.07617.pdf"
+      }},
+  { item =
+    { when = "Dec 13",
+      what = "Accepted to ICSE'18: Is 'Better Data' Better Than 'Better Data Miners'? ",
+      more = "goo.gl/Z2YKUN"
+      }},
+  { item =
+    { when = "Dec 11",
+      what = "Photos: Data-driven Search-based SE, Japan, Dec'17.",
+      more = "goo.gl/YfZyS8"
+      }},
+
+{ item =
+    { when = "Dec 11",
+      what = "Accepted to EMSE: Finding Better Active Learners for Faster Literature Reviews. ",
+      more = "arxiv.org/pdf/1612.03224.pdf"
+      }},
+
+  { item =
+    { when = "Dec 11",
+      what = "Keynote, Japan: When data miners met optimizers. ",
+      more = "tiny.cc/17search"
+      }},
+  
+  { item =
+    { when = "Dec 8",
+      what = "Invited to ESEM'18 PC. "
+      }},
+    
+  { item =
+    { when = "Nov  9",
+      what = "Invited Talk, IBM TEC conference. ",
+      more = "tiny.cc/tim17ibm"
+      }},
   { item =
     { when = "Sept 14",
-      what = "Photos from the 2017 Symposium on Search-based SE",
+      what = "Photos from the 2017 Symposium on Search-based SE. ",
       more = "goo.gl/JcGau5"
       }},
   { item= {
     when="Sept 11",
-    what="Elected to steering committee, Symposium Search-based Software Engineering"
+    what="Elected to steering committee, Symposium Search-based Software Engineering. "
   }},
  { item = {
     what= "Now on-line 'Beyond Evolutionary Algorithms'",
