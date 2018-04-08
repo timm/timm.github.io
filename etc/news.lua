@@ -1,5 +1,65 @@
 return {
-   
+   { item =
+    { when = "Mar 30",
+      what = "Bayesian Optimization for Finding Best Cloud VM",
+      more = "arxiv.org/pdf/1712.10081"
+      }},
+
+   { item =
+    { when= "Mar 2",
+      what= "For MSR'18: 500+ Times Faster Than Deep Learning",
+      more= "arxiv.org/pdf/1802.05319"
+    }},
+
+   { item=
+     { when=	"Mar 2",
+       what=	"For MSR'18: Data-Driven Search-based Software Engineering",
+       more=	"arxiv.org/pdf/1801.10241"
+   }},
+
+   { item=
+     { when=   "Jan 30",
+       what= "For TSE: Bellwethers, Baselines For Transfer Learning",
+       more= "arxiv.org/pdf/1703.06218"
+    }},
+
+   { item=
+     { when= "Jan 22",
+       what= "For SEIP'18: Impact of \"Heroes\" on Software Development",
+       more= "arxiv.org/pdf/1710.09055"
+     }},
+
+   { item=
+     { when=  "Jan 22",
+       what= "For SEIP'18: Connection Between Issues, Bugs, and Enhancements?",
+       more= "arxiv.org/pdf/1710.08736"
+    }},   
+
+  
+  { item =
+    { when = "Dec 28",
+      what = "A deep learning model for estimating story points",
+      more = "goo.gl/wdQES8"
+      }},
+
+  { item =
+    { when = "Dec 25",
+      what = "Now TOSEM distinquished referee, 2011 to 2016.",
+      more = "goo.gl/VrSpGj"
+      }},
+ 
+  
+  { item =
+    { when = "Dec 22",
+      what = "Incited to SSBSE'18 program committee"
+      }},
+ 
+  { item =
+    { when = "Dec 18",
+      what = "New paper, on-line \"Discovering relevant API methods\"",
+      more = "goo.gl/Yo9tsa"
+      }},
+ 
   { item =
     { when = "Dec 14",
       what = "Accepted to IEEE TSE: 'Sampling' as a Baseline Optimizer for Search-based Software Engineering'. ",
