@@ -51,7 +51,7 @@ return {
   
   { item =
     { when = "Dec 22",
-      what = "Incited to SSBSE'18 program committee"
+      what = "Invited to SSBSE'18 program committee"
       }},
  
   { item =
