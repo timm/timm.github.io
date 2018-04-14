@@ -1,5 +1,10 @@
 return {
    { item =
+    { when = "Apr 12",
+      what = "New NSF grant $124K, SE for Computational Science",
+      }},
+
+   { item =
     { when = "Mar 30",
       what = "Bayesian Optimization for Finding Best Cloud VM",
       more = "arxiv.org/pdf/1712.10081"
