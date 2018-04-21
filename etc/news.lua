@@ -7,7 +7,7 @@ return {
 
  { item =
     { when = "Apr 18",
-      what = "Accepted IEEE Cloud: 'RIOT: Rapid Configuration Cloud Workflows",
+      what = "Accepted IEEE Cloud: 'RIOT: Rapid Configuration Cloud Workflows'",
       more = "arxiv.org/pdf/1708.08127v1.pdf"
     }},
 
