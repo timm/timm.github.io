@@ -1,5 +1,17 @@
 return {
    { item =
+    { when = "Apr 20",
+      what = "Accepted IEEE Cloud: 'MICKEY: Cheaper Selecting Cloud Instances'",
+      more = "arxiv.org/pdf/1803.05587"
+    }},
+
+ { item =
+    { when = "Apr 18",
+      what = "Accepted IEEE Cloud: 'RIOT: Rapid Configuration Cloud Workflows",
+      more = "arxiv.org/pdf/1708.08127v1.pdf"
+    }},
+
+   { item =
     { when = "Apr 12",
       what = "New NSF grant $124K, SE for Computational Science",
       }},
