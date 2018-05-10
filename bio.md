@@ -21,8 +21,8 @@ TL;DR? Then...
 
 **Grad students:**
 
-+ Graduated: [7 Ph.D. + 29 masters](https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing) 
-+ 9 current Ph.D.;
++ Graduated: [8 Ph.D. + 29 masters](https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing) 
++ 8 current Ph.D.;
 
 **Editorial boards:**
 
