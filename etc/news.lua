@@ -1,5 +1,17 @@
 return {
    { item =
+    { when = "May 14",
+      what = "New Ph.D. graduated: **Dr** Wei Fu. ",
+      more = "is.gd/ve5GAe"
+    }},
+
+  { item =
+    { when = "May 2",
+      what = "Invited Talk, Navy Research Labs, AI+Softwre Asurance. ",
+      more = "tiny.cc/18nrl"
+    }},
+
+   { item =
     { when = "Apr 20",
       what = "Accepted IEEE Cloud: 'MICKEY: Cheaper Selecting Cloud Instances'",
       more = "arxiv.org/pdf/1803.05587"
