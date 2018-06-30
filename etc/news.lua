@@ -1,5 +1,46 @@
 return {
    { item =
+    { when = "Jun 30",
+      what = "Accepted to FSE'18 (Journal first): Active Learning for Lit Reviews",
+      more = "arxiv.org/pdf/1612.03224"
+    }},
+   { item= 
+     { when = "Jun 28",
+       what = "Our text mining research reported in Elseiveir Connect",
+       more = "www.elsevier.com/connect/how-does-your-research-influence-legislation-text-mining-may-reveal-the-answer"
+    }},
+
+   { item =
+    { when = "Jun 11",
+      what = "Accepted to FSE'18: Psychological Science for Software Analytics",
+      more = "arxiv.org/pdf/1803.05067"
+    }},
+
+   { item =
+    { when = "May 28",
+      what = "Amrit Agrawal presents on a 'better SMOTE' at ICSE'18",
+      more = "tiny.cc/icse18smote"
+    }},
+
+  { item =
+    { when = "May 28",
+      what = "Amrit Agrawal speaks on 'hero programming' at  ICSE-SEIP'18",
+      more = "tiny.cc/icse18hero"
+    }},
+
+  { item =
+    { when = "May 28",
+      what = "Tim Menzies speaks on Software assurance and AI' at an ICSE'18 workskop",
+      more = "tiny.cc/18semla"
+    }},
+
+   { item =
+     { when = "May 26",
+       what = "Tim Menzies speaks on SBSE+MSR at MSR'18",
+       more = "tiny.cc/18msr"
+     }},
+
+   { item =
     { when = "May 14",
       what = "New Ph.D. graduated: **Dr** Wei Fu. ",
       more = "is.gd/ve5GAe"
