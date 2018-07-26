@@ -5,8 +5,8 @@ return {
 	more = "menzies.us/pdf/18analytics.pdf"
       }},
   { item =
-    { when = "July 23",
-      what = "New $110K funding from Lexis Nexis: Cloud Computing Config and Test prioritization."
+    { when = "July i23",
+      what = "New funding: $110K from Lexis Nexis. Cloud Computing Config and Test prioritization."
     }},
   { item =
     { when = "July 21",
