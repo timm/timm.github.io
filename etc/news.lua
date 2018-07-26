@@ -1,9 +1,41 @@
 return {
+  { item =
+      { when = "July 25",
+        what = "New pre-print, IEEE Software \"Software Analytics, What's next?\"",
+	more = "menzies.us/pdf/18analytics.pdf"
+      }},
+  { item =
+    { when = "July 23",
+      what = "New $110K funding from Lexis Nexis: Cloud Computing Config and Test prioritization."
+    }},
+  { item =
+    { when = "July 21",
+      what = "Career funding tops $10M."
+    }},
+  { item =
+    { when = "July 19",
+      what = "My 2007 IEEE TSE paper tops 1000 citations.",
+      more = "menzies.us/pdf/06learnPredict.pdf"
+    }},
+ { item =
+    { when = "July 18",
+      what = "Invited to speak at Code Freeze, January, 2019.",
+      where = "www.umsec.umn.edu/events/Code-Freeze-2018-Microservice-Architectures"
+    }},
    { item =
+    { when = "July 19",
+      what = "Invited to FSE'19 program committee.",
+    }},
+   { item =
+      { when = "July 5",
+        what = "New pre-print, IEEE Software \"The Unreasonable Effectiveness of Software Analytics\"",
+	more = "menzies.us/pdf/redirectionsMarch18.pdf"
+      }},
+  { item =
     { when = "Jun 30",
       what = "Accepted to FSE'18 (Journal first): Active Learning for Lit Reviews",
       more = "arxiv.org/pdf/1612.03224"
-    }},
+    }}, 
    { item= 
      { when = "Jun 28",
        what = "Our text mining research reported in Elseiveir Connect",
