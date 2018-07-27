@@ -10,7 +10,7 @@ return {
     }},
   { item =
     { when = "July 21",
-      what = "Career funding tops $10M."
+      what = "Total career funding rises to $10M."
     }},
   { item =
     { when = "July 19",
