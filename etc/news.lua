@@ -9,10 +9,6 @@ return {
         what = "Paper accepted, IEEE TSE, 'Finding Faster Configurations with FLASH'",
 	more = "arxiv.org/pdf/1801.02175"
       }},
- { item =
-      { when = "Aug 23",
-        what = "Two new awards $110K from Lexis Nexis on cloud config and test prirotization",
-      }},
   { item =
       { when = "July 25",
         what = "New pre-print, IEEE Software \"Software Analytics, What's next?\"",
