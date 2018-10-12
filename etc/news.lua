@@ -1,5 +1,14 @@
 return {
   { item =
+      { when = "Sept 30",
+        what = "Paper accepted to NL4SE;: 'Total Recall for SE'",
+	more = "arxiv.org/pdf/1809.00039.pdf"
+      }},
+  { item =
+      { when = "Sept 23",
+        what = "New award: $40K faculty award from IBM",
+      }},
+  { item =
       { when = "Sept 6",
         what = "Paper accepted, IEEE TSE, 'Finding Trends in SE Research'",
 	more = "arxiv.org/pdf/1608.08100.pdf"
