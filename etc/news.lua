@@ -1,7 +1,11 @@
 return {
   { item =
+      { when = "Oct 11",
+        what = "Invited to the MSR'19 program committee"
+      }},
+  { item =
       { when = "Sept 30",
-        what = "Paper accepted to NL4SE;: 'Total Recall for SE'",
+        what = "Paper accepted to NL4SE: 'Total Recall for SE'",
 	more = "arxiv.org/pdf/1809.00039.pdf"
       }},
   { item =
