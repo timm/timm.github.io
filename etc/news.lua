@@ -1,5 +1,57 @@
 return {
-  { item =
+{ item= {
+    when = "Nov 22",
+    what = "Appointed IEEE Fellow"
+    }},   
+
+{ item= {
+    when = "Nov 22",
+    what = "Career research funding now $10M"
+    }},   
+
+{ item= {
+    when = "Nov 21",
+    what = "Talk, EAQSE'18: Empirical SE, status report",
+    more = "tiny.cc/18empse"
+    }},   
+
+{ item= {
+    when = "Nov 10",
+    what = "Appointed co-general chair, RAISE'19",
+    more ="promisedata.org/raise/2019"
+    }},   
+
+
+{ item= {
+    when = "Nov 10",
+    what = "new journal paper, Expert Systems with Applications, an Intelligent Assistant for Finding Relevant Papers",
+    more ="arxiv.org/pdf/1705.05420.pdf"
+    }},   
+
+{ item= {
+    when = "Nov 7",
+    what = "Talk, technical program, FSE'18: Applications of Psychology for Analytics",
+    more ="tiny.cc/timFse18"
+    }},   
+
+{ item= {
+    when = "Nov 7",
+    what = "co-organizer 1st ROSE festival: Open Science in SE",
+    more ="tiny.cc/rose18talks"
+    }},   
+
+{ item= {
+    when = "Nov 6",
+    what = "Keynote, FSE'18: What Role for Programmers in Software 2.0",
+    more ="tiny.cc/fse18"
+    }},   
+
+{ item =
+      { when = "Nov 1",
+        what = "Invited to the FSE'19 program committee"
+      }},
+
+{ item =
       { when = "Oct 11",
         what = "Invited to the MSR'19 program committee"
       }},
