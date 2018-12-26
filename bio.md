@@ -31,8 +31,9 @@ TL;DR? Then...
 **Conference**
 
 + **co-General chair:** ICMSE'16
-+ **co-PC-chair:** SSBSE'17,  ICSE NEIR'15, ASE'12
-+ **track chairs:** RE'18 data, artifacts(FSE'18,16, ICSME'16), 
++ **co-PC-chair:** RAISE'19, SSBSE'17,  ICSE NEIR'15, ASE'12
++ **track chairs:** RE'19 data, RE'18 data, artifacts(FSE'18,16, ICSME'16), 
++ **PCs (2019):**   ASE'19, FSE'19, MSR'19
 + **PCs (2018):**  ICSE'18, MSR'18, ESEM'18, RAISE'18
 + **PCs (2017):**   ASE'17, MSR'17, EASE'17, SPLC'17
 + **PCSs (2016):**  ASE'16, ISSRE'16, SSBSE'16, BIGDSE'16, PROMISE'16
@@ -40,8 +41,8 @@ TL;DR? Then...
 
 **Papers:**
 
-+ 250+ refereed [research papers](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&oi=ao);
-+ h-index = 48
++ 280+ refereed [research papers](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&oi=ao);
++ h-index = 51
 
 **Books:**
 
@@ -51,7 +52,7 @@ TL;DR? Then...
 
 ## Short bio
 
-Tim Menzies (Ph.D., UNSW, 1995) is a full Professor in CS at North Carolina
+Tim Menzies (IEEE Fellow, Ph.D., UNSW, 1995) is a full Professor in CS at North Carolina
 State University where he teaches software engineering, automated software
 engineering, and foundations of software science. He is the directory of the
 [RAISE lab](http://ai4se.net/) (real world AI for SE).  that explores SE, data
