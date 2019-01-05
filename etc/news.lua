@@ -1,5 +1,10 @@
 return {
 { item= {
+    when = "Jan 2",
+    what = "Invited to ESEM'19 program committee"
+    }},   
+
+{ item= {
     when = "Dec 27",
     what = "Invited to MSR'19 program committee"
     }},   
