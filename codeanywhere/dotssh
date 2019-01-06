@@ -1,0 +1,2 @@
+# https://docs.codeanywhere.com/other/faq.html
+ssh -p 13272 cabox@host13.codeanyhost.com  -i $HOME/.ssh/id_rsa
