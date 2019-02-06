@@ -12,7 +12,7 @@ return {
 
 { item= {
     when = "Jan 25",
-    what = "Named 'top reviewer' for JSS and 'distingusihed reveiwer' for TOSEM (7 years in a row)"
+   what = "Named 'top reviewer' for JSS and 'distingusihed reveiwer' for TOSEM (7 years in a row)",
     more = "tosem.acm.org/distinguished-reviewers.cfm"
     }},   
 
