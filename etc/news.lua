@@ -12,12 +12,13 @@ return {
 
 { item= {
     when = "Jan 25",
-    what = "Names 'top reviewer' for JSS and 'distingusihed reveiwer' for TOSEM"
+    what = "Named 'top reviewer' for JSS and 'distingusihed reveiwer' for TOSEM (7 years in a row)"
+    more = "tosem.acm.org/distinguished-reviewers.cfm"
     }},   
 
 { item= {
     when = "Jan 20",
-    what = "Invited to give an talk to ICSE SEIP'10",
+    what = "Invited to give an talk to ICSE SEIP'19",
     more = "tiny.cc/seip19"
     }},   
 
