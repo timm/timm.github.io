@@ -1,5 +1,27 @@
 return {
 { item= {
+    when = "Feb 8",
+    what = "New pre-print: How to 'DDOGE' complex software analytics'",
+    more = "arxiv.org/pdf/1902.01838.pdf"
+    }},   
+
+{ item= {
+    when = "Feb 3",
+    what = "Invited to IEEE Fellow 2020 review board",
+    }},   
+
+{ item= {
+    when = "Jan 25",
+    what = "Names 'top reviewer' for JSS and 'distingusihed reveiwer' for TOSEM"
+    }},   
+
+{ item= {
+    when = "Jan 20",
+    what = "Invited to give an talk to ICSE SEIP'10",
+    more = "tiny.cc/seip19"
+    }},   
+
+{ item= {
     when = "Jan 9",
     what = "Invited to ICSE'20 program committee"
     }},   
