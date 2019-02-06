@@ -1,12 +1,18 @@
 return {
 { item= {
-    when = "Feb 8",
-    what = "New pre-print: How to 'DDOGE' complex software analytics'",
+    when = "Feb 3",
+    what = "New pre-print: Optimizers and data miners are better than ether, alone",
+    more = "arxiv.org/pdf/1812.01550.pdf"
+    }},   
+
+{ item= {
+    when = "Feb 2",
+    what = "New pre-print: How to 'DDOGE' complex software analytics' (refutes many of my own past papers)",
     more = "arxiv.org/pdf/1902.01838.pdf"
     }},   
 
 { item= {
-    when = "Feb 3",
+    when = "Feb 1",
     what = "Invited to IEEE Fellow 2020 review board",
     }},   
 
