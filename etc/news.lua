@@ -1,5 +1,11 @@
 return {
 { item= {
+    when = "Feb 7",
+    what = "New video on-line, my CodeFreeze'19 talk 'After data mining, what is next?'",
+    more = "youtu.be/7dJ5Oc9cblg"
+    }},   
+
+{ item= {
     when = "Feb 3",
     what = "New pre-print: Optimizers and data miners are better than ether, alone",
     more = "arxiv.org/pdf/1812.01550.pdf"
