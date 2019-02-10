@@ -3,108 +3,108 @@ return {
     when = "Feb 7",
     what = "New video on-line, my CodeFreeze'19 talk 'After data mining, what is next?'",
     more = "youtu.be/7dJ5Oc9cblg"
-    }},   
+    }},
 
 { item= {
     when = "Feb 3",
     what = "New pre-print: Optimizers and data miners are better than ether, alone",
     more = "arxiv.org/pdf/1812.01550.pdf"
-    }},   
+    }},
 
 { item= {
     when = "Feb 2",
     what = "New pre-print: How to 'DDOGE' complex software analytics' (refutes many of my own past papers)",
     more = "arxiv.org/pdf/1902.01838.pdf"
-    }},   
+    }},
 
 { item= {
     when = "Feb 1",
     what = "Invited to IEEE Fellow 2020 review board",
-    }},   
+    }},
 
 { item= {
     when = "Jan 25",
    what = "Named 'top reviewer' for JSS and 'distingusihed reveiwer' for TOSEM (7 years in a row)",
     more = "tosem.acm.org/distinguished-reviewers.cfm"
-    }},   
+    }},
 
 { item= {
     when = "Jan 20",
     what = "Invited to give an talk to ICSE SEIP'19",
     more = "tiny.cc/seip19"
-    }},   
+    }},
 
 { item= {
     when = "Jan 9",
     what = "Invited to ICSE'20 program committee"
-    }},   
+    }},
 
 { item= {
     when = "Jan 9",
     what = "Invited to be co-PC chair, PROMISE'20 (at FSE'20)"
-    }},   
+    }},
 
 { item= {
     when = "Jan 2",
     what = "Invited to ESEM'19 program committee"
-    }},   
+    }},
 
 { item= {
     when = "Dec 27",
     what = "Invited to MSR'19 program committee"
-    }},   
+    }},
 
 { item= {
     when = "Dec 15",
     what = "Invited to ASE'19 program committee"
-    }},   
+    }},
 
 { item= {
     when = "Nov 22",
     what = "Appointed IEEE Fellow"
-    }},   
+    }},
 
 { item= {
     when = "Nov 22",
     what = "Career research funding now $10M"
-    }},   
+    }},
 
 { item= {
     when = "Nov 21",
     what = "Talk, EAQSE'18: Empirical SE, status report",
     more = "tiny.cc/18empse"
-    }},   
+    }},
 
 { item= {
     when = "Nov 10",
     what = "Appointed co-general chair, RAISE'19",
     more ="promisedata.org/raise/2019"
-    }},   
+    }},
 
 
 { item= {
     when = "Nov 10",
     what = "new journal paper, Expert Systems with Applications, an Intelligent Assistant for Finding Relevant Papers",
     more ="arxiv.org/pdf/1705.05420.pdf"
-    }},   
+    }},
 
 { item= {
     when = "Nov 7",
     what = "Talk, technical program, FSE'18: Applications of Psychology for Analytics",
     more ="tiny.cc/timFse18"
-    }},   
+    }},
 
 { item= {
     when = "Nov 7",
     what = "co-organizer 1st ROSE festival: Open Science in SE",
     more ="tiny.cc/rose18talks"
-    }},   
+    }},
 
 { item= {
     when = "Nov 6",
     what = "Keynote, FSE'18: What Role for Programmers in Software 2.0",
     more ="tiny.cc/fse18"
-    }},   
+    }},
 
 { item =
       { when = "Nov 1",
@@ -270,7 +270,7 @@ return {
      { when=  "Jan 22",
        what= "For SEIP'18: Connection Between Issues, Bugs, and Enhancements?",
        more= "arxiv.org/pdf/1710.08736"
-    }},   
+    }},
 
   
   { item =
@@ -329,7 +329,7 @@ return {
     { when = "Dec 8",
       what = "Invited to ESEM'18 PC. "
       }},
-    
+ 
   { item =
     { when = "Nov  9",
       what = "Invited Talk, IBM TEC conference. ",
@@ -392,7 +392,7 @@ return {
   { item= {
     when = "July 24",
     what = "Not a bad week. 3 papers accepted (with minor revisions) to IST,ASE,EMSE journals" 
-  }},   
+  }},
    { item= {
     when = "July 19",
     what = "Appointed associate editor, ACM TOSEM" 
@@ -431,7 +431,7 @@ return {
     when = "June 5",
     what = "New workshop: Frontiers of AI+SE",
     more ="menzies.us/faise18.html"
-    }},   
+    }},
   { item= {
     when = "June 3",
     what = "New faculty award from IBM: 40K"
@@ -456,13 +456,13 @@ return {
     what = "Given inaugural foundational contribution award for MSR",
     more = "twitter.com/timmenzies/status/866647406850576385"
     }}, 
-   
+
   { item= {
     when = "May  11",
     what = "RE'17 accepts 'SHORTer reasoning about larger requirements model'",
     more = "arxiv.org/pdf/1702.05568.pdf"
     }}, 
-   
+
   { item= {
     when = "May  10",
     what = "NSF agrees to fund our SWAN'17 meeting.",
@@ -531,7 +531,7 @@ return {
       when="Jan 10",
       what="Invited to speak, NSF PI meeting,  Software Infrastructure   \
             for Sustained Innovation, Feb 21, 2017",
-      more = "tiny.cc/nsf17"      
+      more = "tiny.cc/nsf17"   
   }},
   { item = {
       when="Jan 08",
@@ -635,7 +635,7 @@ return {
       when= "Sept 1",
       what= "I'm now an author of a top 100 most cited/year papers in SE",
       more= "menzies.us/pdf/mostCitedSEpapers.pdf" }},
-    
+ 
       {item = {
     when= "Aug26",
     what= "Breakthrough in multi-objective optimization "..
@@ -666,14 +666,14 @@ return {
     what= "Paper accepted with minor revisions, EMSE journal, Phase Delay and SE",
     more="arxiv.org/abs/1609.04886"
   }},
-  
-  
+
+
     {item = {
     when= "Jul 28",
     what= "Invited to program committee ICSE'18",
     more= "www.icse2018.org/committee/icse-2018-program-committee"
    }},
-   
+
    {item = {
     when= "Jul 8",
     what= "New appointment: editorial board Journal of Big Data research",
