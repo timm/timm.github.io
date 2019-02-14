@@ -6,6 +6,12 @@ return {
     }},
 
 { item= {
+    when = "Feb 10",
+    what = "New pre-print: Crowd Sourcing and Data Mining",
+    more = "arxiv.org/pdf/1902.04060.pdf"
+    }},
+
+{ item= {
     when = "Feb 7",
     what = "New video on-line, my CodeFreeze'19 talk 'After data mining, what is next?'",
     more = "youtu.be/7dJ5Oc9cblg"
