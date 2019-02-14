@@ -1,5 +1,11 @@
 return {
 { item= {
+    when = "Feb 13",
+    what = "New video on-line, Analytics for Computational Science",
+    more = "www.youtube.com/watch?v=WgoUFyQg4Js"
+    }},
+
+{ item= {
     when = "Feb 7",
     what = "New video on-line, my CodeFreeze'19 talk 'After data mining, what is next?'",
     more = "youtu.be/7dJ5Oc9cblg"
