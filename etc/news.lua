@@ -1,5 +1,11 @@
 return {
 { item= {
+    when = "Mar 1",
+    what = "New paper: 'Replication Can Improve Prior Results'. ICPC 19.",
+    more = "arxiv.org/pdf/1902.04060.pdf"
+    }},
+
+{ item= {
     when = "Feb 13",
     what = "New video on-line, Analytics for Computational Science",
     more = "www.youtube.com/watch?v=WgoUFyQg4Js"
