@@ -31,7 +31,7 @@ return {
 
 { item= {
     when = "Feb 2",
-    what = "New pre-print: How to 'DDOGE' complex software analytics' (refutes many of my own past papers)",
+    what = "New pre-print: How to 'DODGE' complex software analytics' (refutes many of my own past papers)",
     more = "arxiv.org/pdf/1902.01838.pdf"
     }},
 
