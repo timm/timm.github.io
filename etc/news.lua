@@ -1,5 +1,11 @@
 return {
 { item= {
+    when = "Mar 1",
+    what = "New paper: 'Replication Can Improve Prior Results'. ICPC 19.",
+    more = "arxiv.org/pdf/1902.04060.pdf"
+    }},
+
+{ item= {
     when = "Feb 13",
     what = "New video on-line, Analytics for Computational Science",
     more = "www.youtube.com/watch?v=WgoUFyQg4Js"
@@ -25,7 +31,7 @@ return {
 
 { item= {
     when = "Feb 2",
-    what = "New pre-print: How to 'DDOGE' complex software analytics' (refutes many of my own past papers)",
+    what = "New pre-print: How to 'DODGE' complex software analytics' (refutes many of my own past papers)",
     more = "arxiv.org/pdf/1902.01838.pdf"
     }},
 
