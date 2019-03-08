@@ -3,7 +3,7 @@
 return {
 { item = {
    when = "Mar 6",
-   what = "New paper: IST journal 'Images Dont Lie: Duplicate Crowdtesting Reports Detection With Screenshot Information'",
+   what = "New paper: IST journal 'Images Dont Lie: Duplicate Crowdtesting Reports Detection'",
    more = "menzies.us/pdf/IST-2019.pdf"
 }},
 { item= {
