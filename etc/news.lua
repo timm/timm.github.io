@@ -1,3 +1,6 @@
+-- mages Don't Lie: Duplicate Crowdtesting Reports Detection With Screenshot Information
+-- invited to do keynote icsme 2020
+
 return {
 { item= {
     when = "Mar 1",
