@@ -2,6 +2,10 @@
 
 return {
 { item = {
+   when = "Mar 9",
+   what = "Invited to present a keynote, ICSME'20 (Adelaide, Australia)"
+}},
+{ item = {
    when = "Mar 6",
    what = "New paper: IST journal 'Images Dont Lie: Duplicate Crowdtesting Reports Detection'",
    more = "menzies.us/pdf/IST-2019.pdf"
