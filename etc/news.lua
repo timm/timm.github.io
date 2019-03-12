@@ -1,4 +1,4 @@
--- invited to do keynote icsme 2020
+-- haracterizing Crowds to Better Optimize Worker Recommendation in Crowdsourced Testing
 
 return {
 { item = {
