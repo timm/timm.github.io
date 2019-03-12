@@ -3,7 +3,7 @@
 return {
 { item = {
   when = "Mar 12",
-  what="New paper: TSE journal `Better Optimize Crowdsourced Testing",
+  what="New paper, TSE journal: 'Better Optimize Crowdsourced Testing'",
   more = "menzies.us/pdf/9tseWorkerselection.pdf"
  }},
 { item = {
@@ -12,7 +12,7 @@ return {
 }},
 { item = {
    when = "Mar 6",
-   what = "New paper: IST journal 'Images Dont Lie: Duplicate Crowdtesting Reports Detection'",
+   what = "New paper, IST journal: 'Images Dont Lie: Duplicate Crowdtesting Reports Detection'",
    more = "menzies.us/pdf/IST-2019.pdf"
 }},
 { item= {
