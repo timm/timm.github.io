@@ -3,7 +3,7 @@
 return {
 { item = {
   when = "Mar 12",
-  what="New paper: TSE jounral `Better Optimize Crowdsourced Testing",
+  what="New paper: TSE journal `Better Optimize Crowdsourced Testing",
   more = "menzies.us/pdf/9tseWorkerselection.pdf"
  }},
 { item = {
