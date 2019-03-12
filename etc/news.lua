@@ -2,6 +2,11 @@
 
 return {
 { item = {
+  when = "Mar 12",
+  title="New paper: TSE jounral `Better Optimize Crowdsourced Testing",
+  more = "menzies.us/pdf/9tseWorkerselection.pdf"
+ }},
+{ item = {
    when = "Mar 9",
    what = "Invited to present a keynote, ICSME'20 (Adelaide, Australia)"
 }},
