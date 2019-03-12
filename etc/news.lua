@@ -1,4 +1,3 @@
--- haracterizing Crowds to Better Optimize Worker Recommendation in Crowdsourced Testing
 
 return {
 { item = {
