@@ -1,6 +1,10 @@
 
 return {
 { item = {
+  when = "Apr 12",
+  what="New paper, accepted to IST journal: 'Bad Smells for Software Analytics'"
+ }},
+{ item = {
   when = "Mar 12",
   what="New paper, TSE journal: 'Better Optimize Crowdsourced Testing'",
   more = "menzies.us/pdf/19tseWorkerselection.pdf"
