@@ -1,6 +1,18 @@
 
 return {
 { item = {
+  when = "Apr 14",
+  what="'iSENSE: Completion-Aware Crowdtesting Management' earns ICSE'19 distinguished paper award",
+ }},
+{ item = {
+  when = "Apr 14",
+  what="'Finding Faster Configurations using FLASH': invited to be journal-first presentation at ICSE'19"
+ }},
+{ item = {
+  when = "Apr 14",
+  what="Invited to give ICSE'19 SEIP talk: 'On the unresonable effectiveness of software analyticsi'"
+ }},
+{ item = {
   when = "Apr 12",
   what="New paper, accepted to IST journal: 'Bad Smells for Software Analytics'"
  }},
