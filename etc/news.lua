@@ -1,6 +1,11 @@
 
 return {
 { item = {
+  when = "May 1",
+  what="How often can you say this? I'm ranked #1 academic at the #1 SE research group, in the world.",
+  more="menzies.us/img/rankings19.png"
+ }},
+{ item = {
   when = "Apr 14",
   what="'iSENSE: Completion-Aware Crowdtesting Management' earns ICSE'19 distinguished paper award",
  }},
