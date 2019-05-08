@@ -1,6 +1,11 @@
 
 return {
 { item = {
+  when = "May 8",
+  what=" Amritanshu Agrawal passes  his Ph.D. final exam",
+  more="tiny.cc/amrit19defense"
+ }},
+{ item = {
   when = "May 1",
   what="How often can you say this? I'm ranked #1 academic at the #1 SE research group, in the world.",
   more="menzies.us/img/rankings19.png"
