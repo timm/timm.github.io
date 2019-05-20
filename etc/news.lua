@@ -4,11 +4,11 @@ return {
   when = "May 10",
   what=" Invited to give keynote, ICSA'20",
   more="icsa-conferences.org/2020/attending/keynotes/index.html"
- }}
+ }},
 { item = {
   when = "May 9",
   what=" Jianfeng Chen passes  his Ph.D. final exam",
-  more="pdf/jc19.pdf"
+  more="menzies.us/pdf/jc19.pdf"
  }},
 { item = {
   when = "May 8",
