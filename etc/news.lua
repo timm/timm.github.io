@@ -1,8 +1,77 @@
 
+
+
 return {
+{item={when="June 11", 
+ what="Paper accepted SEIP FSE'19: 'TERMINATOR: Better Automated UI Test Case Prioritization'. ",
+ more="arxiv.org/pdf/1905.07019.pdf"
+ }},
+
+{item={when="June 11", 
+ what="Paper accepted SEIP FSE'19: 'Predicting Breakdowns in Cloud Services'. ",
+ more="arxiv.org/pdf/1905.06390.pdf"
+ }},
+
+{ item={when="June 7",
+  what="Laser talk, summer school, Elba, Italy. ",
+  more="tiny.cc/laser19b"
+  }},
+
+
+ {item={when="May 31",
+  what="TSE Journal paper presented at ICSE:  'iSENSE: Completion-Aware Crowdtesting Management'. ",
+  more="dl.acm.org/citation.cfm?id=3339619&dl=ACM&coll=DL"
+  }},
+
+ {item={when="May 31",
+  what="TSE Journal first paper presented at ICSE: 'Finding Faster Configurations using FLASH'. ",
+  more="arxiv.org/pdf/1801.02175.pdf"
+  }},
+
+ {item={when="May 30",
+   what="ROSE2 festival: a success at ICSE'19. ",
+   more="tiny.cc/rose2"
+   }},
+
+ {item={when="May 30",
+  what="Peggy Storey makes me the 54% majority approach in current SE. ",
+  more="snag.gy/oDHyze.jpg"
+  }},
+
+ { item={when="May 30",
+   what="Slides, keynote SEIP \"Why Software Works (and How to Make it Work Better)\". ",
+   more="tiny.cc/sab19"
+   }},
+
+ { item={when="May 30",
+    what="Now guest editor, Special Issue, EMSE, SE in the age of AI. Papers due Oct 15. ",
+    more="go2l.ink/1ySI"
+    }},
+  
+ { item ={when="May 30",
+   what="Now guest editor, Special Issue, IEEE Software, The AI Effect. Papers due Dec 1. ",
+   more="go2l.ink/1ySG"
+   }},
+
+
+ { item={when="May 26",
+   what="Slides, ICPC'19: Replication Can Improve Prior Results. ",
+   more="tiny.cc/icpc19tim "
+   }},
+
+{ item={when="May 25",
+  what="Slides from MSR'19 discussion: SE in the age of AI. ",
+  more="tiny.cc/se4ai"
+  }},
+
+ { item= {what="Slides for Semla'19 talk: Data! Data! Data! ",
+   when="May 24",
+   more="tiny.cc/semla19tim "
+   }},
+
 { item = {
   when = "May 10",
-  what=" Invited to give keynote, ICSA'20",
+  what=" Invited to give keynote, ICSA'20. ",
   more="icsa-conferences.org/2020/attending/keynotes/index.html"
  }},
 { item = {
@@ -23,6 +92,7 @@ return {
 { item = {
   when = "Apr 14",
   what="'iSENSE: Completion-Aware Crowdtesting Management' earns ICSE'19 distinguished paper award",
+  more="snag.gy/yVdItJ.jpg"
  }},
 { item = {
   when = "Apr 14",
