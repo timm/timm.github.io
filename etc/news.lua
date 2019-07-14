@@ -2,6 +2,15 @@
 
 
 return {
+{item={when="July 14", 
+ what="Invited to editorial board, Communications of the ACM"
+ }},
+
+{item={
+ when="July 12", 
+ what="Invited to editorial board, IST journal"
+ }},
+
 {item={when="June 11", 
  what="Paper accepted SEIP FSE'19: 'TERMINATOR: Better Automated UI Test Case Prioritization'. ",
  more="arxiv.org/pdf/1905.07019.pdf"
