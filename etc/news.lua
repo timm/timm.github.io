@@ -6,9 +6,17 @@ return {
  what="Invited to editorial board, Communications of the ACM"
  }},
 
+{item={when="July 12", 
+ what="New NSF grant $499K, Mega-Transfer"
+ }},
+
 {item={
  when="July 12", 
  what="Invited to editorial board, IST journal"
+ }},
+
+{item={when="July 8", 
+ what="New NSF grant $499K, Vulnerability Detection"
  }},
 
 {item={when="June 11", 
