@@ -16,23 +16,24 @@ TL;DR? Then...
 
 **Funding**
 
-+ $9M in [research funding](https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746make%20-)
++ $11M in [research funding](https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746make%20-)
 + Funding from  NSF, NIJ, DoD, NASA, NARA, USDA, LEXIS NEXIS, GRAMMATECH
 
 **Grad students:**
 
-+ Graduated: [8 Ph.D. + 29 masters](https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing) 
-+ 8 current Ph.D.;
++ Graduated: [11 Ph.D. + 30 masters](https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing) 
++ 10 current Ph.D.;
 
 **Editorial boards:**
 
-+ TSE,TOSEM,  JSS, EMSE, IST, ASE, SQJ, Big Data journal, IEEE Software
++ CACM, TSE, TOSEM,  JSS, EMSE, IST, ASE, SQJ, Big Data journal, IEEE Software
 
 **Conference**
 
 + **co-General chair:** ICMSE'16
-+ **co-PC-chair:** RAISE'19, SSBSE'17,  ICSE NEIR'15, ASE'12
-+ **track chairs:** RE'19 data, RE'18 data, artifacts(FSE'18,16, ICSME'16), 
++ **co-PC-chair:** PROMISE'20, RAISE'19, SSBSE'17,  ICSE NEIR'15, ASE'12
++ **track chairs:** RE'19 data, RE'18 data, artifacts(RE'19, FSE'18,16, ICSME'16), 
++ **PCs (2020):**   ICSE'20
 + **PCs (2019):**   ASE'19, FSE'19, MSR'19
 + **PCs (2018):**  ICSE'18, MSR'18, ESEM'18, RAISE'18
 + **PCs (2017):**   ASE'17, MSR'17, EASE'17, SPLC'17
@@ -60,7 +61,9 @@ mining, AI, search-based SE, and open access science.
 
 He is the author of over 250 referred publications and editor of three recent
 books summarized the state of the art in software analytics.  In his career, he
-has been a lead researcher on projects for NSF, NIJ, DoD, NASA, USDA, as well as
+has been a lead researcher on projects for NSF, NIJ, DoD, NASA, USDA
+(funding totalling 11 million dollars)
+as well as
 joint research work with private companies. For 2002 to 2004, he was the
 software engineering research chair at NASA's software Independent Verification
 and Validation Facility.
@@ -69,6 +72,7 @@ Prof. Menzies is the co-founder of the PROMISE conference series devoted to
 reproducible experiments in software engineering
 ([http://tiny.cc/seacraft](http://tiny.cc/seacraft)). He is an associate
 editor of IEEE Transactions on Software Engineering, 
+Communications of the ACM,
 ACM Transactions on Software Engineering Methodologies, Empirical Software
 Engineering, the Automated Software Engineering Journal the Big Data Journal,
 Information Software Technology, IEEE Software,
