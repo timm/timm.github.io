@@ -48,6 +48,10 @@ what="On walkabout in Western Australia for a month."
  what="New LAS funding 'Fairness is a choice': $164K"
  }},
 
+{item={when="Sept 30",
+what="New award: most influential paper award (from ICSM'09): 'On the use of Relevance Feedback in IR-based Concept Location'",
+more="www.youtube.com/watch?v=Utag_mJ3r6o"
+}},
 
   
    
