@@ -2,9 +2,78 @@
 
 
 return {
-{item={when="July 14", 
- what="Invited to editorial board, Communications of the ACM"
+
+{item={when="Jan10",
+what="On walkabout in Western Australia for a month."
+}},
+
+{item={when="Jan 5", 
+ what="New IEEE Software Column '5 Laws of SE for AI'",
+ more="ieeexplore.ieee.org/abstract/document/8938116/"
  }},
+
+{item={when="Jan 3", 
+ what="New IEEE TSE paper 'Better data labelling'",
+ more="arxiv.org/pdf/1905.01719"
+ }},
+
+{item={when="Dec  20", 
+ what="New EMSE journal paper: 'Analytics from Multiple Projects'"
+ }},
+
+{item={when="Dec  19", 
+ what="Three of my Ph.D. students graduate: Jianfeng Chen, Amritanshu Agrawali, Rahul Krishna"
+}},
+
+{item={when="Dec  15", 
+ what="Accepted to ICSE SEIP'20 'Assessing Practitioner Belief's'",
+ more="arxiv.org/pdf/1912.10093"
+ }},
+
+{item={when="Dec  10", 
+ what="New EMSE paper 'DUO=Data mining+optimizing",
+ more="arxiv.org/pdf/1812.01550"
+ }},
+
+{item={when="Nov  20", 
+ what="New DoD SBIR funding: Sail-on AI. $70K",
+ }},
+
+{item={when="Oct  10", 
+ what="New TSE paper 'Improving Vulnerability Inspections'",
+ more="arxiv.org/pdf/1803.06545"
+ }},
+
+{item={when="Oct  10", 
+ what="New LAS funding 'Fairness is a choice': $164K"
+ }},
+
+
+  
+   
+
+{item={when="Sept 30", 
+ what="New NSF grant: AI Workforce Empowerment, $950K"
+ }},
+{item={when="Sept  20", 
+ what="New NSF grant: 'Empirical SE for Computationally Science': $590K"
+ }},
+
+
+{item={when="Sept  10", 
+ what="New ESA journal paper 'An Intelligent assistant for finding relevant papers'"
+ }},
+
+
+
+
+{item={when="Sept 1", 
+ what="New funding from Facebook: Ethical by Design, $50K"
+ }},
+{item={when="Aug 1", 
+ what="New gift from Lexis Nexis: $120K",
+ }},
+
 
 {item={when="July 12", 
  what="New NSF grant $499K, Mega-Transfer"
