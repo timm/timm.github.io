@@ -8,7 +8,7 @@ Full professor, computer science, NC State University.
 I teach programming languages, software engineering,
 automated software engineering, and foundations of software science.
 
-[Full details, 28 pages](pdf/MenziesCV.pdf). 
+[Full details, 40 pages](pdf/MenziesCV.pdf). 
 
 TL;DR? Then...
 
