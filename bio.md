@@ -8,7 +8,7 @@ Full professor, computer science, NC State University.
 I teach programming languages, software engineering,
 automated software engineering, and foundations of software science.
 
-[Full details, 28 pages](pdf/MenziesCV.pdf). 
+[Full details, 40 pages](pdf/MenziesCV.pdf). 
 
 TL;DR? Then...
 
@@ -16,13 +16,13 @@ TL;DR? Then...
 
 **Funding**
 
-+ $11M in [research funding](https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746make%20-)
-+ Funding from  NSF, NIJ, DoD, NASA, NARA, USDA, LEXIS NEXIS, GRAMMATECH
++ $12.5M in [research funding](https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit#gid=676744746make%20-)
++ Funding from  NSF, NIJ, DoD, NASA, NARA, USDA, LEXIS NEXIS, GRAMMATECH. FACEBOOK
 
 **Grad students:**
 
-+ Graduated: [11 Ph.D. + 30 masters](https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing) 
-+ 10 current Ph.D.;
++ Graduated: [12 Ph.D. + 32 masters](https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit?usp=sharing) 
++ 12 current Ph.D.;
 
 **Editorial boards:**
 
@@ -43,7 +43,7 @@ TL;DR? Then...
 **Papers:**
 
 + 280+ refereed [research papers](https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&oi=ao);
-+ h-index = 51
++ h-index = 55 (Jan 2020)
 
 **Books:**
 
@@ -59,10 +59,10 @@ engineering, and foundations of software science. He is the directory of the
 [RAISE lab](http://ai4se.net/) (real world AI for SE).  that explores SE, data
 mining, AI, search-based SE, and open access science.
 
-He is the author of over 250 referred publications and editor of three recent
+He is the author of over 280 referred publications and editor of three recent
 books summarized the state of the art in software analytics.  In his career, he
 has been a lead researcher on projects for NSF, NIJ, DoD, NASA, USDA
-(funding totalling 11 million dollars)
+(funding totalling over 12 million dollars)
 as well as
 joint research work with private companies. For 2002 to 2004, he was the
 software engineering research chair at NASA's software Independent Verification
