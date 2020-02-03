@@ -13,7 +13,7 @@ what="On walkabout in Western Australia for a month."
 
 {item={when="Jan 5", 
  what="New IEEE Software Column '5 Laws of SE for AI'",
- more="ieeexplore.ieee.org/abstract/document/8938116/"
+ more="github.com/ai-se/sailon/blob/master/docs/5lawsSE4ai.pdf"
  }},
 
 {item={when="Jan 3", 
