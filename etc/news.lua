@@ -3,6 +3,10 @@
 
 return {
 
+{item={when="Feb2",
+what="Two journal-first papers accepted to ICSE'20."
+}},
+
 {item={when="Jan10",
 what="On walkabout in Western Australia for a month."
 }},
