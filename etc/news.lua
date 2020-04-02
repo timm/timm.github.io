@@ -3,10 +3,11 @@
 
 return {
 
-{item={when="Marc6",
-what="New paper, IEEE TSE: BEETLE- learning configurations via Bellwether transfer learning",
-more="arxiv.org/pdf/1911.01817.pdf"
+{item={when="Apr2",
+what="New paper, IEEE TSE: Optimizing worker recommendations in crowdsourced testing",
+more="ieeexplore.ieee.org/abstract/document/8721154"
 }},
+
 
 {item={when="Feb2",
 what="Two journal-first papers accepted to ICSE'20."
