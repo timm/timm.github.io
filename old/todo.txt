@@ -1,0 +1,10 @@
+ to do:
+
+ - software configs
+ - command-line data mining
+ - data mining in python (simple tools)
+ - web site generation
+ - jekkyll blanks
+ - stats.py
+ - george's stuff
+ - knn
