@@ -1,52 +1,132 @@
 <!doctype html>
 <html lang="en">
-	<head>
-		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-		<link rel="stylesheet" href="css/pure/pure-min.css">
-		<link rel="stylesheet" href="css/pure/grids-responsive-min.css">
-    <link rel="stylesheet" href="style3.css">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A layout example that shows off a blog page with a list of posts.">
+    <title>Tim Menzies</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/pure/pure-min.css">
+    <link rel="stylesheet" href="css/pure/grids-responsive-min.css">
+    <link rel="stylesheet" href="styles1.css">
     <link rel="icon" href="img/favicon.png" type="image/png" />
-   </head>
-	<body>
-		<div id="left">
-			<h1>Tim Menzies</h1>
-			<p>timm@ieee.org</p>
-			<p>IEEE Fellow</p>
-			<p>prof (full), cs, ncstate, usa<br>SE, AI, data&nbsp;mining, prog&nbsp;languages</p>
-			<img alt="tim  menzies" src="img/timm1.png">
-			<p>
-       <button class="pure-button button-menu"><a href="#home"><i class="fa fa-home"></i></a></button>
-       <button class="pure-button button-menu"><a href="#news">news</a></button>
-       <button class="pure-button button-menu"><a href="#about">about&nbsp;me</a></button>
-       <button class="pure-button button-menu"><a href="#students">for&nbsp;students</a></button>
-       <button class="pure-button button-menu"><a href="#industry">for&nbsp;industry</a></button>
-       <button class="pure-button button-menu"><a href="#projects">projects</a></button>
-       <button class="pure-button button-menu"><a href="#research">research</a></button>
-       <button class="pure-button button-menu"><a href="http://tiny.cc/ai4se">pre-prints</a></button>
-       <button class="pure-button button-menu"><a href="https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&authuser=1">papers</a></button>
-      </p>
-		</div>
-		<div id="right">
-      <a name="home"></a><p><img alt="easy" src="img/easy.png"></p>
-      <p>I find simpler software solutions to seemingly  
-         <a href="#research">hard&nbsp;problems</a>.<br>So what can I simplify for you?</p>
-
-          <h2><a name="news"></a><br><i class="fa fa-newspaper"></i> News</h2>
-            <ul>
-              <li id="dim"> <b>ICSE 2022</b>: 12 talks done, just 7 left to go. Oy vey.</li>
-              <li> <b>May 2022</b>: my Ph.d. students start summer work at Amazon, Indeed, Facebook.</li>
-              <li id="dim"> <b>May 9, 2022</b>: Fairware'22 (equitable SE technology) a <a href="https://fairwares.github.io">great success</a>.</li>
-              <li> <b>May 6, 2022</b>: just graduated 5 Ph.D. students (a new departmental record).</li>
-              <li id="dim"> <b>April 20, 2022</b>: no, deep learning is <a href="https://arxiv.org/pdf/2202.01322.pdf">not the answer to all our problems.</a></li>
-                <li> <b>April 20, 2022</b>: yes, we can generalize across <a href="https://arxiv.org/pdf/1911.04250.pdf">100s of SE projects</a>.</li>
-                <li id="dim"> <b>April 1, 2022</b>: fundamental flaw found in <a href="https://arxiv.org/pdf/2011.13071.pdf">100s of SE analytics</a> papers.</li>
-                <li> <b>Mar 20, 2022</b>: invited to be Associate Editor, IEEE TSE.</li>
-                <li id="dim"> <b>Mar 1, 2022</b>: invited to be keynote speaker at ISSRE'22.</li>
-                <li> <b>Feb 1, 2022</b>: invited, PC member, ICSE'23.</li>
+  </head>
+  <body>
+    <div id="layout" class="pure-g">
+      <div class="sidebar pure-u-1 pure-u-md-1-4">
+        <div class="header">
+          <a style="color:white;" href="index.html"><h1 class="brand-title">Tim Menzies</h1></a>
+          timm@ieee.org<p>
+          <h2 class="brand-tagline">IEEE&nbsp;Fellow</h2>
+          <h2 class="brand-tagline">prof (full), cs, ncstate, usa</h2>
+          <h2 SE, AI, data&nbsp;mining, prog&nbsp;languages</h2>
+          <img src="img/timm1.png">
+          <small><nav class="nav">
+            <ul class="nav-list">
+              <li class="nav-item"><a class="pure-button" href="#news">news</a></li>
+              <li class="nav-item"><a class="pure-button" href="#about">about me</a></li> 
+              <li class="nav-item"><a class="pure-button" href="#students">for students</a></li>
+              <li class="nav-item"><a class="pure-button" href="#industry">for&nbsp;industry</a></li> 
+              <li class="nav-item"><a class="pure-button" href="#projects">projects</a></li> 
+              <li class="nav-item"><a class="pure-button" href="#research">research</a></li> 
+              <li class="nav-item"><a class="pure-button" href="http://tiny.cc/ai4se">pre-prints</a></li>
+              <li class="nav-item"><a class="pure-button" href="https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&authuser=1">papers</a></li>
             </ul>
-        
-          <h2><a name="about"></a><br><i class="fa-solid fa-circle-info"></i> About me</h2>
-            <a href="pdf/Menzies_FY_2021_dossier.pdf"><button class="button-error pure-button">Download Curriculum Vitae</button></a><br>
+          </nav></smll>
+        </div>
+      </div>
+      <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+          <!-- A wrapper for all the blog posts -->
+          <div class="posts">
+            <p>&nbsp;</p>
+            <p><img align=left src="img/easy.png"> <br clear=all>
+            I find simpler software solutions to seemingly  
+            <a href="#research">hard&nbsp;problems</a>.<br>So what can I simplify for you?</p>
+
+            <hr>
+            <a name="news"></a>
+            <h2><i class="fa fa-newspaper"></i> News</h2>
+            <ul>
+              <li id="class1"> <b>ICSE 2022</b>: 12 talks done, just 7 left to go. Oy vey.</li>
+              <li id="class0"> <b>May 2022</b>: my Ph.d. students start summer work at Amazon, Indeed, Facebook.</li>
+              <li id="class1"> <b>May 9, 2022</b>: Fairware'22 (equitable SE technology) a <a href="https://fairwares.github.io">great success</a>.</li>
+              <li id="class0"> <b>May 6, 2022</b>: just graduated 5 Ph.D. students (a new departmental record).</li>
+              <li id="class1"> <b>April 20, 2022</b>: no, deep learning is <a href="https://arxiv.org/pdf/2202.01322.pdf">not the answer to all our problems.</a>
+                <li id="class0"> <b>April 20, 2022</b>: yes, we can generalize across <a href="https://arxiv.org/pdf/1911.04250.pdf">100s of SE projects</a>.</li>
+                <li id="class1"> <b>April 1, 2022</b>: fundamental flaw found in <a href="https://arxiv.org/pdf/2011.13071.pdf">100s of SE analytics</a> papers.</li>
+                <li id="class0"> <b>Mar 20, 2022</b>: invited to be Associate Editor, IEEE TSE.</li>
+                <li id="class1"> <b>Mar 1, 2022</b>: invited to be keynote speaker at ISSRE'22.</li>
+                <li id="classs01"> <b>Feb 1, 2022</b>: invited, PC member, ICSE'23.</li>
+            </ul>
+            <hr><a name=students></a><h2><i class="fa fa-graduation-cap"></i>
+              Interested in Graduate Study? </h2>
+            <p>I seek talented Ph.D. graduate students for AI + SE. Is that you?</p>
+            <dl>
+              <dt> Ph.D. current</dt>
+              <dd>
+                <a href="https://www.linkedin.com/in/laurenalvarez16"><img alt="Lauren Alverez" width="35" height="35" align=middle src="img/la.png"></a> 
+                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Xueqi(Sherry) Yang" width="35" height="35" align=middle src="http://menzies.us/img/img-cherry.png"></a>
+                <a href="https://www.linkedin.com/in/xiao-ling-339a15189/"><img align=middle alt="Xiao Ling" src="https://media-exp1.licdn.com/dms/image/C4E03AQFoOGZU8EgbJw/profile-displayphoto-shrink_800_800/0/1562436407283?e=1657756800&v=beta&t=4y37iZ5n3wWl44UPfQyqf6lZGyDv6j3j8lJwBCiIpRw" width=35 hieght=35</a>
+                <a href="http://ai4se.net/people/kewenPeng"><img alt="Kewen Peng" width="35" height="35" align=middle src="img/who/KewenPeng.jpeg"></a>
+                <a href="https://avatars0.githubusercontent.com/u/30708955?s=460&amp;v=4"><img alt="Andre Motta" width="35" height="35" align=middle src="https://avatars0.githubusercontent.com/u/30708955?s=460&amp;v=4"></a>
+                <a href="https://yrahul3910.github.io/whyrahul/"><img alt="Andre Motta" width="35" height="35" align=middle src="http://menzies.us/img//rahulYedida.png"></a>
+              </dd>
+              <dt>Ph.D. graduated</dt>
+              <dd>
+                <a href="http://documentslide.com/documents/zhihao-scott-chen.html"><img alt="Scott Chen" width="35" height="35" align=middle src="http://menzies.us/img/who/scottchen.png"></a>
+                <a href="http://www.messiah.edu/info/21665/our_faculty/2753/department_faculty/4"><img alt="David Owen" width="35" height="35" align=middle src="http://menzies.us/img/who/davidowen.png"></a>
+                <a href="http://nandeshwar.info/"><img alt="Ashutosh Nandeshwar" width="35" height="35" align=middle src="http://menzies.us/img/who/ashutosh.png"></a>
+                <a href="http://www.kocaguneli.com/"><img alt="Ekrem Kocaguneli" width="35" height="35" align=middle src="http://menzies.us/img/who/ekrem.png"></a>
+                <a href="http://www.birzeit.edu/en/faculty-staff/abdel-salam-sayyad"><img alt="Abdel Salem Sayyad" width="35" height="35" align=middle src="http://menzies.us/img/who/abdel.png"></a>
+                <a href="http://www.fayolapeters.com/about/"><img alt="Fayola Peters" width="35" height="35" align=middle src="http://menzies.us/img/who/fayola.png"></a>
+                <a href="https://www.linkedin.com/in/joseph-krall-53125470/"><img alt="Joe Krall" width="35" height="35" align=middle src="http://menzies.us/img/who/joekrall.png"></a>
+                <a href="http://greggay.com/"><img alt="Greg Gay" width="35" height="35" align=middle src="http://menzies.us/img/who/greg.png"></a>
+                <a href="http://ai4se.net/people/2014/09/30/Wei-Fu/"><img alt="Wei Fu" width="35" height="35" align=middle src="http://menzies.us/img/wei.jpg"></a>
+                <a href="http://ai4se.net/people/2014/10/15/Vivek-Nair/"><img alt="Vivek Nair" width="35" height="35" align=middle src="http://menzies.us/img/vivek.jpg"></a>
+                <a href="http://ai4se.net/people/2015/09/01/Amritanshu-Agrawal/"><img alt="Amritanshu Agrawal" width="35" height="35" align=middle src="http://menzies.us/img/amrit.jpg"></a>
+                <a href="http://ai4se.net/people/2015/08/15/Jianfeng-Chen/"><img alt="Jianfeng Chen" width="35" height="35" align=middle src="http://menzies.us/img/chen.jpg"></a>
+                <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width="35" height="35" align=middle src="http://menzies.us/img/rahlk.jpg"></a>
+                <a href="http://ai4se.net/people/2015/08/30/Zhe-Yu/"><img alt="Zhe Yu" width="35" height="35" align=middle src="http://menzies.us/img/Zhe.jpg"></a>
+                <a href="https://www.suvodeepmajumder.us"><img alt="Suvodeep Najumder" width="35" height="35" align=middle src="http://menzies.us/img/duvodeep.png"></a>
+                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Joymallya Chakraborty" width="35" height="35" align=middle src="http://menzies.us/img/img-joy.png"></a>
+                <a href="https://rshu.github.io"><img alt="Rui Shu" width="35" height="35" align=middle src="http://menzies.us/img/img-riu.png"></a>
+                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Shrikanth Chandrasekaran" width="35" height="35" align=middle src="http://menzies.us/img/img-shrikamtj.png"></a>
+                <a href="http://ai4se.net/people/2017/09/01/Tianpei-Xia/"><img alt="Tianpei Xia" width="35" height="35" align=middle src="img/who/Patrick.png"></a>
+                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Huy Tu" width="35" height="35" align=middle src="img/who/huy.jpeg"></a>
+              </dd>
+            </dl>
+            <ul>
+              <li> <a href="https://www.youtube.com/watch?v=LRoI-Rw4GBY">Why NC State?</a> </li>
+              <li> <a href="http://ai4se.net/projects">My projects</a> </li>
+              <li> <a href="http://ai4se.net">My lab</a> </li>
+              <li> <a href="https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit"> My students</a> </li>
+              <li> <a href="application.html">How to apply?</a> </li>
+              <li> <a href="http://tiny.cc/tim17phd">How 2 b a grad student?</a> </li>
+            </ul>
+            <hr>
+            <a name=industry></a><h2><i class="fa-solid fa-business-time"></i> Interested in  Industrial Research Opportunities?</h2>
+            <p>I work with industry. A lot. Ask me how to innovate. On time. On budget.</p>
+            <p><b>Read my industrial case studies</b>:<br>
+            <ul>
+              <li>
+                <a href="https://pdfs.semanticscholar.org/ae7d/96ee5c7838343a7cf176d008cf3eaaeba1ef.pdf">Microsoft</a>;
+                <li> <a href="https://www.sbir.gov/sbirsearch/detail/4945">Grammatech</a>;
+                  <li><a href="http://www.slideshare.net/timmenzies/172529main-ken-andtimsoftwareassuranceresearchatwestvirginia?qid=4ddfaa48-dea3-4397-800b-74170c2722da&amp;v=&amp;b=&amp;from_search=4">NASA</a>;
+                    <li><a href="https://goo.gl/XtT1OI"> CSIRO</a>
+                    <li>LexisNexis: <a href= "http://www.slideshare.net/slideshow/embed_code/key/f8etbZ448ukfOs">1</a>,<a 
+                                       href="pdf/Best_Practice_SE_text_mining.pdf">2</a>,<a 
+                                       href="pdf/LNPoster2018GREEN.pdf">3</a>,<a 
+                                       href="https://arxiv.org/pdf/1905.07019.pdf">4</a>.<a 
+                                       href="https://arxiv.org/pdf/1905.06390.pdf">5</a>;<br>
+                                     <li>         IBM:<a href= "https://github.com/timm/16/blob/master/matt.pdf">1</a>,<a 
+                                                         href= "https://arxiv.org/pdf/1711.03933.pdf">2</a>,<a 
+                                                         href="https://arxiv.org/pdf/1710.09055.pdf">3</a>,<a 
+                                                         href="https://arxiv.org/pdf/1710.08736.pdf">4</a>;
+            </ul>
+            <hr>
+            <a name=about></a><h2><i class="fa-solid fa-circle-info"></i> About me</h2>
+            <a href="pdf/Menzies_FY_2021_dossier.pdf"><button class="button-error pure-button">Curriculum vitae</button></a><br>
             <img align=right style="margin-left:5px;" width=100 src="https://www.csc.ncsu.edu/directories/photos/tjmenzie.jpg">
             <p>Tim Menzies (IEEE Fellow, Ph.D., UNSW, 1995) is a full Professor in CS at North Carolina State University where he teaches software engineering, automated software engineering, and foundations of software science. 
             He is the directory of the RAISE lab (real world AI for SE) and
@@ -92,73 +172,7 @@
                 NSF panelist: 13 times (2003-2020)</dd>
             </dl>
 
-           <h2><a name=students></a><br><i class="fa fa-graduation-cap"></i> Interested in Graduate Study? </h2>
-            <p>I seek talented Ph.D. graduate students for AI + SE. Is that you?</p>
-            <dl>
-              <dt> Current Ph.D.</dt>
-              <dd>
-                <a href="https://www.linkedin.com/in/laurenalvarez16"><img alt="Lauren Alverez" width="35" height="35" align=middle src="img/la.png"></a> 
-                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Xueqi(Sherry) Yang" width="35" height="35" align=middle src="http://menzies.us/img/img-cherry.png"></a>
-                <a href="https://www.linkedin.com/in/xiao-ling-339a15189/"><img align=middle alt="Xiao Ling" src="https://media-exp1.licdn.com/dms/image/C4E03AQFoOGZU8EgbJw/profile-displayphoto-shrink_800_800/0/1562436407283?e=1657756800&v=beta&t=4y37iZ5n3wWl44UPfQyqf6lZGyDv6j3j8lJwBCiIpRw" width=35 hieght=35</a>
-                <a href="http://ai4se.net/people/kewenPeng"><img alt="Kewen Peng" width="35" height="35" align=middle src="img/who/KewenPeng.jpeg"></a>
-                <a href="https://avatars0.githubusercontent.com/u/30708955?s=460&amp;v=4"><img alt="Andre Motta" width="35" height="35" align=middle src="https://avatars0.githubusercontent.com/u/30708955?s=460&amp;v=4"></a>
-                <a href="https://yrahul3910.github.io/whyrahul/"><img alt="Andre Motta" width="35" height="35" align=middle src="http://menzies.us/img//rahulYedida.png"></a>
-              </dd>
-              <dt>Graduated Ph.D.:</dt>
-              <dd>
-                <a href="http://documentslide.com/documents/zhihao-scott-chen.html"><img alt="Scott Chen" width="35" height="35" align=middle src="http://menzies.us/img/who/scottchen.png"></a>
-                <a href="http://www.messiah.edu/info/21665/our_faculty/2753/department_faculty/4"><img alt="David Owen" width="35" height="35" align=middle src="http://menzies.us/img/who/davidowen.png"></a>
-                <a href="http://nandeshwar.info/"><img alt="Ashutosh Nandeshwar" width="35" height="35" align=middle src="http://menzies.us/img/who/ashutosh.png"></a>
-                <a href="http://www.kocaguneli.com/"><img alt="Ekrem Kocaguneli" width="35" height="35" align=middle src="http://menzies.us/img/who/ekrem.png"></a>
-                <a href="http://www.birzeit.edu/en/faculty-staff/abdel-salam-sayyad"><img alt="Abdel Salem Sayyad" width="35" height="35" align=middle src="http://menzies.us/img/who/abdel.png"></a>
-                <a href="http://www.fayolapeters.com/about/"><img alt="Fayola Peters" width="35" height="35" align=middle src="http://menzies.us/img/who/fayola.png"></a>
-                <a href="https://www.linkedin.com/in/joseph-krall-53125470/"><img alt="Joe Krall" width="35" height="35" align=middle src="http://menzies.us/img/who/joekrall.png"></a>
-                <a href="http://greggay.com/"><img alt="Greg Gay" width="35" height="35" align=middle src="http://menzies.us/img/who/greg.png"></a>
-                <a href="http://ai4se.net/people/2014/09/30/Wei-Fu/"><img alt="Wei Fu" width="35" height="35" align=middle src="http://menzies.us/img/wei.jpg"></a>
-                <a href="http://ai4se.net/people/2014/10/15/Vivek-Nair/"><img alt="Vivek Nair" width="35" height="35" align=middle src="http://menzies.us/img/vivek.jpg"></a>
-                <a href="http://ai4se.net/people/2015/09/01/Amritanshu-Agrawal/"><img alt="Amritanshu Agrawal" width="35" height="35" align=middle src="http://menzies.us/img/amrit.jpg"></a>
-                <a href="http://ai4se.net/people/2015/08/15/Jianfeng-Chen/"><img alt="Jianfeng Chen" width="35" height="35" align=middle src="http://menzies.us/img/chen.jpg"></a>
-                <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width="35" height="35" align=middle src="http://menzies.us/img/rahlk.jpg"></a>
-                <a href="http://ai4se.net/people/2015/08/30/Zhe-Yu/"><img alt="Zhe Yu" width="35" height="35" align=middle src="http://menzies.us/img/Zhe.jpg"></a>
-                <a href="https://www.suvodeepmajumder.us"><img alt="Suvodeep Najumder" width="35" height="35" align=middle src="http://menzies.us/img/duvodeep.png"></a>
-                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Joymallya Chakraborty" width="35" height="35" align=middle src="http://menzies.us/img/img-joy.png"></a>
-                <a href="https://rshu.github.io"><img alt="Rui Shu" width="35" height="35" align=middle src="http://menzies.us/img/img-riu.png"></a>
-                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Shrikanth Chandrasekaran" width="35" height="35" align=middle src="http://menzies.us/img/img-shrikamtj.png"></a>
-                <a href="http://ai4se.net/people/2017/09/01/Tianpei-Xia/"><img alt="Tianpei Xia" width="35" height="35" align=middle src="img/who/Patrick.png"></a>
-                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Huy Tu" width="35" height="35" align=middle src="img/who/huy.jpeg"></a>
-              </dd>
-            </dl>
-            <p>Information:</p>
-            <ul>
-              <li> <a href="https://www.youtube.com/watch?v=LRoI-Rw4GBY">Why NC State?</a> </li>
-              <li> <a href="http://ai4se.net/projects">My projects</a> </li>
-              <li> <a href="http://ai4se.net">My lab</a> </li>
-              <li> <a href="https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit"> My students</a> </li>
-              <li> <a href="application.html">How to apply?</a> </li>
-              <li> <a href="http://tiny.cc/tim17phd">How 2 b a grad student?</a> </li>
-            </ul>
-        
-           <h2><a name=industry></a><br><i class="fa-solid fa-business-time"></i> Interested in Industrial Research Opportunities? </h2>
-            <p>I work with industry. A lot. Ask me how to innovate. On time. On budget.</p>
-            <p><b>Read my industrial case studies</b>:<br>
-            <ul>
-              <li>
-                <a href="https://pdfs.semanticscholar.org/ae7d/96ee5c7838343a7cf176d008cf3eaaeba1ef.pdf">Microsoft</a>;
-                <li> <a href="https://www.sbir.gov/sbirsearch/detail/4945">Grammatech</a>;
-                  <li><a href="http://www.slideshare.net/timmenzies/172529main-ken-andtimsoftwareassuranceresearchatwestvirginia?qid=4ddfaa48-dea3-4397-800b-74170c2722da&amp;v=&amp;b=&amp;from_search=4">NASA</a>;
-                    <li><a href="https://goo.gl/XtT1OI"> CSIRO</a>
-                    <li>LexisNexis: <a href= "http://www.slideshare.net/slideshow/embed_code/key/f8etbZ448ukfOs">1</a>,<a 
-                                       href="pdf/Best_Practice_SE_text_mining.pdf">2</a>,<a 
-                                       href="pdf/LNPoster2018GREEN.pdf">3</a>,<a 
-                                       href="https://arxiv.org/pdf/1905.07019.pdf">4</a>.<a 
-                                       href="https://arxiv.org/pdf/1905.06390.pdf">5</a>;<br>
-                                     <li>         IBM:<a href= "https://github.com/timm/16/blob/master/matt.pdf">1</a>,<a 
-                                                         href= "https://arxiv.org/pdf/1711.03933.pdf">2</a>,<a 
-                                                         href="https://arxiv.org/pdf/1710.09055.pdf">3</a>,<a 
-                                                         href="https://arxiv.org/pdf/1710.08736.pdf">4</a>;
-            </ul>
-
-           <h2><a name=projects></a><br><i class="fa-solid fa-award"></i> Current Projects</h2>
+            <hr> <a name="projects"></a><h2><i class="fa-solid fa-award"></i> Current Projects</h2>
             <h3>Funded:</h3>
             <dl>
               <dt>NSF1</dt> <dd>What can we learn from 10,000 Projects?<br>$499,000
@@ -182,17 +196,31 @@
               <br> Mr. Xiao Ling: <a href="https://arxiv.org/search/?query=xiao+ling+tim+menzies&searchtype=all&source=header">papers</a>. </dd>
 
 
-           <h2><a name=research></a><br><i class="fa fa-vial"></i> Simpler solutions to seemingly hard problems.</h2>
 
-            <img width=200 align=left src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/14338.png"><p>
-            <p><b>William James:</b> The art of being wise is the art of knowing what to overlook.<br>
-            <b>William of Occam:</b> It is vain to do with more what can be done with less.<br>
-            <b>Leonardo da Vinci:</b> Simplicity is the ultimate sophistication.<br>
-            <b>Edsger W. Dijkstra:</b> Simplicity is prerequisite for reliability.<br>
-            <b>Dieter Rams:</b> Less is more.<br>
-            <b>timm:</b> less, plz
+
+
+            <hr><a name=research></a><h2><i class="fa fa-vial"></i>  Simpler solutions to seemingly hard problems.</h2>
+
+            <img width=200 align=right src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/14338.png"><p>
+            <p>The art of being wise is the art of knowing what to overlook.<br>
+            —  William James</p>
+
+            <p>It is vain to do with more what can be done with less.<br>
+            — William Of Occam</p>
+
+            <p>Simplicity is the ultimate sophistication.<br>
+            — Leonardo da Vinci</p>
+
+
+            <p>Simplicity is prerequisite for reliability.<br>
+            — Edsger W. Dijkstra</p>
+
+            <p>Less is more.<br>
+            — Dieter Rams</p>
+
+            <p>less, plz<br>
+            — timm
             </p>
-<br clear=all>
             <img src="https://www.manhattanprojectvoices.org/sites/default/files/John%20Wheeler01.jpg" width=200 align=right>
             <p>
             The physicist John Archibald Wheeler advised
@@ -286,9 +314,7 @@
 
 
 
-
-
-            <hr> <a name="nomination"></a><br><h2> <i class="fa-solid fa-award"></i> IEEE Fellow Nomination (2018)</h2></a>
+            <hr> <a name="nomination"><h2> <i class="fa-solid fa-award"></i> IEEE Fellow Nomination (2018)</h2></a>
 
             <img src="https://4leafclover1343.files.wordpress.com/2014/06/9d5a27b07c3749105a2a730a234339f3.jpg" align=right width=300><p><em>(With apologies for excess hyperbole...)</em></p>
 
@@ -367,9 +393,19 @@
               <li><em>Tim Menzies, Ying Hu, "Data mining for very busy people", IEEE Computer, Vol. 36(11), 2003.</em>
                 Cognitive scientists and researchers studying human decision-making note that humans often use simple models rather than complex ones. This paper (132 citations) describes Dr. Menzies' TAR2 data miner which generates tiny human-readable models, useful for describing to humans many seemingly complex software engineering problems.</li>
             </ul>
-            <hr>
 
 
-		</div>
-	</body>
+          </div>
+        </div>
+        <div class="footer">
+          <div class="pure-menu pure-menu-horizontal">
+            <ul>
+              <li class="pure-menu-item"><a href="http://purecss.io/" class="pure-menu-link">About</a></li>
+              <li class="pure-menu-item"><a href="http://github.com/pure-css/pure/" class="pure-menu-link">GitHub</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
