@@ -1,0 +1,431 @@
+<html>
+<head>
+    <link rel="icon" href="img/favicon.png" type="image/png" />
+		<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+	 <style>
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+/* (A) BIG SCREEN - 2 COLUMNS LAYOUT */
+body         { display: flex; }
+#demo-side-a { flex-grow: 1; }
+#demo-main-a { width: 30%; 
+   text-align: right; 
+} 
+/* (B) SMALL SCREEN - 1 COLUMN LAYOUT */
+@media screen AND (max-width:768px) {
+  body { flex-wrap: wrap; }
+  #demo-main-a, #demo-side-a { width: 100%; }
+  #demo-main-a  { height: 430px; }
+   #demo-side-a { margin-bottom: 300px; }
+}
+* {
+  Font-family: Candara, Calibri, Segoe, Segoe UI, Optima, Arial, sans-serif;
+  box-sizing: border-box;
+}
+body { margin: 0;
+       padding: 0;
+}
+#xdemo-side-a { margin-left: 33%;}
+#demo-main-a, #demo-side-a { padding: 10px; }
+#demo-main-a { 
+   color: white;
+   background: #CC0000; 
+   height: 100%; 
+   bottom: 0px;
+}
+#demo-main-a p { 
+  margin-top: 0px;
+  padding-top: 0px;
+}
+#demo-main-a h1 { 
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  text-transform: uppercase;
+   xheight: 100%; 
+}
+#demo-side-a { background: white; }
+ #demo-side-a a { color: #CC0000; }
+ #demo-side-a h2 { color: #CC0000; font-size: 35px; 
+                   padding-top: 10px;}
+
+#xtheDiv {
+  line-height: 2; 
+padding:2px; margin-left: 8px; padding-left:5px; padding-right:5px;
+  xborder: dotted white 1px;
+}
+a { color: white; text-decoration: none;}
+a:hover {  text-decoration: underline; ;}
+#theDiv a:hover { text-decoration: none; background-color: white; color: black; }
+</style>
+</head>
+<body>
+<div id="demo-main-a">
+<center>
+   <h1>Tim Menzies</h1>
+   <p>timm@ieee.org</p>
+   <p>IEEE Fellow</p>
+	 <p>prof (full), cs, ncstate, usa<br>SE, AI, data&nbsp;mining, prog&nbsp;languages<br>
+	 <img alt="tim  menzies" src="img/timm1.png"></p>
+<p>
+       <span id="theDiv"><a href="#news">news</a></span> ::
+       <span id="theDiv"><a href="#about">about&nbsp;me</a></span> <br>
+       <span id="theDiv"><a href="#students">For&nbsp;students</a></span> ::
+       <span id="theDiv"><a href="#industry">For&nbsp;industry</a></span> <br>
+       <span id="theDiv"><a href="#projects">projects</a></span> ::
+       <span id="theDiv"><a href="#research">research</a></span> <br>
+       <span id="theDiv"><a href="http://tiny.cc/ai4se">pre&nbsp;prints</a></span> ::
+       <span id="theDiv"><a href="https://scholar.google.com/citations?user=7htTUTgmLtUC&hl=en&authuser=1">papers</a></span></p>
+       <p><span id="theDiv"><a hre="#home"><i class="fa fa-home"></i></a></span> </p>
+
+ </center>
+
+</div>
+<div id="demo-side-a">
+     <a name="home"></a><p><img alt="easy" src="img/easy.png"></p>
+      <p>I find simpler software solutions to seemingly  
+         <a href="#research">hard&nbsp;problems</a>.<br>So what can I simplify for you?</p>
+
+          <h2><a name="news"></a><br><i class="fa fa-newspaper"></i> News</h2>
+            <ul>
+              <li id="dim"> <b>ICSE 2022</b>: 12 talks done, just 7 left to go. Oy vey.</li>
+              <li> <b>May 2022</b>: my Ph.d. students start summer work at Amazon, Indeed, Facebook.</li>
+              <li id="dim"> <b>May 9, 2022</b>: Fairware'22 (equitable SE technology) a <a href="https://fairwares.github.io">great success</a>.</li>
+              <li> <b>May 6, 2022</b>: just graduated 5 Ph.D. students (a new departmental record).</li>
+              <li id="dim"> <b>April 20, 2022</b>: no, deep learning is <a href="https://arxiv.org/pdf/2202.01322.pdf">not the answer to all our problems.</a></li>
+                <li> <b>April 20, 2022</b>: yes, we can generalize across <a href="https://arxiv.org/pdf/1911.04250.pdf">100s of SE projects</a>.</li>
+                <li id="dim"> <b>April 1, 2022</b>: fundamental flaw found in <a href="https://arxiv.org/pdf/2011.13071.pdf">100s of SE analytics</a> papers.</li>
+                <li> <b>Mar 20, 2022</b>: invited to be Associate Editor, IEEE TSE.</li>
+                <li id="dim"> <b>Mar 1, 2022</b>: invited to be keynote speaker at ISSRE'22.</li>
+                <li> <b>Feb 1, 2022</b>: invited, PC member, ICSE'23.</li>
+            </ul>
+        
+          <h2><a name="about"></a><br><i class="fa-solid fa-circle-info"></i> About me</h2>
+            <a href="pdf/Menzies_FY_2021_dossier.pdf"><button class="button-error pure-button">Download Curriculum Vitae</button></a><br>
+            <img align=right style="margin-left:5px;" width=100 src="https://www.csc.ncsu.edu/directories/photos/tjmenzie.jpg">
+            <p>Tim Menzies (IEEE Fellow, Ph.D., UNSW, 1995) is a full Professor in CS at North Carolina State University where he teaches software engineering, automated software engineering, and foundations of software science. 
+            He is the directory of the RAISE lab (real world AI for SE) and
+            the author of over 280 referred publications. In his career, he has been a lead researcher on projects for NSF, NIJ, DoD, NASA, USDA (funding totalling over 13 million dollars) as well as joint research work with private companies. 
+            Prof. Menzies is the editor-in-chief of the Automated Software Engineering journal and associate editor of IEEE Transactions on Software Engineering (and other leading SE journals).
+            For more, see his web site <a href="http://menzies.us">http://menzies.us</a> or the text of his <a href="#nomination">IEEE Fellow nomination</a>
+            <dl>
+              <dt>Awards</dt><dd> IEEE Fellow</dd>
+              <dt>Publications</dt><dd> H-index: 65 (Apr'22).</dd>
+              <dt>Grad&nbsp;students</dt><dd> Ph.D.: 6 current. 18 past.<br>Masters (by research): 32 </dd>
+              <dt>Funding</dt><dd> Total= <a href= "https://docs.google.com/spreadsheets/d/1Y5YrD3WkZlee7LLXLN5m9vvMPL2qBU-vruHpRr77dqg/edit"> $13.1 million</a> (total). From many sources, e.g.:<br>
+                <img height="50" src=
+                                    "img/grammatech-squarelogo.png" align=middle>
+                <img height="50" style="padding-bottom: 10px;"  align=middle src="img/ibm.png">&nbsp;<img 
+                                                                             height="50" src="img/ln.png" align=middle>  <img 
+                                                                                         width="50" src="img/nara.png" align=middle>
+                                                                             <img height=
+                                                                             "50" src=
+                                                                                     "https://pbs.twimg.com/profile_images/67630775/button_meatball_normal.png" align=middle>
+                                                                             &nbsp;&nbsp;&nbsp;<img height="50" src=
+                                                                                                                   "http://icons.iconarchive.com/icons/danleech/simple/256/facebook-icon.png" align=middle> </dd>
+              <dt>Papers</dt><dd>108 journal + 137 conference + 86 other<br> Author of one of SE's 20-most cited papers (cites/year);<br>
+                Distinguished paper award, FSE'21<br>
+                Distinguished paper award, ICSE'19<br>
+                Most influential paper award, ICSME'19<br>
+              </dd>
+              </dd><dt>Journals</dt><dd>
+                editor-in-chief: Automated Software Engineering journal<br>
+                assoc. ed.: CACM, TSE, TOSEM, JSS, EMSE, IST, ASEJ, IEEE Software, SQJ, Big Data Research, IET Software
+              </dd><dt>Conferences</dt><dd>
+                co-general chair: ICMSE'16; RAISE'19, PROMISE'05..'12<br>
+                co-PC chair: ASE'12, NEIR'15, SSBSE'17, PROMISE'20<br>
+                artifacts co-chair:ASE'21, ICSE'20, ASE'20, FSE'18, FSE'16<br>
+                program committees: ICSE'22, IJCAI'22, AAAI'22, ICML'22, MSR'22, ESEM'22, 
+                IJCAI'21. AAAI'21,  ICSE'21, MSR'21, 
+                ASE'20, ICSE'20, ESEM'20, FSE'19, ASE'19, MSR'19, SSBSE, PROMISE,...
+              </dd>
+              <dt>Professional</dt><dd>
+                Roving member, IEEE Technical Council on SE. 2022, 2021</dd>
+              <dt>Government work </dt><dd>
+                NASA software research chair: 2002-2004<br>
+                NSF panelist: 13 times (2003-2020)</dd>
+            </dl>
+
+           <h2><a name=students></a><br><i class="fa fa-graduation-cap"></i> Interested in Graduate Study? </h2>
+            <p>I seek talented Ph.D. graduate students for AI + SE. Is that you?</p>
+            <dl>
+              <dt> Current Ph.D.</dt>
+              <dd>
+                <a href="https://www.linkedin.com/in/laurenalvarez16"><img alt="Lauren Alverez" width="35" height="35" align=middle src="img/la.png"></a> 
+                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Xueqi(Sherry) Yang" width="35" height="35" align=middle src="http://menzies.us/img/img-cherry.png"></a>
+                <a href="https://www.linkedin.com/in/xiao-ling-339a15189/"><img align=middle alt="Xiao Ling" src="https://media-exp1.licdn.com/dms/image/C4E03AQFoOGZU8EgbJw/profile-displayphoto-shrink_800_800/0/1562436407283?e=1657756800&v=beta&t=4y37iZ5n3wWl44UPfQyqf6lZGyDv6j3j8lJwBCiIpRw" width=35 hieght=35</a>
+                <a href="http://ai4se.net/people/kewenPeng"><img alt="Kewen Peng" width="35" height="35" align=middle src="img/who/KewenPeng.jpeg"></a>
+                <a href="https://avatars0.githubusercontent.com/u/30708955?s=460&amp;v=4"><img alt="Andre Motta" width="35" height="35" align=middle src="https://avatars0.githubusercontent.com/u/30708955?s=460&amp;v=4"></a>
+                <a href="https://yrahul3910.github.io/whyrahul/"><img alt="Andre Motta" width="35" height="35" align=middle src="http://menzies.us/img//rahulYedida.png"></a>
+              </dd>
+              <dt>Graduated Ph.D.:</dt>
+              <dd>
+                <a href="http://documentslide.com/documents/zhihao-scott-chen.html"><img alt="Scott Chen" width="35" height="35" align=middle src="http://menzies.us/img/who/scottchen.png"></a>
+                <a href="http://www.messiah.edu/info/21665/our_faculty/2753/department_faculty/4"><img alt="David Owen" width="35" height="35" align=middle src="http://menzies.us/img/who/davidowen.png"></a>
+                <a href="http://nandeshwar.info/"><img alt="Ashutosh Nandeshwar" width="35" height="35" align=middle src="http://menzies.us/img/who/ashutosh.png"></a>
+                <a href="http://www.kocaguneli.com/"><img alt="Ekrem Kocaguneli" width="35" height="35" align=middle src="http://menzies.us/img/who/ekrem.png"></a>
+                <a href="http://www.birzeit.edu/en/faculty-staff/abdel-salam-sayyad"><img alt="Abdel Salem Sayyad" width="35" height="35" align=middle src="http://menzies.us/img/who/abdel.png"></a>
+                <a href="http://www.fayolapeters.com/about/"><img alt="Fayola Peters" width="35" height="35" align=middle src="http://menzies.us/img/who/fayola.png"></a>
+                <a href="https://www.linkedin.com/in/joseph-krall-53125470/"><img alt="Joe Krall" width="35" height="35" align=middle src="http://menzies.us/img/who/joekrall.png"></a>
+                <a href="http://greggay.com/"><img alt="Greg Gay" width="35" height="35" align=middle src="http://menzies.us/img/who/greg.png"></a>
+                <a href="http://ai4se.net/people/2014/09/30/Wei-Fu/"><img alt="Wei Fu" width="35" height="35" align=middle src="http://menzies.us/img/wei.jpg"></a>
+                <a href="http://ai4se.net/people/2014/10/15/Vivek-Nair/"><img alt="Vivek Nair" width="35" height="35" align=middle src="http://menzies.us/img/vivek.jpg"></a>
+                <a href="http://ai4se.net/people/2015/09/01/Amritanshu-Agrawal/"><img alt="Amritanshu Agrawal" width="35" height="35" align=middle src="http://menzies.us/img/amrit.jpg"></a>
+                <a href="http://ai4se.net/people/2015/08/15/Jianfeng-Chen/"><img alt="Jianfeng Chen" width="35" height="35" align=middle src="http://menzies.us/img/chen.jpg"></a>
+                <a href="http://ai4se.net/people/2014/10/04/Rahul-Krishna/"><img alt="Rahul Krishna" width="35" height="35" align=middle src="http://menzies.us/img/rahlk.jpg"></a>
+                <a href="http://ai4se.net/people/2015/08/30/Zhe-Yu/"><img alt="Zhe Yu" width="35" height="35" align=middle src="http://menzies.us/img/Zhe.jpg"></a>
+                <a href="https://www.suvodeepmajumder.us"><img alt="Suvodeep Najumder" width="35" height="35" align=middle src="http://menzies.us/img/duvodeep.png"></a>
+                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Joymallya Chakraborty" width="35" height="35" align=middle src="http://menzies.us/img/img-joy.png"></a>
+                <a href="https://rshu.github.io"><img alt="Rui Shu" width="35" height="35" align=middle src="http://menzies.us/img/img-riu.png"></a>
+                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Shrikanth Chandrasekaran" width="35" height="35" align=middle src="http://menzies.us/img/img-shrikamtj.png"></a>
+                <a href="http://ai4se.net/people/2017/09/01/Tianpei-Xia/"><img alt="Tianpei Xia" width="35" height="35" align=middle src="img/who/Patrick.png"></a>
+                <a href="http://ai4se.net/people/2017/09/02/Huy-Tu/"><img alt="Huy Tu" width="35" height="35" align=middle src="img/who/huy.jpeg"></a>
+              </dd>
+            </dl>
+            <p>Information:</p>
+            <ul>
+              <li> <a href="https://www.youtube.com/watch?v=LRoI-Rw4GBY">Why NC State?</a> </li>
+              <li> <a href="http://ai4se.net/projects">My projects</a> </li>
+              <li> <a href="http://ai4se.net">My lab</a> </li>
+              <li> <a href="https://docs.google.com/spreadsheets/d/1oWGEfEdt4aXZ_chBLTzw2RkKhGTKIKReetkcb8Zo2F4/edit"> My students</a> </li>
+              <li> <a href="application.html">How to apply?</a> </li>
+              <li> <a href="http://tiny.cc/tim17phd">How 2 b a grad student?</a> </li>
+            </ul>
+        
+           <h2><a name=industry></a><br><i class="fa-solid fa-business-time"></i> Interested in Industrial Research Opportunities? </h2>
+            <p>I work with industry. A lot. Ask me how to innovate. On time. On budget.</p>
+            <p><b>Read my industrial case studies</b>:<br>
+            <ul>
+              <li>
+                <a href="https://pdfs.semanticscholar.org/ae7d/96ee5c7838343a7cf176d008cf3eaaeba1ef.pdf">Microsoft</a>;
+                <li> <a href="https://www.sbir.gov/sbirsearch/detail/4945">Grammatech</a>;
+                  <li><a href="http://www.slideshare.net/timmenzies/172529main-ken-andtimsoftwareassuranceresearchatwestvirginia?qid=4ddfaa48-dea3-4397-800b-74170c2722da&amp;v=&amp;b=&amp;from_search=4">NASA</a>;
+                    <li><a href="https://goo.gl/XtT1OI"> CSIRO</a>
+                    <li>LexisNexis: <a href= "http://www.slideshare.net/slideshow/embed_code/key/f8etbZ448ukfOs">1</a>,<a 
+                                       href="pdf/Best_Practice_SE_text_mining.pdf">2</a>,<a 
+                                       href="pdf/LNPoster2018GREEN.pdf">3</a>,<a 
+                                       href="https://arxiv.org/pdf/1905.07019.pdf">4</a>.<a 
+                                       href="https://arxiv.org/pdf/1905.06390.pdf">5</a>;<br>
+                                     <li>         IBM:<a href= "https://github.com/timm/16/blob/master/matt.pdf">1</a>,<a 
+                                                         href= "https://arxiv.org/pdf/1711.03933.pdf">2</a>,<a 
+                                                         href="https://arxiv.org/pdf/1710.09055.pdf">3</a>,<a 
+                                                         href="https://arxiv.org/pdf/1710.08736.pdf">4</a>;
+            </ul>
+
+           <h2><a name=projects></a><br><i class="fa-solid fa-award"></i> Current Projects</h2>
+            <h3>Funded:</h3>
+            <dl>
+              <dt>NSF1</dt> <dd>What can we learn from 10,000 Projects?<br>$499,000
+                <br> Mr. Rahul Yedida: <a href="https://arxiv.org/search/?query=Rahul+Yedida+tim+menzies&searchtype=all&source=header">papers</a>.
+                <br> Ms. Xueqi Yangs: <a href="https://arxiv.org/search/?query=Xueqi+Yang+tim+menzies&searchtype=all&source=header">papers</a>. </dd>
+              <dt>NSF2</dt> <dd>Empirical SE for computational science<br>$592,000 </dd>
+              <dt>NSF3</dt> <dd>Science of Vulnerability Detection<br>$249,000 </dd>
+              <dt>IBM1</dt> <dd>Designing cloud-based micro-services<br>$40,000
+              </dd>
+              <dt>IBM2</dt> <dd>Racial and Gender Bias Mitigation<br>$40,000 </dd>
+              <dt>LAS</dt> <dd>Using explanations/deep learning to improve deep learning<br>$135,000 </dd>
+              <dt>Facebook</dt> <dd>Good via construction<br>$100,000<br>Can analytics be made fair, by the way it is built?<br>
+                Mr. Andre Lutosa: <a href="https://arxiv.org/search/?searchtype=author&query=Lustosa%2C+A">papers</a>. <br>
+                Mr. Kewen Peng:
+                <a href="https://arxiv.org/search/?query=tim+menzies+kewen+peng&searchtype=all&source=header">papers</a>.
+                <br>
+                Ms. Lauren Alvarez</dd>
+            </dl>
+            <h3>Other:</h3>
+            <dt>Cyberphysical systems</dt> <dd>How to test them?
+              <br> Mr. Xiao Ling: <a href="https://arxiv.org/search/?query=xiao+ling+tim+menzies&searchtype=all&source=header">papers</a>. </dd>
+
+
+           <h2><a name=research></a><br><i class="fa fa-vial"></i> Simpler solutions to seemingly hard problems.</h2>
+
+            <img width=200 align=left src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/14338.png"><p>
+            <p><b>William James:</b> The art of being wise is the art of knowing what to overlook.<br>
+            <b>William of Occam:</b> It is vain to do with more what can be done with less.<br>
+            <b>Leonardo da Vinci:</b> Simplicity is the ultimate sophistication.<br>
+            <b>Edsger W. Dijkstra:</b> Simplicity is prerequisite for reliability.<br>
+            <b>Dieter Rams:</b> Less is more.<br>
+            <b>timm:</b> less, plz
+            </p>
+<br clear=all>
+            <img src="https://www.manhattanprojectvoices.org/sites/default/files/John%20Wheeler01.jpg" width=200 align=right>
+            <p>
+            The physicist John Archibald Wheeler advised
+            that "in any field, find the strangest thing and
+            explore it." Accordingly, I explore the
+            strangest thing about software—that it ever
+            works at all.
+            <p>
+            Modern software is so complex that it should never
+            work.
+            So why aren't our incomplete test methods missing all too many critical errors?
+
+            My research keep showing is that most software systems
+            have 
+            "keys"; i.e.
+            a few variables that
+            control the rest. Outside SE, I have
+            seen keys in <a href="https://www.ajpmonline.org/article/S0749-3797(15)00253-6/fulltext">hospital nutrition analysis</a> 
+            and <a href="https://greg4cr.github.io/pdf/10tar3.pdf">avionics control systems</a>. 
+            Within SE, I’ve found keys while doing analytics for:
+            <ul>
+              <li>
+                requirements <a href="https://menzies.us/pdf/02re02.pdf">models for NASA</a>
+                <li>
+                  deep-space missions and <a href="https://arxiv.org/pdf/1702.05568.pdf">information systems for university
+                    departments>/a>;
+                    <li> <a href="https://menzies.us/pdf/06learnPredict.pdf">defect-prediction</a> data sets;
+                      <li> <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.224.6150&rep=rep1&type=pdf">effort estimation models</a>;
+                        <li> numerous <a href="https://ieeexplore.ieee.org/ielaam/32/7297896/7105950-aam.pdf">software process
+                            models</a>
+            </ul>
+            <p>
+            Outside SE, there is a long history
+            of researchers reporting effects that
+            are similar to the keys effect, dating all the way back to 1901 (see the
+            first paper on principal components
+            analysis). Since then, what I would
+            call "key” have been reported many
+            times in the AI literature. For example, data mining researchers report that most rows and columns in
+            a data set can be discarded without
+            losing the signals in those data.
+            Also, when a randomized search
+            is repeated many times, there is often a small number of variable settings shared by all solutions (which
+            I would call "keys"). Furthermore, 
+            when researchers set those variables
+            initially, then formerly exponential runtimes collapsed to low-order
+            polynomial time.
+            <p>
+            Regardless of whether we are talking about AI or SE, 
+            when systems consist of just a
+            few keys, then it is very simple to
+            audit, understand, and modify
+            them. 
+            For example, effective defect prediction or effort estimation is possible using less than
+            <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.224.6150&rep=rep1&type=pdf">half a dozen variables</a>;
+            Additionally, configuring complex systems
+            is often <a href="https://arxiv.org/pdf/1801.02175.pdf">remarkably simple and effective</a> and can be achieved using
+            very small decision trees that require
+            only a few variables. 
+            Furthermore,
+            by generating tests only for the main
+            branches in the code, even applications that process large cloud
+            databases can be tested via 
+            <a href="https://rohan.padhye.org/files/bigfuzz-ase20.pdf">just a few
+              dozen inputs</a>.
+            Hence, one reason to
+            explore keys is to create ethical
+            systems that enable community
+            reflection and modification for
+            AI software.
+            <p>
+            In any case, for decades, I've been applying the following heuristic:
+            <ul>
+              <li> If it works ...
+                <li> ... throw something away and see if the simpler system works.
+            </ul>
+            Dozens of my Ph.D. students have successfully applied this heuristic in their Ph.D.'s to find solutions
+            that out-perform the state-of-the-art:
+            <ul>
+              <li>Configuration of <a href="https://arxiv.org/pdf/1708.08127.pdf">cloud computing environments</a>;
+                <li>Deep learners <a href="https://arxiv.org/pdf/2202.01322.pdf">for SE</a>
+                  <li>Reading the literature, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417422003852">very rapidly</a>
+                    <li>Studying thousands of projects to find a small number of <a href="https://arxiv.org/pdf/1911.04250.pdf">most representative projects</a>
+                      <li>Helping people finding the core variables inside <a href="https://arxiv.org/pdf/2110.02922.pdf">complex models</a>
+                        <li>Building fairer <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7htTUTgmLtUC&sortby=pubdate&citation_for_view=7htTUTgmLtUC:WMtz-WDmgKQC">predictive models</a>
+                          <li>Building models using only a <a href="https://arxiv.org/pdf/2108.09847.pdf">small fraction of the labels</a>
+                            <li>Tuning complex models <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=7htTUTgmLtUC&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=7htTUTgmLtUC:AFmTUeZ1pmEC">very quickly</a>
+                              <li>Finding ways to dodge evil AI trying to <a href="https://arxiv.org/pdf/2011.12720.pdf">inject you with a virus</a>
+                                <li>And more applications as well...
+            </ul>
+
+
+
+
+
+            <hr> <a name="nomination"></a><br><h2> <i class="fa-solid fa-award"></i> IEEE Fellow Nomination (2018)</h2></a>
+
+            <img src="https://4leafclover1343.files.wordpress.com/2014/06/9d5a27b07c3749105a2a730a234339f3.jpg" align=right width=300><p><em>(With apologies for excess hyperbole...)</em></p>
+
+            <p>Internationally known for revolutionary advances exploring the synergy between artificial intelligence (AI) and software engineering (SE), Dr. Menzies has authored four books and over 260 refereed publications. His publications, with over 9000 citations, have appeared in leading journals and proceedings of prestigious conferences. He has supervised seven students earning PhDs and 23 MS thesis students. Dr. Menzies' distinctive contributions have had enormous impact for SE researchers and practitioners in software quality prediction and software optimization.</p>
+
+
+            <h3>SOFTWARE QUALITY PREDICTION</h3>
+            <p>Because software plays a critical role in industry, government, and society itself, improving software quality is critical. In landmark papers in 2006 and 2007, Dr. Menzies was an early pioneer in applying data mining and AI to software quality predictors, introducing a method which identified software modules likely to contain defects. This method had a 71 percent mean probability of defect detection, significantly higher than the code inspections commonly used in software practice.</p>
+
+            <p>In his software quality prediction research, Dr. Menzies identified a serious problem: often, the analysis in SE papers is not reproducible because data underlying the analysis is unavailable. To address this problem, Dr. Menzies developed PROMISE, a public data repository of software data, in 2005 publishing a paper introducing PROMISE and co-founding the PROMISE workshop, so successful it became a conference in 2008. Today, the PROMISE repository contains hundreds of data sets used in thousands of papers by researchers around the world.</p>
+
+            <h3>OPTIMIZATION OF SOFTWARE-INTENSIVE SYSTEMS</h3>
+
+            <p> Dr. Menzies is a pioneer in applying data miners to optimize software-intensive systems. In 2002, he discovered that analyzing such systems with data miners augmented with genetic algorithms led to faster analysis and better optimizations. Even for systems with millions of configuration options, Dr. Menzies' optimizers quickly learn how to make code run quicker, make web servers handle more traffic, and compile programs faster. Dr. Menzies' optimizers have been applied at NASA for reasoning about safety-critical aerospace software.</p>
+
+            <p>Dr. Menzies has also applied his optimization techniques to understand the unstructured textual components of software artifacts and software research papers. His was one of the earliest successful efforts applying text mining and AI to the notes
+            of software test engineers. By identifying anomalous reports that required a second opinion, he could increase assurance of NASA systems while reducing the overall effort required to achieve that assurance. Recently, he has designed tools that can review 10,000s of papers to learn the structure of the SE scientific community. These tools can guide researchers and practitioners to find relevant work that might otherwise be overlooked.</p>
+
+            <p>Dr. Menzies' contributions to SE and AI are widely recognized. For his research, in 2017, Dr. Menzies received the MSR (Mining Software Repositories) Foundational Contribution Award as "Recognition of fundamental contributions in the field of data mining software repositories which helped others advance the state of the art." International databases of scholarly achievement rank Dr. Menzies number three world- wide both in software analytics and in SE and data mining. Recently, Dr. Menzies clustered 35,000 papers from the last 25 years of top-SE journals and conferences. In the "software metrics" cluster, Dr. Menzies is the top-ranked author. In the papers from top-ranked venues, Dr. Menzies' h-index of 48 places him number 11 overall.</p>
+
+            <p>Dr. Menzies' contributions have had world-wide impact in software practice. In 2005, Turkish researchers found that when commercial teams restricted code inspections to 25 percent of the files identified by Dr. Menzies' methods, they detected 88 percent of the existing code defects. In 2005, his students commercialized his defect detection methods in the Predictive tool suite, subsequently purchased by companies such as Chevron, Northrop Grumman, LogLogic, Inc., and Compagnie Financière Alcatel, to find code defects. In 2017, the US Software Engineering Institute used Dr. Menzies' optimizers to guide discussions about costly updates to Department of Defense software.</p>
+
+            <p> NASA has benefited enormously from Dr. Menzies' research. In 2005, as science chair at a NASA facility, he received a commendation award from NASA's Chief of Mission Assurance saying: "...A great researcher in his own right, ...Tim has raised the bar on quality and level of work [expected] from our researchers." NASA used his algorithms in 2008 to find violations in Space Shuttle launch requirements; in 2010, to quickly explore the design of next-generation new Air Traffic Management concepts; and in 2017 to find better monitoring strategies for pilots flying planes in safety-critical situations. In 2016, based on Dr. Menzies' research, NASA's Jet Propulsion Laboratory created the NASA Analogy Software Cost Model as its official tool for predicting software development costs.</p>
+
+            <h3>Evidence of Technical Accomplishment</h3>
+
+
+            <ul>
+              <li><p><em>Tim Menzies, Jeremy Greenwald, Art Frank, "Data mining static code attributes to learn defect predictors," IEEE Transactions on Software Engineering, Vol. 33 (1), 2-13, 2007.</em>
+                Dr. Menzies is a pioneer in the development of predictors of software quality learned from data miners. A notable finding of this paper is that Dr. Menzies' methods (including decision trees and Bayesian learning) have a 71 percent mean probability of defect detection--a rate significantly higher than human manual inspections. The paper, with more than 920 Google Scholar citations, is one of the 100 most cited papers in software engineering. Moreover, nine of the 50 most cited papers in the IEEE Transactions
+                on SE (2012-2017) use methods and/or data from the databases used by this paper. Methods for software defect prediction introduced in the paper have been applied
+                commercially around the world. In this paper, Dr. Menzies was the lead researcher -he defined the problem, the technical approach, and designed and coded all of the experiments.</p></li>
+              <li><p><em>Martin S. Feather and Tim Menzies, "Converging on the optimal attainment of requirements," Proceedings, IEEE Joint International Conference on Requirements Engineering, 2002.</em>
+                Although optimization methods for numerical systems have been used widely, applying these methods is often ineffective in complex software systems where each "if" statement divides the software into regions with different properties. For software,
+                Dr. Menzies found that applying non-numeric optimizers, e.g., simulated annealing
+                or genetic algorithms, is effective. This paper is the first of its kind to reason about solutions to software requirement problems on the Pareto frontier. As witnessed by many papers in the last two years, this method is now widely used by researchers in the software requirements community. For this paper, Dr. Menzies led the AI-part of the research, and designed and implemented the AI algorithm used in the analysis.</p></li>
+              <li><p><em>Tim Menzies, Andrian Marcus, "Automated severity assessment of software defect reports," IEEE International Conference on Software Maintenance," 2008.</em>
+                This paper, with over 185 citations, describes one of the earliest successful efforts applying text mining methods to the notes of software test engineers. The method introduced in the paper identifies anomalous reports requiring a second opinion, thus increasing software quality assurance while reducing the overall effort required to achieve that assurance. For this work, Dr. Menzies was the lead researcher, defining the overall vision of the paper, as well as building the tools and running all of the experiments.</p></li>
+            </ul>
+
+            <h3>Natural Language Understanding</h3>
+
+            <ul>
+              <li><em>Zhe Yu, Nicholas Kraft, Tim Menzies "Finding Better Active Learners for Faster Literature Reviews". Empirical SE Journal, to appear 2018.</em>
+                This is the first SE application using incremental text mining methods to learn what a reader wants to read. Dr. Menzies showed that a) supposed state-of-the-art text miners from other domains perform poorly for SE, and b) a new method called FASTREAD can quickly guide researchers and practitioners to relevant work that might otherwise be overlooked.
+                Achieving Generalizability in Software Engineering Research</li>
+              <li><em>Burak Turhan, Tim Menzies, Ayse Basar Bener, Justin S. Di Stefano, "On the relative value of cross-company and within-company data for defect prediction," Empirical SE, vol. 38(6), 1403-1416, 2012.</em>
+                This paper shows that useful models for a project can be built by carefully selecting the most relevant examples from other projects. The paper, with more than 180 citations, is one of the five most cited articles of all time in the Empirical SE journal.</li>
+            </ul>
+
+            <h3>Adjusting Learners to Human Needs</h3>
+
+            <ul>
+              <li><em>Abdel Salam Sayyad, Tim Menzies, and Hany Ammar, "On the value of user preferences in search-based software engineering: A case study in software product lines", International Conference on Software Engineering, 2013.</em>
+                This paper (134 citations) shows that while most, but not all, optimizers used in software engineering are highly insensitive to complex sets of user preferences, for complex requirements problems, goal-aware reasoning can achieve much better results than standard optimizers used in software engineering.</li>
+              <li><em>Abdel Salam Sayyad, Joseph Ingram, Tim Menzies, Hany Ammar, "Scalable product line configuration: A straw to break the camel's back". Automated Software Engineering Conference, 2013.</em>
+                This paper (86 citations.), which extends the previous paper, is one of the five most cited papers in the IEEE Automated Software Engineering Conference in the last five years. By exploiting the richness of human preferences, the method introduced in this paper can extract usable designs from a space of thousands of goals and hundreds of thousands of constraints.
+                Learning Using Many Opinions</li>
+              <li><em>E Kocaguneli, Tim Menzies, JW Keung, "On the value of ensemble effort estimation," IEEE Transactions on Software Engineering, Vol. 38(6), 1403-1416, 2012.</em>
+                Even though ensemble techniques are widely applied in other domains, they are rarely used in SE. This paper ( 140 citations) showed that any single predictor was less trustworthy than using twelve elite models implemented from an ensemble of 90 learners.</li>
+            </ul>
+
+            <h3>Uncovering Errors in Data Mining</h3>
+
+            <ul>
+              <li><em>Tim Menzies, Alex Dekhtyar, Justin Di Stefano, Jeremy Greenwald, "Problems with precision" IEEE Trans SE, 2007.</em>
+                In this paper (155 citations), Dr. Menzies describes a previously undocumented, subtle, and dangerous aspect of precision in a widely-used performance measure. Curiously, this problem had not been previously reported despite the measure's widespread use.</li>
+            </ul>
+
+            <h3>Better Optimizers Using Data Miners</h3>
+
+            <ul>
+              <li><em>Tim Menzies, Zach Milton, Burak Turhan, Bojan Cukic, Yue Jiang, Ayse Basar Bener, "Defect prediction from static code features: Current results, limitations, new approaches". Automated Software Engineering, 2010.</em>
+                This paper (197 citations) introduces "WHICH" a meta-learner framework that can be quickly customized for different business goals. Measured in terms of specific user goals, WHICH performs better that many standard learners.
+                Human-Understandable Data Mining Results</li>
+              <li><em>Tim Menzies, Ying Hu, "Data mining for very busy people", IEEE Computer, Vol. 36(11), 2003.</em>
+                Cognitive scientists and researchers studying human decision-making note that humans often use simple models rather than complex ones. This paper (132 citations) describes Dr. Menzies' TAR2 data miner which generates tiny human-readable models, useful for describing to humans many seemingly complex software engineering problems.</li>
+            </ul>
+            <hr>
+
+
+</div>
+</body>
+</html>
