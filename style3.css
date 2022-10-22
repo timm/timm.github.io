@@ -55,7 +55,7 @@ hr{ border: 0 none;
     color: #DDD; /* old IE */
     background-color: #EEE; /* Modern Browsers */
 }
-#dim { background-color: #ddd; }
+#dim { background-color: #EDEEF2; }
 .button-menu {
    font-size: small;
 	 color: #fff; margin: 2px; padding:3px;
