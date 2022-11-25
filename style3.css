@@ -22,6 +22,7 @@ html, body { height: 100%; }
 #right{
 	line-height: 1.3;
 	margin-left: 260px; 
+	max-width: 1000px; 
 	background:cream;
 	padding-top: 25px;
 	padding-right: 20px;
