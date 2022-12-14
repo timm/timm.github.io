@@ -34,27 +34,26 @@
         <img align=right style="margin-left:5px;" width=100 src="https://www.csc.ncsu.edu/directories/photos/tjmenzie.jpg">
             <p>Tim Menzies (IEEE Fellow, Ph.D., UNSW, 1995) is a full Professor in CS at North Carolina State University where he teaches software engineering, automated software engineering, and foundations of software science. 
             He is the directory of the RAISE lab (real world AI for SE) and
-            the author of over 280 referred publications. In his career, he has supervised 20 Ph.D. students,
-            and has been a lead researcher on projects for NSF, NIJ, DoD, NASA, USDA (funding totalling over 13 million dollars) as well as joint research work with private companies. 
+            the author of over 280 referred publications. In his career, he has been a lead researcher on projects for NSF, NIJ, DoD, NASA, USDA (funding totalling over 13 million dollars) as well as joint research work with private companies. 
             Prof. Menzies is the editor-in-chief of the Automated Software Engineering journal and associate editor of IEEE Transactions on Software Engineering (and other leading SE journals).
             For more, see his web site <a href="http://menzies.us">http://menzies.us</a> or the text of his successful <a href="#nomination">IEEE Fellow nomination</a><br><p>
            <h3>News</h3>
-          <ul>
-            <li id="dim"> <b>Dec'22</b>: invited as a "Future of SE" speaker, for ICSE'23</li>
-            <li id=""> <b>Dec'22</b>: invited to IJCAI'23 program committee;</li>
-            <li id="dim"> <b>Dec'22</b>: departmental newsletter on my SE subject: <a href="https://www.csc.ncsu.edu/news/2498">Making the Pitch!</a></li>
-            <li id=""> <b>Dec'22</b>: 2022 papers = <a href="https://dblp.org/pid/m/TimMenzies.html">TSE*7 + EMSE*5 + MSR*3 + other*3</a> </li>
-            <li id="dim"> <b>Dec'22</b>: 2022 funding = $220K (new) + $2.5M (on-going);</li>
-            <li id=""> <b>Dec'22</b>: 2022 Ph.D.s = 1 (new) + 5 (completed) + 5 (on-going);</li>
-            <li id="dim"> <b>Dec'22</b>: invite talk, RIT</b>: Refactoring AI for SE</a></li>
-            <li id=""> <b>Nov'22</b>: briefing, MSR'23</b>: <a href="http://tiny.cc/22review">Reviewer 2: Go F’yourself (not) </a></li>
-            <li id="dim"> <b>Nov'22</b>: keynote, SSBSE'21</b>: <a href="http://tiny.cc/22search">Future of (S)SBSE</a> </li>
-            <li id=""> <b>Nov'22</b>: keynote, ISSRE</b>: <a href="http://tiny.cc/22issre">How to refactor AI (for SE)</a> </li>
-          <li id="dim"> <b>Nov'22</b>: invited, PC member, EASE'23</li>
-          <li id=""><b><a href="#priornews">Older  news</a></b></li>
-          </ul><br>
-  <img align=right width=200 src="https://api.time.com/wp-content/uploads/2017/04/kitchener.jpeg">
-              <h3>Looking for a new kind of Ph.D. students. Is it you?</font></h3>
+          </ul>
+              <li id=""> <b>Dec'22</b>: invited to IJCAI'23 program committee;
+              <li id="dim"> <b>Dec'22</b>: departmental newsletter on my SE subject: <a href="https://www.csc.ncsu.edu/news/2498">Making the Pitch!</a>
+              <li id=""> <b>Dec'22</b>: 2022 papers = <a href="https://dblp.org/pid/m/TimMenzies.html">TSE*7 + EMSE*5 + MSR*3 + other*3</a> 
+              <li id="dim"> <b>Dec'22</b>: 2022 funding = $220K (new) + $2.5M (on-going);
+              <li id=""> <b>Dec'22</b>: 2022 Ph.D.s = 1 (new) + 5 (completed) + 5 (on-going);
+              <li id="dim"> <b>Dec'22</b>: invite talk, RIT</b>: Refactoring AI for SE</a>
+              <li id=""> <b>Nov'22</b>: briefing, MSR'23</b>: <a href="http://tiny.cc/22review">Reviewer 2: Go F’yourself (not) </a>
+              <li id="dim"> <b>Nov'22</b>: keynote, SSBSE'21</b>: <a href="http://tiny.cc/22search">Future of (S)SBSE</a> 
+              <li id=""> <b>Nov'22</b>: keynote, ISSRE</b>: <a href="http://tiny.cc/22issre">How to refactor AI (for SE)</a> 
+              <li id="dim"> <b>Nov'22</b>: invited, PC member, EASE'23</li>
+              <li id=""> <b>Oct'22</b>: new TSE journal paper:  <a href="https://arxiv.org/pdf/2110.01109.pdf">FairMask</a>:v.fast multi-attribute fairness</li>
+              <li id="dim"><b><a href="#priornews">Oldeer  news</a></b></li>
+              </ul>
+ <h3>Looking for a new kind of Ph.D. students. Is it you?</h3>
+  <img align=right width=150 src="https://api.time.com/wp-content/uploads/2017/04/kitchener.jpeg">
       <p>I'm genuinely alarmed at SE for AI practices-- a headlong rush to "ship it" without thinking about what "it" is and who it might hurt. So I seek a new kind of Ph.D. student-- 
        someone who is  more reflective, more radical, and wants to use their Ph.D. to explore issues  
        related to fairness, trust, and respect for anyone using software. Sure, that person will
@@ -896,7 +895,6 @@ to https://zenodo.org/deposit/new?c=seacraft.
       </p>
   <i class="fa-solid fa-archive"></i> Prior News</h2>
  <p> <b>Papers:</b> <ul>
-              <li id=""> <b>Oct'22</b>: new TSE journal paper:  <a href="https://arxiv.org/pdf/2110.01109.pdf">FairMask</a>:v.fast multi-attribute fairness</li>
               <li id=""> <b>Oct'22</b>: new TSE journal paper:  <a href="https://arxiv.org/pdf/2110.01109.pdf">FairMask</a>:v.fast multi-attribute fairness</li>
               <li id="dim"> <b>June'22</b>: journal paper: EMSE, Predicting next year's project health, <a href="https://link.springer.com/article/10.1007/s10664-022-10171-0">for 1200 projects</a>.</li>
               <li>...
