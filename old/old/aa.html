@@ -1,0 +1,37 @@
+<html>
+<head>
+
+  <style>
+    .hide { display: none;}
+    
+    </style>
+</head>
+<body>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>  
+  <script>
+    jQuery(function(){
+         jQuery('#showall').click(function(){
+               jQuery('.targetDiv').show();
+        });
+        jQuery('.showSingle').click(function(){
+              jQuery('.targetDiv').hide();
+              jQuery('#div'+$(this).attr('target')).show();
+        });
+    });
+  </script>
+  <div class="buttons">
+        <a  class="showSingle" target="0"></a> |
+    <a  class="showSingle" target="1">Div 1</a> |
+    <a  class="showSingle" target="2">Div 2</a> |
+    <a  class="showSingle" target="3">Div 3</a> |
+    <a  class="showSingle" target="4">Div 4</a>
+  </div>
+
+  <div id="div1" class="hide targetDiv">Lorum Ipsum11</div>
+  <div id="div2" class="hide targetDiv">Lorum Ipsum2</div>
+  <div id="div3" class="hide targetDiv">Lorum Ipsum3</div>
+  <div id="div4" class="hide targetDiv">Lorum Ipsum4</div>
+
+</body>
+</html>
